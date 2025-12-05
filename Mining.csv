@@ -1,26 +1,26 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
 10149a6c-7394-4e3f-bec4-20fa278a69a9,milling.ai,resell,50,76,7,"NameCheap, Inc.",10/04/2025 09:39,10/04/2027 09:39
-c605cc91-cc10-4eaa-9c0c-3a7cce798846,milling.app,available,50,76,7,,,
+c605cc91-cc10-4eaa-9c0c-3a7cce798846,milling.app,premium,50,76,7,,,
 3c7c968d-fde0-410c-b454-04d2f5a41a76,milling.at,available,50,76,7,,,
 7fdec40d-2b7a-48ee-b346-3a0b5d14fca4,milling.cloud,available,50,76,7,,,
 a78866be-807b-4d35-b94b-6f5b43add0ac,milling.com,expiring,50,76,7,1API GmbH,02/08/1996 04:00,01/08/2025 04:00
-a2c6f9f1-0faa-44a0-a8cb-5b11e0e4f63d,milling.dev,available,50,76,7,,,
+a2c6f9f1-0faa-44a0-a8cb-5b11e0e4f63d,milling.dev,premium,50,76,7,,,
 9911ae94-de84-4651-92ba-eb73e0d139b3,milling.expert,available,50,76,7,,,
 8803712e-c502-48c2-8062-92ccc43bcfa0,milling.gg,available,50,76,7,,,
 f01d8349-0547-4e45-b25e-b752ac9448f8,milling.io,resell,50,76,7,Realtime Register B.V.,25/11/2021 07:25,25/11/2025 07:25
 71239dfb-6da2-4ba2-9c77-9d6854f4aa0b,milling.it,expired,50,76,7,,,
 1d996a5f-ce6f-4766-b094-35cb99aafa4c,milling.ninja,available,50,76,7,,,
-62f2237e-42b8-4eda-83d6-11d56e8b8e29,milling.online,available,50,76,7,,,
+62f2237e-42b8-4eda-83d6-11d56e8b8e29,milling.online,premium,50,76,7,,,
 688b02af-d3ed-42e4-8b99-11498eeac849,milling.pro,resell,50,76,7,Epik LLC,12/05/2023 17:00,12/05/2026 17:00
-d13a9d0d-4f2e-4c1b-a05b-2234a5d65cf9,milling.site,available,50,76,7,,,
+d13a9d0d-4f2e-4c1b-a05b-2234a5d65cf9,milling.site,premium,50,76,7,,,
 0af15e39-fcf9-49b1-bc4d-335fa41bbce5,milling.so,available,50,76,7,,,
-b792021e-2f6b-4cf4-8733-15e73fb5181f,milling.space,available,50,76,7,,,
-67240a33-88f1-48da-b1ac-d6fc2f16bbe3,milling.store,available,50,76,7,,,
+b792021e-2f6b-4cf4-8733-15e73fb5181f,milling.space,premium,50,76,7,,,
+67240a33-88f1-48da-b1ac-d6fc2f16bbe3,milling.store,premium,50,76,7,,,
 484f998b-37b1-4b36-8206-873fb943f7d3,milling.us,resell,50,76,7,InternetX GmbH,24/04/2002 15:16,23/04/2026 23:59
 50804c6f-053f-45b4-9350-b019a0d9d07c,milling.xyz,resell,50,76,7,Dynadot LLC,27/09/2019 18:53,27/09/2026 23:59
 b5683a19-680a-47c1-9020-9a4d4c83f1b7,milling.zone,available,50,76,7,,,
-6e263ef8-5ea4-46f4-bbcd-d563374dc9af,screening.cloud,available,70,88,9,,,
-ffb05535-7ac1-465b-985c-3d14f2b28c14,screening.dev,available,70,88,9,,,
+6e263ef8-5ea4-46f4-bbcd-d563374dc9af,screening.cloud,premium,70,88,9,,,
+ffb05535-7ac1-465b-985c-3d14f2b28c14,screening.dev,premium,70,88,9,,,
 20856dca-322f-4cd3-ab75-3c054dfad589,screening.expert,available,70,88,9,,,
 6b287093-d991-4a09-87fa-a57fe936c02e,screening.gg,available,70,88,9,,,
 d8b19c1a-af7c-4966-969f-81b01c540cc7,screening.me,expiring,70,88,9,"GoDaddy.com, LLC",17/07/2008 17:27,17/07/2025 17:27
@@ -531,13 +531,18 @@ a1913844-9a7d-4554-857d-5a46f8159d1c,strip.yachts,available,84,18,5,,,
 93157a72-31af-4c87-870d-aad299ccdd28,strip.zip,available,84,18,5,,,
 51864803-fda1-4f54-a924-8a09ee225d2b,block.at,available,68,88,5,,,
 92d576a1-e4f9-4008-9ece-a7f0526fa66d,block.expert,sold,68,88,5,Dynadot Inc,11/04/2020 01:41,11/04/2026 01:41
-51f7ccfd-417f-4ccc-9a9d-5394cb85f33c,block.it,expiring,68,88,5,,12/07/2017 16:00,12/07/2025 00:00
-f7170328-d55f-4bd7-a843-be81e3bcf844,block.me,resell,68,88,5,"GoDaddy.com, LLC",13/09/2008 16:57,13/09/2025 16:57
+be763666-1483-4195-94de-721de07cbff2,block.im,available,68,,5,,,
+51f7ccfd-417f-4ccc-9a9d-5394cb85f33c,block.it,resell,68,88,5,,12/07/2017 16:00,12/07/2026 00:00
+45a6f0b9-b20e-4058-82f1-325847161dd3,block.la,expiring,68,,5,Dynadot LLC,17/09/2019 22:43,17/09/2025 23:59
+f7170328-d55f-4bd7-a843-be81e3bcf844,block.me,expiring,68,88,5,"GoDaddy.com, LLC",13/09/2008 16:57,13/09/2025 16:57
+c6702ba4-d210-435a-a626-ab82be06916c,block.mx,expired,68,,5,Dynadot Inc,03/09/2018 00:00,03/09/2025 00:00
+c2d079bb-df90-4b50-81db-e6f7ccdf3839,block.my,available,68,,5,,,
 138a8a55-90a6-434d-989b-fc20963afb48,block.online,available,68,88,5,,,
 76d8272e-4441-4fd6-b1f8-040bf2f20508,block.site,available,68,88,5,,,
 2f157383-91f4-4791-b390-fb58ded097e7,block.space,available,68,88,5,,,
 f9c99191-f1cf-4342-88aa-8d9bb0d3ae52,block.store,available,68,88,5,,,
 818dcb8a-fb3d-4862-a988-4393fad4c610,block.tech,available,68,88,5,,,
+0851e2e6-ade1-43fd-a3e7-1f0a814cf4c6,block.us,resell,68,,5,"GoDaddy.com, LLC",24/04/2002 14:43,23/04/2026 23:59
 027fb1d1-aeda-43ff-9e7e-9be95adc706c,solution.at,sold,86,96,8,InterNetX GmbH ( https://nic.at/registrar/80 ),,
 2659b347-d3ff-48ea-b12e-32f89d179057,solution.cloud,available,86,96,8,,,
 85d1e87f-226c-4e27-8b31-08ef6fbb5b55,solution.dev,available,86,96,8,,,
@@ -556,6 +561,14 @@ edcd9f42-942d-4797-9d52-d4e580afcbb3,heap.online,available,54,84,4,,,
 73bb4c3d-c3b7-4478-a381-b75becd83a75,heap.site,available,54,84,4,,,
 fec5ab85-a83f-4b43-ba7b-d28cb196ed0f,heap.so,available,54,84,4,,,
 b08257b1-4114-4193-bd5b-1633bcfd5d89,heap.xyz,sold,54,84,4,Dynadot LLC,24/04/2017 18:28,24/04/2027 23:59
+06abb0b4-333a-4ec9-abeb-8acca17c104d,gravity.at,available,64,80,7,,,
+a96369d3-dad7-4380-b680-99a303d5db97,gravity.co,expiring,64,80,7,"GoDaddy.com, LLC",20/07/2010 18:00,19/07/2025 23:59
+41ac06e7-05e9-439f-846a-90fa381df135,gravity.it,resell,64,80,7,,15/02/2012 04:27,14/02/2026 00:00
+97854766-a894-4931-88d5-3bf179bcb8d3,gravity.me,expiring,64,80,7,"GoDaddy.com, LLC",21/07/2008 03:13,21/07/2025 03:13
+d8b964f8-418f-4307-8ad6-19cb9f928d78,gravity.org,resell,64,80,7,"GoDaddy.com, LLC",05/06/2003 14:04,05/06/2027 14:04
+7aed18e0-d355-454e-8dcb-a6131ef51d0d,gravity.so,resell,64,80,7,NameCheap,15/08/2020 22:28,15/08/2025 22:28
+f9b0d712-9a44-4a69-88c1-9b7d0b807530,gravity.space,available,64,80,7,,,
+dd4f117f-4e75-47e0-a697-e6cdb86436fd,gravity.store,available,64,80,7,,,
 1e55ca78-b07c-4139-8ef1-ad4920c9d4b7,flotation.ai,available,54,72,9,,,
 8d946c18-9c24-4b4b-8699-e6aa9bc8563b,flotation.at,available,54,72,9,,,
 76d5660b-619e-4813-b8de-c88d3e9d803a,flotation.cloud,available,54,72,9,,,
@@ -586,14 +599,6 @@ c5b6064b-df6a-4949-82c1-2856c9d96e3a,froth.pro,available,84,88,5,,,
 4055d153-eafb-4b2b-92da-65cc3fa4010c,froth.so,available,84,88,5,,,
 f06c3897-238d-4ed1-b1f8-07903fa48543,froth.space,available,84,88,5,,,
 8599e3a5-77c3-4c64-aec9-931943752986,froth.xyz,resell,84,88,5,Dynadot LLC,09/03/2021 10:06,09/03/2026 23:59
-06abb0b4-333a-4ec9-abeb-8acca17c104d,gravity.at,available,64,80,7,,,
-a96369d3-dad7-4380-b680-99a303d5db97,gravity.co,expiring,64,80,7,"GoDaddy.com, LLC",20/07/2010 18:00,19/07/2025 23:59
-41ac06e7-05e9-439f-846a-90fa381df135,gravity.it,resell,64,80,7,,15/02/2012 04:27,14/02/2026 00:00
-97854766-a894-4931-88d5-3bf179bcb8d3,gravity.me,expiring,64,80,7,"GoDaddy.com, LLC",21/07/2008 03:13,21/07/2025 03:13
-d8b964f8-418f-4307-8ad6-19cb9f928d78,gravity.org,resell,64,80,7,"GoDaddy.com, LLC",05/06/2003 14:04,05/06/2027 14:04
-7aed18e0-d355-454e-8dcb-a6131ef51d0d,gravity.so,resell,64,80,7,NameCheap,15/08/2020 22:28,15/08/2025 22:28
-f9b0d712-9a44-4a69-88c1-9b7d0b807530,gravity.space,available,64,80,7,,,
-dd4f117f-4e75-47e0-a697-e6cdb86436fd,gravity.store,available,64,80,7,,,
 3a04ed9e-af47-49f3-9f6e-44b31d6bb57d,magnetic.ai,resell,60,84,8,Deep Vision Architects,16/12/2017 00:49,16/11/2025 00:49
 0ec27e60-8643-4814-b90b-d7dd0289c651,magnetic.at,available,60,84,8,,,
 f0ccda37-0e0c-41f9-b7a6-626fb9b725ec,magnetic.gg,resell,60,84,8,Enrapture Limited (https://enrapture.gg),,
@@ -680,322 +685,317 @@ baa8a039-ba99-4e3e-82ca-f919ad11ba72,copper.space,available,54,92,6,,,
 645cea7d-0f30-4d94-901e-44a6126c88e9,copper.store,available,54,92,6,,,
 24923b08-543f-4a99-b52f-8b2d2fdf4657,copper.tech,available,54,92,6,,,
 2dabad68-582f-4cae-ab4c-2853e82ec391,copper.us,resell,54,92,6,"GoDaddy.com, LLC",09/07/2012 18:03,08/07/2026 23:59
-5ebc08c6-1a8c-43ec-9b74-3e9141b47e56,gold.ac,available,72,41,4,,,
-14e73dd3-6050-466e-a536-a6a0c85327cb,gold.accountant,available,72,41,4,,,
-153ba984-fcb9-4402-bd44-f13fb9e90b78,gold.accountants,available,72,41,4,,,
-446859e1-3e68-4427-9320-401cb6eb8017,gold.adult,available,72,41,4,,,
-35a52d98-17ab-4438-8005-b1486bfa4520,gold.airforce,available,72,41,4,,,
-03c853e8-7a6a-40e1-b2b9-a3302181ed6b,gold.apartments,available,72,41,4,,,
-4b503620-d2e0-4048-bb25-bd26e6353a36,gold.app,sold,72,41,4,united-domains AG,05/08/2019 07:37,05/08/2026 07:37
-a020e32f-2178-48b0-8ff0-670934bd5856,gold.art,available,72,41,4,,,
-f7b7ced4-dbf2-48c7-8601-d02fbfc30b33,gold.asia,resell,72,41,4,1API GmbH,06/02/2009 11:02,06/02/2026 11:02
-1c20bd3a-997c-44bc-81d3-506246b09e3a,gold.associates,available,72,41,4,,,
-8c084e46-95e6-45ef-9c59-528941f69cbf,gold.attorney,available,72,41,4,,,
-ac154237-9149-408a-b4e0-b3d45836cad4,gold.auction,available,72,41,4,,,
-7e9e574a-dd30-4215-92d8-65273ae37bbe,gold.auto,available,72,41,4,,,
-b6ef98d5-fdde-4ef2-86a2-7fba91fe53f6,gold.autos,available,72,41,4,,,
-03ab340f-8995-46b5-a964-fa15ab781299,gold.baby,available,72,41,4,,,
-bd3529c7-e0c9-458c-b5ca-654d700fcf29,gold.bar,available,72,41,4,,,
-1d8bcc5c-fd3c-4aaf-9de3-6e4f090736d0,gold.bargains,available,72,41,4,,,
-9e522b1f-0988-4d89-b74b-c945c09fd04e,gold.beauty,available,72,41,4,,,
-a173585d-c205-487c-b73c-24cfd22dfe53,gold.beer,expiring,72,41,4,EuroDNS SA,25/09/2014 16:00,25/09/2025 16:00
-cc222cbc-6573-45d3-be8c-eb3a675b8811,gold.berlin,resell,72,41,4,,18/03/2014 17:57,18/03/2026 17:57
-0442207a-925d-4158-a63b-33da1db9c170,gold.best,expiring,72,41,4,Dynadot LLC,14/09/2018 23:28,14/09/2025 23:59
-2e7b89e3-678f-46f5-a436-c3bb4974bdd1,gold.bet,resell,72,41,4,"Name.com, Inc.",03/03/2016 16:02,03/03/2026 16:02
-e836fe27-bb03-4a5f-ba5d-8b222bf198dc,gold.bid,resell,72,41,4,Porkbun,26/07/2019 14:37,26/07/2026 14:37
-cc799a07-60aa-41cd-a41e-12647c7f5b39,gold.bingo,available,72,41,4,,,
-7dca2e7a-2631-4b26-a576-1ca9aa978063,gold.black,resell,72,41,4,"Xiamen ChinaSource Internet Service Co., Ltd",22/07/2025 15:15,22/07/2026 15:15
-c4fdf04b-3c59-41c9-a434-5a6bdd882cee,gold.blackfriday,available,72,41,4,,,
-4193a974-0039-476a-92ef-d8b5b9da4aec,gold.blog,available,72,41,4,,,
-07f3b4b7-7e23-4e1f-916c-f6d593586e8c,gold.blue,resell,72,41,4,"DNSPod, Inc.",20/07/2016 10:09,20/07/2030 10:09
-90a9fd18-4f0c-4c99-b402-86c8f6dcb2e1,gold.boats,available,72,41,4,,,
-4e1aa680-2c1b-4a01-b48b-e92a13be7131,gold.bond,resell,72,41,4,"Porkbun, LLC",15/05/2020 23:45,15/05/2026 23:59
-e1893af4-5958-4711-bb41-b4367826ce28,gold.boo,available,72,41,4,,,
-8e4351af-c5e1-4445-bca2-2a5f6b9a5cea,gold.boston,expiring,72,41,4,Dynadot Inc,03/09/2021 12:46,03/09/2025 12:46
-bf79ffd6-5762-43e0-99fa-7fb22488ef16,gold.buzz,available,72,41,4,,,
-bce78967-ae2f-45f9-9f8a-f5c5ef49af10,gold.cab,available,72,41,4,,,
-375fa42c-c02a-4d83-bde3-b38e4496c593,gold.cam,available,72,41,4,,,
-ce1fffb9-042d-4584-add4-a8651c9868fc,gold.camera,available,72,41,4,,,
-73c34ac5-01ad-4304-90a5-a4456a738a0a,gold.camp,expiring,72,41,4,"Sav.com, LLC - 30",16/09/2024 17:00,16/09/2025 17:00
-89105999-2ecf-4fd2-8fe1-abce59d644db,gold.car,available,72,41,4,,,
-e409f9b6-4c76-4cd0-b8bb-99c750526169,gold.cars,available,72,41,4,,,
-81e16063-39f4-49e4-ae33-5acec7dc2cac,gold.catering,available,72,41,4,,,
-85c3dcd7-62c1-4c93-92b1-4b7a730ff1b5,gold.center,resell,72,41,4,"NameCheap, Inc.",15/09/2023 15:15,15/09/2026 15:15
-9fa3b7a6-5392-4b6c-aad5-bc36ad6319bf,gold.ceo,resell,72,41,4,Namecheap,09/03/2021 01:24,09/03/2026 23:59
-c12d4c8b-e5e6-42d6-b51d-62163185ebe9,gold.cfd,resell,72,41,4,Dynadot LLC,06/07/2022 22:49,06/07/2026 23:59
-d0012daa-53b7-469d-8a15-d3a31e0758ea,gold.charity,available,72,41,4,,,
-21902664-5355-49fa-b1c9-b37177c63d5c,gold.cheap,resell,72,41,4,"NameCheap, Inc.",30/07/2015 19:25,30/07/2026 19:25
-9ea38e04-8224-4340-a56d-9c7bf37979d2,gold.christmas,available,72,41,4,,,
-780602f6-0c9f-4cef-8f1b-c2d0ed6e4a7d,gold.claims,available,72,41,4,,,
-b4064a92-df46-479b-bb46-7f6fcd65ea49,gold.cleaning,available,72,41,4,,,
-80c5e13a-60fd-4912-aa37-2f2f9b8c1bc7,gold.click,resell,72,41,4,"Dynadot, LLC",25/11/2014 16:00,25/11/2025 16:00
-4b716e76-2cb9-4335-9a1f-7b9bd9c01b20,gold.clothing,resell,72,41,4,"GoDaddy.com, LLC",28/05/2024 12:02,28/05/2026 12:02
-f609b38a-ea29-4f30-825a-70767f91e709,gold.cloud,available,72,41,4,,,
-3357986e-14f7-40df-ae59-7de487b98c60,gold.club,resell,72,41,4,"GoDaddy.com, LLC",10/07/2014 19:39,09/07/2026 23:59
-d855e0c2-d682-4ca5-aa25-87406a464541,gold.college,available,72,41,4,,,
-aab421d1-c085-4c2a-a94c-5b5ee0e65389,gold.condos,available,72,41,4,,,
-6ab03324-d08c-471c-a590-c877c16553c6,gold.consulting,resell,72,41,4,"Sav.com, LLC",06/10/2017 07:30,06/10/2025 07:30
-a08cf3a7-3b86-45fe-9b6b-551aa1443f23,gold.cooking,available,72,41,4,,,
-3ef3b0bb-5cf1-4138-bf46-1cc6226b29aa,gold.cool,resell,72,41,4,"DNSPod, Inc.",05/12/2017 03:44,05/12/2030 03:44
-982f03e8-4489-42b1-8459-ede803e68259,gold.country,available,72,41,4,,,
-8b1de39e-e582-43b2-ad7d-822d4587fc47,gold.coupons,expiring,72,41,4,101domain GRS Limited,28/08/2015 21:23,28/08/2025 21:23
-c9b5df46-22f9-4cd5-becc-329b2c984cf4,gold.cricket,available,72,41,4,,,
-24191d83-f207-4d33-b3ad-f16fa64cf6dc,gold.cv,available,72,41,4,,,
-3274c21d-6b41-4d7e-aa33-a47ecf79a03e,gold.cyou,expiring,72,41,4,Dynadot LLC,07/09/2021 02:55,07/09/2025 23:59
-50a8ae94-bd4a-47e8-b12b-3c95615306ec,gold.dad,available,72,41,4,,,
-79d3a5b9-941f-47f6-a174-47050f2e4a42,gold.dance,available,72,41,4,,,
-f5fa6729-a875-409f-aa4f-6c7669a40d64,gold.date,available,72,41,4,,,
-31566b4e-ca00-4ddf-acf1-70fe93b032b8,gold.day,available,72,41,4,,,
-5e64dcdc-9291-4113-8c33-e679fdf2bf82,gold.dealer,available,72,41,4,,,
-23c27e79-0c37-4d59-94ed-ff78cccd55f3,gold.degree,resell,72,41,4,"GoDaddy.com, LLC",31/07/2025 18:22,31/07/2026 18:22
-d56e8996-1ddd-4f76-8e73-2a270d2dd02d,gold.delivery,available,72,41,4,,,
-000ba6ff-0b6e-472a-8413-2f5ef6db75a4,gold.democrat,available,72,41,4,,,
-3ec7e275-3896-4f33-a538-873760587ed8,gold.dental,available,72,41,4,,,
-b714d2e5-c0cd-44ef-8e53-cc6fff34c478,gold.dentist,available,72,41,4,,,
-1f40f2a2-0e69-4bff-805e-0d0fe401df8c,gold.design,available,72,41,4,,,
-171f9ac1-3617-440d-820a-f7acebb05214,gold.dev,available,72,41,4,,,
-55cb2008-5b41-4d79-a0b0-6466bdb2655d,gold.diet,available,72,41,4,,,
-3725aab0-66ea-4b78-b946-b1e3498f5bcc,gold.directory,expired,72,41,4,"GoDaddy.com, LLC",22/06/2019 11:32,22/06/2025 11:32
-8e6daa0b-57c8-4979-b0f9-46c164de76fa,gold.discount,available,72,41,4,,,
-491ae012-599a-4731-b1bb-e0851ecee0db,gold.diy,available,72,41,4,,,
-7dc99ff8-cb54-4a58-8f1d-9265484a90e0,gold.doctor,resell,72,41,4,"Blue Razor Domains, LLC",02/11/2016 16:00,02/11/2025 16:00
-0faa7b2e-82ab-4cb3-8c3d-e3a1aa7f6c66,gold.dog,available,72,41,4,,,
-2faf016e-4808-4fca-b0b2-34a2ea548268,gold.engineering,available,72,41,4,,,
-c2272510-6526-4842-90de-c670b782ab5e,gold.esq,available,72,41,4,,,
-5538878a-df89-4529-9dd5-211a6b49022c,gold.exchange,resell,72,41,4,"GoDaddy.com, LLC",30/08/2015 16:00,30/08/2026 16:00
-afe1117a-7760-4629-a721-0e82380712cf,gold.expert,sold,72,41,4,"GoDaddy.com, LLC",15/07/2015 16:00,15/07/2026 16:00
-af0dcbdc-85ca-47b1-a517-168727d318a7,gold.exposed,available,72,41,4,,,
-1f8455ef-5387-4ae7-914b-72e46ce9a707,gold.fail,available,72,41,4,,,
-aa2c6299-40fc-422e-9a86-3178a8366664,gold.faith,available,72,41,4,,,
-22860237-6b68-4af0-8af7-716879e907a5,gold.fashion,available,72,41,4,,,
-b3d22852-90e2-490b-bb68-7a967558e1a6,gold.fishing,resell,72,41,4,"GoDaddy.com, LLC",31/07/2025 18:21,31/07/2026 18:21
-25c4544f-1cb5-4c70-8445-291167ec815d,gold.fitness,available,72,41,4,,,
-f4d057ff-67c6-4664-9e5a-bc68e0cea11f,gold.flowers,available,72,41,4,,,
-7e3a4e4e-018b-48f5-944a-cc73293ad37c,gold.foo,available,72,41,4,,,
-f0c79b35-6933-4ff4-b0ae-a2406b62e7e1,gold.food,available,72,41,4,,,
-f77dd765-d347-4c9e-aae1-5055f047156c,gold.football,expired,72,41,4,"HOSTINGER operations, UAB",03/07/2024 07:04,03/07/2025 07:04
-b0b4640d-c7f7-4790-a397-37e9a8b2c7e9,gold.forsale,expiring,72,41,4,"Name.com, Inc.",21/09/2023 19:52,21/09/2025 19:52
-0f64c82b-32df-4db3-a1e1-4ef25f8f6941,gold.futbol,available,72,41,4,,,
-c414cbbc-7996-4f5c-8141-470889d4e12d,gold.garden,available,72,41,4,,,
-f22c02a9-341a-4854-97ee-557e27934250,gold.gay,available,72,41,4,,,
-9277a7aa-3cc5-411a-8d39-b44f88bc775a,gold.gift,resell,72,41,4,"Dynadot, LLC",16/06/2021 22:51,16/06/2026 22:51
-ac38a4d3-0660-43d8-9f0f-084cfb7c478e,gold.gives,available,72,41,4,,,
-27518527-9439-4d6d-ae40-079fbeb45c06,gold.giving,available,72,41,4,,,
-6135ab45-f4c4-416e-8821-36a907c90dff,gold.global,available,72,41,4,,,
-28bf5120-631f-4e9a-bdf1-272f03a449c1,gold.golf,resell,72,41,4,"Sav.com, LLC",03/10/2024 17:11,03/10/2025 17:11
-61e87a7b-bd20-4483-ae45-a02df308fe0d,gold.gratis,available,72,41,4,,,
-7f56d3ef-4073-431f-84ed-e14085fc9604,gold.green,available,72,41,4,,,
-9079c605-32e3-4266-8ee4-9f91c3c4baad,gold.gripe,available,72,41,4,,,
-04dbd8ca-1278-4260-b49f-270f5e7d5e53,gold.group,resell,72,41,4,"GoDaddy.com, LLC",05/06/2016 16:00,05/06/2027 16:00
-60881b91-fef6-4d43-a828-d1b5bacfce41,gold.guide,available,72,41,4,,,
-f3e69455-d7ca-44a5-856d-b5ffbaa0d3b8,gold.guitars,available,72,41,4,,,
-4b9cf021-6bf6-414f-abf8-ea7b1e5fd0d2,gold.hair,available,72,41,4,,,
-04430598-f41c-4674-a951-c3b951f2e02c,gold.healthcare,available,72,41,4,,,
-d70233ad-c717-4e5f-8155-3cc01c726419,gold.help,available,72,41,4,,,
-4bddb352-0819-4299-aaf3-eae7d5a9de93,gold.hiv,available,72,41,4,,,
-88aa521a-6d6c-4e53-9d91-b9a77fcdd30b,gold.hockey,available,72,41,4,,,
-bd03a401-fe85-4ad2-861b-7a65cf7ef284,gold.homes,available,72,41,4,,,
-738a2e0b-b6ef-4137-80a5-e96f025a3200,gold.hospital,available,72,41,4,,,
-9812f5f1-d2db-420c-ba7d-f8443f3a2429,gold.host,available,72,41,4,,,
-77d40a37-1124-45fb-8aa8-38290b904734,gold.hosting,available,72,41,4,,,
-7593792f-249d-4697-b803-70be1b4617ac,gold.hot,available,72,41,4,,,
-a4b5aa61-01cb-4f67-9716-9b35070fbda9,gold.how,available,72,41,4,,,
-f587ab6a-f8d0-488e-a12a-715f9526f295,gold.icu,resell,72,41,4,"Spaceship, Inc.",29/10/2024 19:28,29/10/2025 23:59
-451beb5e-550c-41be-9058-7669b40caa97,gold.im,available,72,41,4,,,
-22ba4eb2-00e0-43b5-a40b-dd97b24279e4,gold.immo,available,72,41,4,,,
-d44c6739-46fb-4273-b735-49338779feb4,gold.immobilien,expired,72,41,4,"Sav.com, LLC - 21",11/07/2024 15:15,11/07/2025 15:15
-7181027e-6444-4eb6-81ea-3d49834b5070,gold.industries,available,72,41,4,,,
-ed70783e-4f81-46a7-a68d-c179a9b42723,gold.ing,available,72,41,4,,,
-cdaee387-fb32-4901-b1aa-c03695ffabef,gold.institute,resell,72,41,4,"Spaceship, Inc.",05/03/2021 13:53,05/03/2026 13:53
-fce26eda-8a42-45d8-ad5a-1d9e70580f81,gold.investments,available,72,41,4,,,
-bbca68cd-df05-4bbd-9c09-792439342890,gold.irish,resell,72,41,4,"Sav.com, LLC",07/07/2019 14:06,07/07/2026 14:06
-0e4b4630-07ac-4524-858b-4e79bd0fe5a1,gold.juegos,available,72,41,4,,,
-ee28b029-0219-43d1-8180-6ba263d1b184,gold.kaufen,expiring,72,41,4,Dynadot Inc,26/09/2018 17:00,26/09/2025 17:00
-71a63898-cbb0-490a-9061-9fe510b48733,gold.kids,resell,72,41,4,"GoDaddy.com, LLC",17/01/2025 11:50,17/01/2026 11:50
-b2095526-f804-4b00-87b7-0416daca54e2,gold.kim,resell,72,41,4,"Xiamen ChinaSource Internet Service Co., Ltd",19/02/2025 15:15,19/02/2026 15:15
-4788956e-24c9-49a4-a144-7a4df658f354,gold.kitchen,expired,72,41,4,"Spaceship, Inc.",19/06/2024 02:18,19/06/2025 02:18
-c3a8c145-e6bb-4bf2-b3de-a812ec522c23,gold.la,resell,72,41,4,Name.com LLC,13/03/2014 19:50,13/03/2026 23:59
-29a09841-3bfd-43df-8d91-ecf569ac0429,gold.lawyer,available,72,41,4,,,
-52bc6289-6756-43c3-8def-4c60f81f24c9,gold.lease,available,72,41,4,,,
-56b38c19-aa56-4ecf-9b39-d6758b016b81,gold.legal,resell,72,41,4,"Sav.com, LLC",12/01/2025 17:16,12/01/2026 17:16
-e018b8c1-e7a8-4d05-89a0-0c1d37ba63fc,gold.lifestyle,available,72,41,4,,,
-1a35b188-8361-4bdf-bbb8-67d26d392575,gold.lighting,resell,72,41,4,"GoDaddy.com, LLC",17/01/2025 11:50,17/01/2026 11:50
-7c124e7a-50d9-484d-8680-e98f8a434f31,gold.limo,available,72,41,4,,,
-ec593f16-e7af-467e-ac31-668c5f204c45,gold.llc,available,72,41,4,,,
-9244bddb-b5f1-4961-b72c-a2a76f41cb13,gold.loan,available,72,41,4,,,
-eb413b7e-441f-428d-b2c7-c0c06f2ae211,gold.loans,available,72,41,4,,,
-33584fbc-4a5c-4923-b86b-88315692b1e1,gold.locker,available,72,41,4,,,
-574e2844-80a4-4c9b-be88-d64237ae542e,gold.lol,expiring,72,41,4,"Porkbun, LLC",20/09/2020 12:10,20/09/2025 23:59
-9d66bcbb-8ac5-436e-95b6-92c67af84f12,gold.london,expiring,72,41,4,"Go Daddy, LLC",13/09/2014 04:57,13/09/2025 23:59
-54567e45-214c-4f68-a94f-ae4a51e7850e,gold.love,available,72,41,4,,,
-f57fcaf1-54b1-4ad7-805d-1f891bc378be,gold.ltda,available,72,41,4,,,
-ba0052bc-aebf-4c28-adcb-951e370e5da0,gold.luxury,available,72,41,4,,,
-6ef9198c-73fa-460c-a445-9fa88be9e04e,gold.maison,available,72,41,4,,,
-77fe0262-4de3-4a1e-b7d2-d1fb4638c87d,gold.makeup,available,72,41,4,,,
-c1339fde-ac74-4dda-9932-b75b152b5671,gold.market,available,72,41,4,,,
-52bbc28e-f9a0-475f-93c5-02f09d15e2e6,gold.me,available,72,41,4,,,
-e5722881-da07-44ee-ac38-1a8d8b447c45,gold.melbourne,available,72,41,4,,,
-ce1a064f-4bb9-4f9c-8fdf-f1e1e4a3f628,gold.meme,resell,72,41,4,Namecheap Inc.,27/07/2024 11:17,27/07/2026 11:17
-c56ca996-b83c-4db2-b8a2-2ca6a55056bd,gold.memorial,available,72,41,4,,,
-d3cedd92-1409-4b3a-bc83-2feba8386ef9,gold.men,available,72,41,4,,,
-e6c9ffab-c4bb-45fc-a32d-b60f845731c8,gold.menu,available,72,41,4,,,
-5448a15b-260b-4d86-8823-c69a2913cd21,gold.miami,available,72,41,4,,,
-878ee4ca-a509-4f7d-9a27-1d456e24b67c,gold.moda,resell,72,41,4,"GoDaddy.com, LLC",13/12/2018 23:41,13/12/2025 23:41
-8b7639fd-e091-4faf-99c4-ba036dd8ebc7,gold.moe,available,72,41,4,,,
-ef465082-07b9-40bf-810b-a1bf33b5cd23,gold.mom,available,72,41,4,,,
-8cab0203-b151-4972-9426-d32479271e23,gold.monster,available,72,41,4,,,
-93e42618-f4d7-44df-bd11-3332aeea39a1,gold.mortgage,available,72,41,4,,,
-f7fda97e-f69a-44ce-8770-a2fe0e34c563,gold.motorcycles,available,72,41,4,,,
-e0bcbe78-377c-4905-9afe-8c238f00b608,gold.mov,available,72,41,4,,,
-44d1c1d2-42b9-451a-90fe-b622c248454c,gold.music,available,72,41,4,,,
-a3a208c9-d80f-4e71-99d6-306a50f664fa,gold.network,resell,72,41,4,"GoDaddy.com, LLC",07/12/2014 16:00,07/12/2026 16:00
-37d2badb-fe1b-4f37-944b-352d0cf74275,gold.news,available,72,41,4,,,
-f758debf-59a4-472d-91ba-af1faf858118,gold.nexus,available,72,41,4,,,
-c6accc80-a9e2-451e-a414-6e84535b563a,gold.ninja,available,72,41,4,,,
-594b01c4-5d1c-467d-997b-153d8c59b466,gold.nyc,available,72,41,4,,,
-6dc5d8da-f950-49ab-90d0-0166adc40d33,gold.observer,available,72,41,4,,,
-42275a59-118c-47de-9cd0-de270b2c41f8,gold.onl,available,72,41,4,,,
-aa4d641c-008f-40f9-a5f7-2ed3023bb2e0,gold.online,available,72,41,4,,,
-a3a4b6e3-41d9-4511-9761-6d5d8108ca79,gold.organic,available,72,41,4,,,
-4eee18b5-d87f-462a-a51d-b369ceea69c7,gold.osaka,available,72,41,4,,,
-8da8ade5-0962-4c5d-9c83-c4842e0384ed,gold.page,available,72,41,4,,,
-3e39f5a7-da54-4ab9-8e5d-b29941d7737a,gold.pet,resell,72,41,4,"Spaceship, Inc.",14/05/2018 16:41,14/05/2026 16:41
-2be2915a-3d34-4871-b4e6-de7fe29a5ca3,gold.phd,available,72,41,4,,,
-21dbca30-60bd-437b-a20d-88d03ec07aec,gold.photos,available,72,41,4,,,
-24f34606-aa3b-4e19-aefc-023631586a78,gold.pics,resell,72,41,4,Dynadot LLC,04/05/2022 14:05,04/05/2026 23:59
-8c17c655-487e-4d5a-8036-4d77ec456209,gold.pictures,expiring,72,41,4,"Sav.com, LLC",02/09/2024 17:07,02/09/2025 17:07
-ca459f28-6ca2-4e56-9163-3a5b441c44ce,gold.pink,available,72,41,4,,,
-3c2096c6-e57d-4814-aa71-7b7065c9ceb6,gold.place,available,72,41,4,,,
-3d2552ba-c60f-4696-973b-268e474a161d,gold.poker,resell,72,41,4,"NameCheap, Inc.",23/02/2018 21:39,23/02/2026 21:39
-be474979-e45b-4407-a029-507d86c2b680,gold.porn,available,72,41,4,,,
-41914119-50f0-4eb6-a006-71fa128ff487,gold.press,available,72,41,4,,,
-8db6d875-7c2a-4fe4-84cb-a794183df69f,gold.productions,available,72,41,4,,,
-9f817719-d930-4c1e-8dec-cc4bf22a8f6a,gold.prof,available,72,41,4,,,
-2ddf1e7b-917c-4b7a-b5e8-514290e83b01,gold.promo,available,72,41,4,,,
-88b59bd9-cc25-4525-84ed-499f1de3e1f6,gold.properties,available,72,41,4,,,
-01da8b5f-5070-4f3a-95ed-4e9369520a9d,gold.property,available,72,41,4,,,
-9ae5805c-6408-4937-9942-de84c71c4885,gold.protection,available,72,41,4,,,
-1a3f855c-b3e8-4ecd-b514-5eddfbaebd3b,gold.pw,available,72,41,4,,,
-1b235c6c-34de-4f7c-9647-cbbe75bd843f,gold.qpon,available,72,41,4,,,
-e79004df-b08c-4f12-8aaf-e541ecc5e8fb,gold.quest,available,72,41,4,,,
-b0b8af76-1357-41cb-ac42-365ce47d5a3b,gold.racing,available,72,41,4,,,
-3f3cf87f-5578-40cf-8c64-99bd28b541ca,gold.realty,available,72,41,4,,,
-8b361d02-963d-432e-b762-38822bffd522,gold.red,resell,72,41,4,"Spaceship, Inc.",05/12/2023 15:15,05/12/2025 15:15
-2711fb35-1b7b-4846-a287-00c367180ac1,gold.rehab,available,72,41,4,,,
-d2d117d4-1b35-42dd-89f9-e1ea34e6f728,gold.reise,available,72,41,4,,,
-c784fad8-677b-4fcd-8365-13d998e7a722,gold.rent,resell,72,41,4,"Xiamen ChinaSource Internet Service Co., Ltd",19/04/2024 12:53,19/04/2026 23:59
-12f3e758-d673-4e9b-ab8b-3ad3f968e002,gold.rentals,available,72,41,4,,,
-5168d2fc-3cd6-40a2-bd71-7287866fa36b,gold.republican,available,72,41,4,,,
-9f4896aa-eca7-4fbb-95b4-208102aa9c24,gold.rest,available,72,41,4,,,
-7b2bf596-96f1-47b4-b794-cfb1f0393f45,gold.review,available,72,41,4,,,
-364446ed-d89d-4e9d-a10c-faf8ac1f7760,gold.reviews,available,72,41,4,,,
-9125fc37-cab3-48a6-b26f-b1cc117a5a4d,gold.rip,available,72,41,4,,,
-f200cfd0-4819-4a45-b5a7-54c3e8d705f9,gold.rocks,resell,72,41,4,united-domains GmbH,26/05/2018 07:59,26/05/2026 07:59
-cf5445b1-2977-405d-a75a-41b8590ad7fb,gold.rodeo,available,72,41,4,,,
-d92fc34d-9aca-4c33-9621-13d2a8c5e3ad,gold.rsvp,available,72,41,4,,,
-da49a4f9-2838-4746-9f4d-37f84316b28d,gold.sale,available,72,41,4,,,
-245444fb-f695-4a9a-b6cf-6756a6d12131,gold.salon,resell,72,41,4,"Sav.com, LLC - 43",20/02/2025 15:15,20/02/2026 15:15
-d5742979-d6cd-4338-8c5c-332d86bf3510,gold.sarl,available,72,41,4,,,
-b604e23d-4ca5-4d0f-8da1-d37280249758,gold.school,resell,72,41,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),08/05/2021 23:13,08/05/2026 23:13
-43cd2ad8-85cf-4a94-a64c-8c85b2b4dbfc,gold.schule,available,72,41,4,,,
-24d361e6-09ae-4ca1-bde9-dd21070b48d4,gold.security,available,72,41,4,,,
-2406630c-d4f2-481e-9778-3f0195779bb4,gold.services,available,72,41,4,,,
-e380f87b-515c-4a9b-8d36-c035416f4522,gold.sexy,available,72,41,4,,,
-bb52e77e-4d17-415f-ad00-cec61e2f95bc,gold.shiksha,available,72,41,4,,,
-4856d21d-c094-409e-8af2-991764659ded,gold.shoes,resell,72,41,4,"GoDaddy.com, LLC",05/03/2014 22:26,05/03/2026 22:26
-276f2933-4c5c-47f7-9244-dbaf56fbdf57,gold.shopping,available,72,41,4,,,
-dd48e11d-c485-4ebb-9899-c20acc0f47d4,gold.show,resell,72,41,4,"Chengdu West Dimension Digital Technology Co., Ltd.",28/12/2023 15:16,28/12/2025 15:16
-c398a5d8-eea5-4b6b-924f-e070c00cd65e,gold.singles,resell,72,41,4,"NameCheap, Inc.",12/10/2024 20:29,12/10/2025 20:29
-50d3b1ed-6a26-4f1e-ae5c-dc6acc1940b8,gold.site,available,72,41,4,,,
-1c5a1df6-6e7f-4d2d-9c26-dec8cf0948f6,gold.ski,available,72,41,4,,,
-879fb4fe-61b3-4ea3-ac07-f2e586cb33a9,gold.skin,available,72,41,4,,,
-28261522-00c8-480b-ad9a-c41c95011025,gold.so,resell,72,41,4,Dynadot LLC,28/04/2011 00:00,28/04/2026 00:00
-cdc6e2af-15db-4bf5-a61e-1dce08b87402,gold.soccer,resell,72,41,4,Automattic Inc.,05/07/2022 23:58,05/07/2026 23:58
-df66b810-a009-4588-91ab-78d6651da268,gold.software,available,72,41,4,,,
-2ec8bc18-152b-46a9-8b58-a5cfe9465ad1,gold.solutions,resell,72,41,4,Dynadot Inc,16/07/2019 10:26,16/07/2026 10:26
-77ba9710-ea6e-4403-8240-2235b5d7e0b8,gold.soy,available,72,41,4,,,
-fc4cf333-e853-4813-b8d6-ff35b93e9ff0,gold.space,available,72,41,4,,,
-81f53421-566b-4754-8d73-d21152f8f549,gold.spot,available,72,41,4,,,
-35fd54c0-b6d6-443a-9293-dc94d837ee39,gold.srl,available,72,41,4,,,
-28edcff8-b031-4843-ba56-e275229b4a3c,gold.store,available,72,41,4,,,
-a4cd45e7-46ed-4289-9248-1eb8d0618bd4,gold.stream,available,72,41,4,,,
-afe22516-f544-42cc-b5ab-25fa8dfd0012,gold.studio,available,72,41,4,,,
-575ce83d-d143-410c-b2bc-71ab57730ba9,gold.style,resell,72,41,4,"Sav.com, LLC - 36",03/08/2024 15:15,03/08/2026 15:15
-9d4f959a-7723-4c99-8d21-c92518bceb83,gold.sucks,available,72,41,4,,,
-9c765e43-1120-4fdd-89f8-343039c1936b,gold.supplies,available,72,41,4,,,
-cbfe6516-335f-474c-aff7-e3f9e418b458,gold.supply,resell,72,41,4,Porkbun LLC,29/12/2020 12:44,29/12/2025 12:44
-03f619ad-747f-4d99-b989-84c31edaeb9e,gold.support,available,72,41,4,,,
-0c455440-5d2d-4b5a-8375-a525ac69eeea,gold.surf,available,72,41,4,,,
-359c42ef-5d2f-4c42-99d4-5e72528d12e7,gold.surgery,available,72,41,4,,,
-5d0bb4b6-9baf-483b-af87-ecc736e7f84a,gold.sydney,available,72,41,4,,,
-42b9e7f2-85eb-45de-b245-4beae9956692,gold.taxi,expiring,72,41,4,"Sav.com, LLC",18/09/2024 11:46,18/09/2025 11:46
-caa79c23-68b0-4d61-8164-7e344de92ba3,gold.tech,available,72,41,4,,,
-e5063f25-7059-4b2f-9c63-4d053c526c87,gold.tel,available,72,41,4,,,
-fec66c9a-256d-4e27-9571-7a12a692c431,gold.tennis,resell,72,41,4,"GoDaddy.com, LLC",13/04/2022 23:56,13/04/2026 23:56
-a1f7b085-0188-4660-bf95-52f3b9971c20,gold.theatre,available,72,41,4,,,
-ad97b9c7-61d7-41e7-8f2b-0f1e80f9920a,gold.tickets,available,72,41,4,,,
-58be4a2b-1bb9-4f97-891c-d73f6074d647,gold.tires,available,72,41,4,,,
-1536d732-98f9-43be-b9af-a878d5e9e438,gold.today,resell,72,41,4,"GoDaddy.com, LLC",28/06/2015 16:00,28/06/2026 16:00
-bbde4c41-6b76-46cc-9a68-b970d89b8ede,gold.tours,available,72,41,4,,,
-49622bd7-9ac1-481b-abb8-625e2d5975de,gold.town,expiring,72,41,4,"GoDaddy.com, LLC",02/09/2023 21:35,02/09/2025 21:35
-41db0ac8-ee11-47b4-bd45-f085095b53e9,gold.trade,available,72,41,4,,,
-bd80e996-513e-4876-887e-a43c30de2e78,gold.travel,resell,72,41,4,"Sav.com, LLC - 34",05/12/2024 15:16,05/12/2025 15:16
-1f123bb9-1ab0-452a-b183-288a3b7e6cfb,gold.university,available,72,41,4,,,
-936b3e4c-8f7d-4ddd-be19-106cd08f63e6,gold.uno,available,72,41,4,,,
-f42ad79c-f5c2-47d5-a936-d9f0b074bc3e,gold.vana,available,72,41,4,,,
-963ca90e-ac78-4ae9-b233-2e37311c961e,gold.ventures,resell,72,41,4,"Sav.com, LLC - 30",23/04/2023 15:15,23/04/2026 15:15
-ee5ec744-464e-4bb2-98fd-bbf68638cc66,gold.video,available,72,41,4,,,
-bfb18895-7973-4f94-ab8f-c7fc89e03c70,gold.villas,available,72,41,4,,,
-23982d95-06d1-47af-9b0a-497e54e6d8fc,gold.vodka,resell,72,41,4,"GoDaddy.com, LLC",02/06/2021 18:29,02/06/2026 18:29
-d0e4ec39-ad82-4041-90ab-2b465b7bc606,gold.vote,available,72,41,4,,,
-fa8c1ce7-1e92-4fe3-8738-4ecbb0d3811a,gold.voting,available,72,41,4,,,
-7abc420f-1db2-4056-9367-5672cd97ef0c,gold.voto,available,72,41,4,,,
-60d16bdf-89fa-40fc-aca2-f510844e460c,gold.watch,expiring,72,41,4,"Name.com, Inc.",20/09/2015 23:59,20/09/2025 23:59
-ea45437f-62b7-495f-ab10-04fc98d06462,gold.webcam,available,72,41,4,,,
-c27abc7e-b13b-45a6-9168-f4fe8c648484,gold.website,available,72,41,4,,,
-6786d2b5-7e88-49a3-96d9-9e094b2ec01f,gold.wedding,available,72,41,4,,,
-4ef7ff9b-bcd7-482c-bd66-d490613dd81d,gold.wiki,available,72,41,4,,,
-f291ab83-ddcf-4a60-a8c3-877d02b81c6d,gold.wine,available,72,41,4,,,
-0139d912-a1c0-40b2-ba53-dc1a3d6294b3,gold.work,resell,72,41,4,Dynadot Inc,30/10/2019 00:41,30/10/2025 01:41
-973f3dfb-8fd9-4ebe-9d6d-11860037acb4,gold.works,available,72,41,4,,,
-3fade5e5-5c5e-48f3-88c2-6e6bba1f8dc2,gold.world,resell,72,41,4,"Spaceship, Inc.",27/03/2024 15:46,27/03/2026 15:46
-421c9c75-690f-4922-8bbd-0151f116e44c,gold.xyz,available,72,41,4,,,
-01fbec92-4335-4064-ab9f-35284717bebc,gold.yachts,available,72,41,4,,,
-75e2fb18-398c-46c1-979c-55883b6e7cef,gold.zip,available,72,41,4,,,
+5ebc08c6-1a8c-43ec-9b74-3e9141b47e56,gold.ac,sold,72,37,4,Dynadot Inc,20/10/2015 00:40,20/10/2026 00:40
+14e73dd3-6050-466e-a536-a6a0c85327cb,gold.accountant,available,72,37,4,,,
+153ba984-fcb9-4402-bd44-f13fb9e90b78,gold.accountants,available,72,37,4,,,
+02acb3af-f19c-49ba-8387-f6e11b50d353,gold.actor,available,72,37,4,,,
+446859e1-3e68-4427-9320-401cb6eb8017,gold.adult,available,72,37,4,,,
+35a52d98-17ab-4438-8005-b1486bfa4520,gold.airforce,available,72,37,4,,,
+03c853e8-7a6a-40e1-b2b9-a3302181ed6b,gold.apartments,available,72,37,4,,,
+4b503620-d2e0-4048-bb25-bd26e6353a36,gold.app,sold,72,37,4,united-domains AG,05/08/2019 07:37,05/08/2026 07:37
+a020e32f-2178-48b0-8ff0-670934bd5856,gold.art,available,72,37,4,,,
+f7b7ced4-dbf2-48c7-8601-d02fbfc30b33,gold.asia,resell,72,37,4,1API GmbH,06/02/2009 11:02,06/02/2026 11:02
+1c20bd3a-997c-44bc-81d3-506246b09e3a,gold.associates,available,72,37,4,,,
+8c084e46-95e6-45ef-9c59-528941f69cbf,gold.attorney,available,72,37,4,,,
+ac154237-9149-408a-b4e0-b3d45836cad4,gold.auction,available,72,37,4,,,
+7e9e574a-dd30-4215-92d8-65273ae37bbe,gold.auto,available,72,37,4,,,
+b6ef98d5-fdde-4ef2-86a2-7fba91fe53f6,gold.autos,available,72,37,4,,,
+03ab340f-8995-46b5-a964-fa15ab781299,gold.baby,available,72,37,4,,,
+bd3529c7-e0c9-458c-b5ca-654d700fcf29,gold.bar,available,72,37,4,,,
+1d8bcc5c-fd3c-4aaf-9de3-6e4f090736d0,gold.bargains,available,72,37,4,,,
+9e522b1f-0988-4d89-b74b-c945c09fd04e,gold.beauty,available,72,37,4,,,
+a173585d-c205-487c-b73c-24cfd22dfe53,gold.beer,sold,72,37,4,EuroDNS SA,25/09/2014 16:00,25/09/2026 16:00
+cc222cbc-6573-45d3-be8c-eb3a675b8811,gold.berlin,resell,72,37,4,,18/03/2014 17:57,18/03/2026 17:57
+0442207a-925d-4158-a63b-33da1db9c170,gold.best,sold,72,37,4,Dynadot LLC,14/09/2018 23:28,14/09/2026 23:59
+2e7b89e3-678f-46f5-a436-c3bb4974bdd1,gold.bet,resell,72,37,4,"Name.com, Inc.",03/03/2016 16:02,03/03/2026 16:02
+e836fe27-bb03-4a5f-ba5d-8b222bf198dc,gold.bid,resell,72,37,4,Porkbun,26/07/2019 14:37,26/07/2026 14:37
+cc799a07-60aa-41cd-a41e-12647c7f5b39,gold.bingo,available,72,37,4,,,
+7dca2e7a-2631-4b26-a576-1ca9aa978063,gold.black,resell,72,37,4,"Xiamen ChinaSource Internet Service Co., Ltd",22/07/2025 15:15,22/07/2026 15:15
+c4fdf04b-3c59-41c9-a434-5a6bdd882cee,gold.blackfriday,available,72,37,4,,,
+4193a974-0039-476a-92ef-d8b5b9da4aec,gold.blog,sold,72,37,4,"Go Daddy, LLC",21/11/2025 15:01,21/11/2026 15:01
+07f3b4b7-7e23-4e1f-916c-f6d593586e8c,gold.blue,resell,72,37,4,"DNSPod, Inc.",20/07/2016 10:09,20/07/2030 10:09
+90a9fd18-4f0c-4c99-b402-86c8f6dcb2e1,gold.boats,available,72,37,4,,,
+4e1aa680-2c1b-4a01-b48b-e92a13be7131,gold.bond,sold,72,37,4,"Porkbun, LLC",15/05/2020 23:45,15/05/2026 23:59
+e1893af4-5958-4711-bb41-b4367826ce28,gold.boo,available,72,37,4,,,
+8e4351af-c5e1-4445-bca2-2a5f6b9a5cea,gold.boston,sold,72,37,4,Dynadot Inc,03/09/2021 12:46,03/09/2026 12:46
+3f3d6895-b1ea-42a0-a38d-83fa81377fd6,gold.boutique,expiring,72,37,4,"GoDaddy.com, LLC",17/12/2020 04:13,17/12/2025 04:13
+bf79ffd6-5762-43e0-99fa-7fb22488ef16,gold.buzz,available,72,37,4,,,
+bce78967-ae2f-45f9-9f8a-f5c5ef49af10,gold.cab,sold,72,37,4,"Spaceship, Inc.",08/10/2025 05:02,08/10/2026 05:02
+a9cc6afe-a18f-4e8e-a2c7-ea1e63688657,gold.cafe,expiring,72,37,4,"Spaceship, Inc.",31/12/2017 23:56,31/12/2025 23:56
+375fa42c-c02a-4d83-bde3-b38e4496c593,gold.cam,available,72,37,4,,,
+ce1fffb9-042d-4584-add4-a8651c9868fc,gold.camera,available,72,37,4,,,
+73c34ac5-01ad-4304-90a5-a4456a738a0a,gold.camp,available,72,37,4,,,
+89105999-2ecf-4fd2-8fe1-abce59d644db,gold.car,available,72,37,4,,,
+e409f9b6-4c76-4cd0-b8bb-99c750526169,gold.cars,available,72,37,4,,,
+81e16063-39f4-49e4-ae33-5acec7dc2cac,gold.catering,available,72,37,4,,,
+f98b60c1-9343-4afe-87d8-98d576df2600,gold.cc,expiring,72,37,4,"eName Technology Co., Ltd.",30/12/2002 05:13,30/12/2025 05:13
+85c3dcd7-62c1-4c93-92b1-4b7a730ff1b5,gold.center,resell,72,37,4,"NameCheap, Inc.",15/09/2023 15:15,15/09/2028 15:15
+9fa3b7a6-5392-4b6c-aad5-bc36ad6319bf,gold.ceo,resell,72,37,4,Namecheap,09/03/2021 01:24,09/03/2026 23:59
+c12d4c8b-e5e6-42d6-b51d-62163185ebe9,gold.cfd,resell,72,37,4,Dynadot LLC,06/07/2022 22:49,06/07/2026 23:59
+d0012daa-53b7-469d-8a15-d3a31e0758ea,gold.charity,available,72,37,4,,,
+21902664-5355-49fa-b1c9-b37177c63d5c,gold.cheap,sold,72,37,4,Edomains LLC,04/11/2025 15:15,04/11/2026 15:15
+9ea38e04-8224-4340-a56d-9c7bf37979d2,gold.christmas,available,72,37,4,,,
+780602f6-0c9f-4cef-8f1b-c2d0ed6e4a7d,gold.claims,available,72,37,4,,,
+b4064a92-df46-479b-bb46-7f6fcd65ea49,gold.cleaning,available,72,37,4,,,
+80c5e13a-60fd-4912-aa37-2f2f9b8c1bc7,gold.click,sold,72,37,4,"Dynadot, LLC",25/11/2014 16:00,25/11/2026 16:00
+4b716e76-2cb9-4335-9a1f-7b9bd9c01b20,gold.clothing,resell,72,37,4,"GoDaddy.com, LLC",28/05/2024 12:02,28/05/2026 12:02
+f609b38a-ea29-4f30-825a-70767f91e709,gold.cloud,available,72,37,4,,,
+3357986e-14f7-40df-ae59-7de487b98c60,gold.club,resell,72,37,4,"GoDaddy.com, LLC",10/07/2014 19:39,09/07/2026 23:59
+d855e0c2-d682-4ca5-aa25-87406a464541,gold.college,available,72,37,4,,,
+5b0ef05f-ee7e-4232-9f7c-c4329f807bf3,gold.company,resell,72,37,4,"Name.com, Inc.",03/06/2019 16:52,03/06/2027 16:52
+aab421d1-c085-4c2a-a94c-5b5ee0e65389,gold.condos,available,72,37,4,,,
+6ab03324-d08c-471c-a590-c877c16553c6,gold.consulting,resell,72,37,4,"Sav.com, LLC",06/10/2017 07:30,06/10/2026 07:30
+0bbbf5c5-3b68-4f26-9302-879416e681a0,gold.contact,expiring,72,37,4,"GoDaddy.com, LLC",09/12/2020 16:00,09/12/2025 16:00
+a08cf3a7-3b86-45fe-9b6b-551aa1443f23,gold.cooking,available,72,37,4,,,
+3ef3b0bb-5cf1-4138-bf46-1cc6226b29aa,gold.cool,resell,72,37,4,"DNSPod, Inc.",05/12/2017 03:44,05/12/2030 03:44
+982f03e8-4489-42b1-8459-ede803e68259,gold.country,available,72,37,4,,,
+8b1de39e-e582-43b2-ad7d-822d4587fc47,gold.coupons,sold,72,37,4,"Sav.com, LLC",24/11/2025 10:07,24/11/2026 10:07
+c9b5df46-22f9-4cd5-becc-329b2c984cf4,gold.cricket,available,72,37,4,,,
+24191d83-f207-4d33-b3ad-f16fa64cf6dc,gold.cv,available,72,37,4,,,
+3274c21d-6b41-4d7e-aa33-a47ecf79a03e,gold.cyou,resell,72,37,4,Dynadot LLC,07/09/2021 02:55,07/09/2026 23:59
+50a8ae94-bd4a-47e8-b12b-3c95615306ec,gold.dad,available,72,37,4,,,
+79d3a5b9-941f-47f6-a174-47050f2e4a42,gold.dance,available,72,37,4,,,
+f5fa6729-a875-409f-aa4f-6c7669a40d64,gold.date,available,72,37,4,,,
+31566b4e-ca00-4ddf-acf1-70fe93b032b8,gold.day,available,72,37,4,,,
+578d5353-c7ab-48c7-a338-0774d74486d3,gold.deal,available,72,37,4,,,
+5e64dcdc-9291-4113-8c33-e679fdf2bf82,gold.dealer,available,72,37,4,,,
+23c27e79-0c37-4d59-94ed-ff78cccd55f3,gold.degree,resell,72,37,4,"GoDaddy.com, LLC",31/07/2025 18:22,31/07/2026 18:22
+d56e8996-1ddd-4f76-8e73-2a270d2dd02d,gold.delivery,available,72,37,4,,,
+000ba6ff-0b6e-472a-8413-2f5ef6db75a4,gold.democrat,available,72,37,4,,,
+3ec7e275-3896-4f33-a538-873760587ed8,gold.dental,available,72,37,4,,,
+b714d2e5-c0cd-44ef-8e53-cc6fff34c478,gold.dentist,available,72,37,4,,,
+1f40f2a2-0e69-4bff-805e-0d0fe401df8c,gold.design,available,72,37,4,,,
+171f9ac1-3617-440d-820a-f7acebb05214,gold.dev,available,72,37,4,,,
+8bf69edf-eaa0-442e-be46-6d90917edd38,gold.diamonds,sold,72,37,4,"Spaceship, Inc.",06/10/2017 23:21,06/10/2026 23:21
+55cb2008-5b41-4d79-a0b0-6466bdb2655d,gold.diet,available,72,37,4,,,
+3725aab0-66ea-4b78-b946-b1e3498f5bcc,gold.directory,resell,72,37,4,"Sav.com, LLC - 21",20/09/2025 15:15,20/09/2026 15:15
+8e6daa0b-57c8-4979-b0f9-46c164de76fa,gold.discount,available,72,37,4,,,
+491ae012-599a-4731-b1bb-e0851ecee0db,gold.diy,available,72,37,4,,,
+7dc99ff8-cb54-4a58-8f1d-9265484a90e0,gold.doctor,resell,72,37,4,"Blue Razor Domains, LLC",02/11/2016 16:00,02/11/2026 16:00
+0faa7b2e-82ab-4cb3-8c3d-e3a1aa7f6c66,gold.dog,available,72,37,4,,,
+b93a02c6-c672-40ad-a101-2b016f3f159f,gold.download,expired,72,37,4,"Name.com, Inc.",31/10/2023 00:59,31/10/2025 00:59
+2af91b78-d3b7-40b5-9459-406081898579,gold.engineer,expiring,72,37,4,Porkbun LLC,08/12/2023 21:27,08/12/2025 21:27
+2faf016e-4808-4fca-b0b2-34a2ea548268,gold.engineering,available,72,37,4,,,
+c2272510-6526-4842-90de-c670b782ab5e,gold.esq,available,72,37,4,,,
+d2d879bc-41f8-4ee2-bff9-ccac8f6e6ee6,gold.estate,resell,72,37,4,"Spaceship, Inc.",24/08/2025 01:36,24/08/2026 01:36
+5538878a-df89-4529-9dd5-211a6b49022c,gold.exchange,resell,72,37,4,"GoDaddy.com, LLC",30/08/2015 16:00,30/08/2026 16:00
+afe1117a-7760-4629-a721-0e82380712cf,gold.expert,sold,72,37,4,"GoDaddy.com, LLC",15/07/2015 16:00,15/07/2026 16:00
+af0dcbdc-85ca-47b1-a517-168727d318a7,gold.exposed,available,72,37,4,,,
+1f8455ef-5387-4ae7-914b-72e46ce9a707,gold.fail,available,72,37,4,,,
+aa2c6299-40fc-422e-9a86-3178a8366664,gold.faith,available,72,37,4,,,
+22860237-6b68-4af0-8af7-716879e907a5,gold.fashion,available,72,37,4,,,
+a6310d61-90cc-40dd-ab2d-3c0bdc4c6edf,gold.fast,resell,72,37,4,"Dynadot, LLC",07/10/2025 06:56,07/10/2026 06:56
+12a3c15e-13f0-4a62-b2b0-913f4d551d75,gold.fish,expired,72,37,4,1API GmbH,20/10/2022 13:15,20/10/2025 13:15
+b3d22852-90e2-490b-bb68-7a967558e1a6,gold.fishing,resell,72,37,4,"GoDaddy.com, LLC",31/07/2025 18:21,31/07/2026 18:21
+25c4544f-1cb5-4c70-8445-291167ec815d,gold.fitness,available,72,37,4,,,
+f4d057ff-67c6-4664-9e5a-bc68e0cea11f,gold.flowers,available,72,37,4,,,
+7e3a4e4e-018b-48f5-944a-cc73293ad37c,gold.foo,available,72,37,4,,,
+f0c79b35-6933-4ff4-b0ae-a2406b62e7e1,gold.food,available,72,37,4,,,
+f77dd765-d347-4c9e-aae1-5055f047156c,gold.football,expired,72,37,4,"HOSTINGER operations, UAB",03/07/2024 07:04,03/07/2025 07:04
+b0b4640d-c7f7-4790-a397-37e9a8b2c7e9,gold.forsale,sold,72,37,4,"Name.com, Inc.",21/09/2023 19:52,21/09/2026 19:52
+a3efe438-35aa-4483-9e27-95688da12cb6,gold.free,available,72,37,4,,,
+0f64c82b-32df-4db3-a1e1-4ef25f8f6941,gold.futbol,available,72,37,4,,,
+c414cbbc-7996-4f5c-8141-470889d4e12d,gold.garden,available,72,37,4,,,
+f22c02a9-341a-4854-97ee-557e27934250,gold.gay,available,72,37,4,,,
+9277a7aa-3cc5-411a-8d39-b44f88bc775a,gold.gift,resell,72,37,4,"Dynadot, LLC",16/06/2021 22:51,16/06/2026 22:51
+d8206521-e4ee-4bd6-aa19-3b950cfa395d,gold.gifts,expiring,72,37,4,"GoDaddy.com, LLC",28/12/2021 21:01,28/12/2025 21:01
+ac38a4d3-0660-43d8-9f0f-084cfb7c478e,gold.gives,available,72,37,4,,,
+27518527-9439-4d6d-ae40-079fbeb45c06,gold.giving,available,72,37,4,,,
+6135ab45-f4c4-416e-8821-36a907c90dff,gold.global,available,72,37,4,,,
+28bf5120-631f-4e9a-bdf1-272f03a449c1,gold.golf,expired,72,37,4,"Sav.com, LLC",03/10/2024 17:11,03/10/2025 17:11
+61e87a7b-bd20-4483-ae45-a02df308fe0d,gold.gratis,available,72,37,4,,,
+7f56d3ef-4073-431f-84ed-e14085fc9604,gold.green,available,72,37,4,,,
+9079c605-32e3-4266-8ee4-9f91c3c4baad,gold.gripe,available,72,37,4,,,
+04dbd8ca-1278-4260-b49f-270f5e7d5e53,gold.group,resell,72,37,4,"GoDaddy.com, LLC",05/06/2016 16:00,05/06/2027 16:00
+60881b91-fef6-4d43-a828-d1b5bacfce41,gold.guide,available,72,37,4,,,
+f3e69455-d7ca-44a5-856d-b5ffbaa0d3b8,gold.guitars,available,72,37,4,,,
+4b9cf021-6bf6-414f-abf8-ea7b1e5fd0d2,gold.hair,available,72,37,4,,,
+3d9e04cd-7749-4e50-a9f8-f75d6a9701fc,gold.haus,resell,72,37,4,"Global Domains International, Inc. DBA DomainCostClub.com",01/12/2017 03:49,01/12/2026 03:49
+465c7b2c-e9d4-45b1-a0a5-702d57bd8b55,gold.health,expiring,72,37,4,"GoDaddy.com, LLC",03/01/2020 05:16,03/01/2026 05:16
+04430598-f41c-4674-a951-c3b951f2e02c,gold.healthcare,available,72,37,4,,,
+d70233ad-c717-4e5f-8155-3cc01c726419,gold.help,available,72,37,4,,,
+4bddb352-0819-4299-aaf3-eae7d5a9de93,gold.hiv,available,72,37,4,,,
+88aa521a-6d6c-4e53-9d91-b9a77fcdd30b,gold.hockey,available,72,37,4,,,
+bd03a401-fe85-4ad2-861b-7a65cf7ef284,gold.homes,available,72,37,4,,,
+d47ebdee-8deb-4e77-96aa-520ea8729f4a,gold.horse,expiring,72,37,4,united-domains GmbH,26/12/2017 07:46,26/12/2025 07:46
+738a2e0b-b6ef-4137-80a5-e96f025a3200,gold.hospital,available,72,37,4,,,
+9812f5f1-d2db-420c-ba7d-f8443f3a2429,gold.host,available,72,37,4,,,
+77d40a37-1124-45fb-8aa8-38290b904734,gold.hosting,available,72,37,4,,,
+7593792f-249d-4697-b803-70be1b4617ac,gold.hot,available,72,37,4,,,
+a4b5aa61-01cb-4f67-9716-9b35070fbda9,gold.how,available,72,37,4,,,
+f587ab6a-f8d0-488e-a12a-715f9526f295,gold.icu,sold,72,37,4,"Spaceship, Inc.",29/10/2024 19:28,29/10/2026 23:59
+7a237962-b2f9-4fc7-ae60-bd066a8ad449,gold.id,resell,72,37,4,PT JC Indonesia,15/08/2014 10:59,15/08/2026 23:59
+451beb5e-550c-41be-9058-7669b40caa97,gold.im,available,72,37,4,,,
+22ba4eb2-00e0-43b5-a40b-dd97b24279e4,gold.immo,available,72,37,4,,,
+d44c6739-46fb-4273-b735-49338779feb4,gold.immobilien,resell,72,37,4,Dynadot Inc,15/10/2025 13:07,15/10/2026 13:07
+7181027e-6444-4eb6-81ea-3d49834b5070,gold.industries,sold,72,37,4,"Name.com, Inc.",29/09/2025 20:47,29/09/2026 20:47
+ed70783e-4f81-46a7-a68d-c179a9b42723,gold.ing,available,72,37,4,,,
+cdaee387-fb32-4901-b1aa-c03695ffabef,gold.institute,sold,72,37,4,"Spaceship, Inc.",05/03/2021 13:53,05/03/2026 13:53
+fce26eda-8a42-45d8-ad5a-1d9e70580f81,gold.investments,available,72,37,4,,,
+bbca68cd-df05-4bbd-9c09-792439342890,gold.irish,sold,72,37,4,"Sav.com, LLC",07/07/2019 14:06,07/07/2026 14:06
+0e4b4630-07ac-4524-858b-4e79bd0fe5a1,gold.juegos,available,72,37,4,,,
+ee28b029-0219-43d1-8180-6ba263d1b184,gold.kaufen,resell,72,37,4,Dynadot Inc,26/09/2018 17:00,26/09/2026 17:00
+71a63898-cbb0-490a-9061-9fe510b48733,gold.kids,resell,72,37,4,"GoDaddy.com, LLC",17/01/2025 11:50,17/01/2026 11:50
+b2095526-f804-4b00-87b7-0416daca54e2,gold.kim,resell,72,37,4,"Xiamen ChinaSource Internet Service Co., Ltd",19/02/2025 15:15,19/02/2026 15:15
+4788956e-24c9-49a4-a144-7a4df658f354,gold.kitchen,resell,72,37,4,"Sav.com, LLC",18/09/2025 17:55,18/09/2026 17:55
+c3a8c145-e6bb-4bf2-b3de-a812ec522c23,gold.la,resell,72,37,4,Name.com LLC,13/03/2014 19:50,13/03/2026 23:59
+2f42a625-acee-44b3-be5c-f0416f2a8113,gold.land,resell,72,37,4,"Global Domains International, Inc. DBA DomainCostClub.com",17/02/2014 20:03,17/02/2026 20:03
+29a09841-3bfd-43df-8d91-ecf569ac0429,gold.lawyer,available,72,37,4,,,
+52bc6289-6756-43c3-8def-4c60f81f24c9,gold.lease,available,72,37,4,,,
+56b38c19-aa56-4ecf-9b39-d6758b016b81,gold.legal,resell,72,37,4,"Sav.com, LLC",12/01/2025 17:16,12/01/2026 17:16
+5815ebda-191c-4d4a-ab5f-f362327361fe,gold.lgbt,available,72,37,4,,,
+e018b8c1-e7a8-4d05-89a0-0c1d37ba63fc,gold.lifestyle,available,72,37,4,,,
+1a35b188-8361-4bdf-bbb8-67d26d392575,gold.lighting,resell,72,37,4,"GoDaddy.com, LLC",17/01/2025 11:50,17/01/2026 11:50
+8aee6182-a63f-44f5-9fa1-a78157cb5873,gold.limited,expiring,72,37,4,"NameCheap, Inc.",13/12/2023 04:02,13/12/2025 04:02
+7c124e7a-50d9-484d-8680-e98f8a434f31,gold.limo,available,72,37,4,,,
+ec593f16-e7af-467e-ac31-668c5f204c45,gold.llc,available,72,37,4,,,
+9244bddb-b5f1-4961-b72c-a2a76f41cb13,gold.loan,available,72,37,4,,,
+eb413b7e-441f-428d-b2c7-c0c06f2ae211,gold.loans,available,72,37,4,,,
+33584fbc-4a5c-4923-b86b-88315692b1e1,gold.locker,available,72,37,4,,,
+574e2844-80a4-4c9b-be88-d64237ae542e,gold.lol,sold,72,37,4,"Porkbun, LLC",20/09/2020 12:10,20/09/2026 23:59
+9d66bcbb-8ac5-436e-95b6-92c67af84f12,gold.london,sold,72,37,4,"Go Daddy, LLC",13/09/2014 04:57,13/09/2026 23:59
+54567e45-214c-4f68-a94f-ae4a51e7850e,gold.love,available,72,37,4,,,
+f57fcaf1-54b1-4ad7-805d-1f891bc378be,gold.ltda,available,72,37,4,,,
+ba0052bc-aebf-4c28-adcb-951e370e5da0,gold.luxury,available,72,37,4,,,
+6ef9198c-73fa-460c-a445-9fa88be9e04e,gold.maison,available,72,37,4,,,
+77fe0262-4de3-4a1e-b7d2-d1fb4638c87d,gold.makeup,available,72,37,4,,,
+c1339fde-ac74-4dda-9932-b75b152b5671,gold.market,available,72,37,4,,,
+52bbc28e-f9a0-475f-93c5-02f09d15e2e6,gold.me,available,72,37,4,,,
+e5722881-da07-44ee-ac38-1a8d8b447c45,gold.melbourne,available,72,37,4,,,
+ce1a064f-4bb9-4f9c-8fdf-f1e1e4a3f628,gold.meme,sold,72,37,4,Namecheap Inc.,27/07/2024 11:17,27/07/2026 11:17
+c56ca996-b83c-4db2-b8a2-2ca6a55056bd,gold.memorial,available,72,37,4,,,
+d3cedd92-1409-4b3a-bc83-2feba8386ef9,gold.men,available,72,37,4,,,
+e6c9ffab-c4bb-45fc-a32d-b60f845731c8,gold.menu,available,72,37,4,,,
+5448a15b-260b-4d86-8823-c69a2913cd21,gold.miami,available,72,37,4,,,
+878ee4ca-a509-4f7d-9a27-1d456e24b67c,gold.moda,resell,72,37,4,"GoDaddy.com, LLC",13/12/2018 23:41,13/12/2026 23:41
+8b7639fd-e091-4faf-99c4-ba036dd8ebc7,gold.moe,available,72,37,4,,,
+ef465082-07b9-40bf-810b-a1bf33b5cd23,gold.mom,available,72,37,4,,,
+8cab0203-b151-4972-9426-d32479271e23,gold.monster,available,72,37,4,,,
+93e42618-f4d7-44df-bd11-3332aeea39a1,gold.mortgage,available,72,37,4,,,
+f7fda97e-f69a-44ce-8770-a2fe0e34c563,gold.motorcycles,available,72,37,4,,,
+e0bcbe78-377c-4905-9afe-8c238f00b608,gold.mov,available,72,37,4,,,
+44d1c1d2-42b9-451a-90fe-b622c248454c,gold.music,available,72,37,4,,,
+a3a208c9-d80f-4e71-99d6-306a50f664fa,gold.network,resell,72,37,4,"GoDaddy.com, LLC",07/12/2014 16:00,07/12/2026 16:00
+37d2badb-fe1b-4f37-944b-352d0cf74275,gold.news,sold,72,37,4,Porkbun LLC,13/11/2025 14:49,13/11/2026 14:49
+f758debf-59a4-472d-91ba-af1faf858118,gold.nexus,available,72,37,4,,,
+c6accc80-a9e2-451e-a414-6e84535b563a,gold.ninja,available,72,37,4,,,
+594b01c4-5d1c-467d-997b-153d8c59b466,gold.nyc,available,72,37,4,,,
+6dc5d8da-f950-49ab-90d0-0166adc40d33,gold.observer,available,72,37,4,,,
+42275a59-118c-47de-9cd0-de270b2c41f8,gold.onl,available,72,37,4,,,
+aa4d641c-008f-40f9-a5f7-2ed3023bb2e0,gold.online,available,72,37,4,,,
+a3a4b6e3-41d9-4511-9761-6d5d8108ca79,gold.organic,available,72,37,4,,,
+4eee18b5-d87f-462a-a51d-b369ceea69c7,gold.osaka,available,72,37,4,,,
+8da8ade5-0962-4c5d-9c83-c4842e0384ed,gold.page,available,72,37,4,,,
+3e39f5a7-da54-4ab9-8e5d-b29941d7737a,gold.pet,resell,72,37,4,"Spaceship, Inc.",14/05/2018 16:41,14/05/2026 16:41
+2be2915a-3d34-4871-b4e6-de7fe29a5ca3,gold.phd,available,72,37,4,,,
+21dbca30-60bd-437b-a20d-88d03ec07aec,gold.photos,resell,72,37,4,"GoDaddy.com, LLC",15/10/2025 20:19,15/10/2026 20:19
+24f34606-aa3b-4e19-aefc-023631586a78,gold.pics,resell,72,37,4,Dynadot LLC,04/05/2022 14:05,04/05/2026 23:59
+8c17c655-487e-4d5a-8036-4d77ec456209,gold.pictures,resell,72,37,4,"Sav.com, LLC",04/12/2025 17:00,04/12/2026 17:00
+ca459f28-6ca2-4e56-9163-3a5b441c44ce,gold.pink,available,72,37,4,,,
+3c2096c6-e57d-4814-aa71-7b7065c9ceb6,gold.place,available,72,37,4,,,
+3d2552ba-c60f-4696-973b-268e474a161d,gold.poker,resell,72,37,4,"NameCheap, Inc.",23/02/2018 21:39,23/02/2026 21:39
+be474979-e45b-4407-a029-507d86c2b680,gold.porn,available,72,37,4,,,
+41914119-50f0-4eb6-a006-71fa128ff487,gold.press,available,72,37,4,,,
+8db6d875-7c2a-4fe4-84cb-a794183df69f,gold.productions,available,72,37,4,,,
+9f817719-d930-4c1e-8dec-cc4bf22a8f6a,gold.prof,available,72,37,4,,,
+2ddf1e7b-917c-4b7a-b5e8-514290e83b01,gold.promo,available,72,37,4,,,
+88b59bd9-cc25-4525-84ed-499f1de3e1f6,gold.properties,available,72,37,4,,,
+01da8b5f-5070-4f3a-95ed-4e9369520a9d,gold.property,available,72,37,4,,,
+9ae5805c-6408-4937-9942-de84c71c4885,gold.protection,available,72,37,4,,,
+1a3f855c-b3e8-4ecd-b514-5eddfbaebd3b,gold.pw,available,72,37,4,,,
+1b235c6c-34de-4f7c-9647-cbbe75bd843f,gold.qpon,available,72,37,4,,,
+e79004df-b08c-4f12-8aaf-e541ecc5e8fb,gold.quest,available,72,37,4,,,
+b0b8af76-1357-41cb-ac42-365ce47d5a3b,gold.racing,available,72,37,4,,,
+3f3cf87f-5578-40cf-8c64-99bd28b541ca,gold.realty,available,72,37,4,,,
+8b361d02-963d-432e-b762-38822bffd522,gold.red,expiring,72,37,4,"Spaceship, Inc.",05/12/2023 15:15,05/12/2025 15:15
+2711fb35-1b7b-4846-a287-00c367180ac1,gold.rehab,available,72,37,4,,,
+d2d117d4-1b35-42dd-89f9-e1ea34e6f728,gold.reise,available,72,37,4,,,
+bbc4006d-e204-477d-a184-e27746104e10,gold.reisen,expiring,72,37,4,Tucows Domains Inc.,03/01/2021 17:19,03/01/2026 17:19
+c784fad8-677b-4fcd-8365-13d998e7a722,gold.rent,resell,72,37,4,"Xiamen ChinaSource Internet Service Co., Ltd",19/04/2024 12:53,19/04/2026 23:59
+12f3e758-d673-4e9b-ab8b-3ad3f968e002,gold.rentals,available,72,37,4,,,
+5168d2fc-3cd6-40a2-bd71-7287866fa36b,gold.republican,available,72,37,4,,,
+9f4896aa-eca7-4fbb-95b4-208102aa9c24,gold.rest,available,72,37,4,,,
+7b2bf596-96f1-47b4-b794-cfb1f0393f45,gold.review,available,72,37,4,,,
+364446ed-d89d-4e9d-a10c-faf8ac1f7760,gold.reviews,sold,72,37,4,"GoDaddy.com, LLC",08/09/2025 07:50,08/09/2026 07:50
+9125fc37-cab3-48a6-b26f-b1cc117a5a4d,gold.rip,premium,72,37,4,,,
+f200cfd0-4819-4a45-b5a7-54c3e8d705f9,gold.rocks,resell,72,37,4,united-domains GmbH,26/05/2018 07:59,26/05/2026 07:59
+cf5445b1-2977-405d-a75a-41b8590ad7fb,gold.rodeo,available,72,37,4,,,
+d92fc34d-9aca-4c33-9621-13d2a8c5e3ad,gold.rsvp,available,72,37,4,,,
+da49a4f9-2838-4746-9f4d-37f84316b28d,gold.sale,available,72,37,4,,,
+245444fb-f695-4a9a-b6cf-6756a6d12131,gold.salon,resell,72,37,4,"Sav.com, LLC - 43",20/02/2025 15:15,20/02/2026 15:15
+d5742979-d6cd-4338-8c5c-332d86bf3510,gold.sarl,available,72,37,4,,,
+b604e23d-4ca5-4d0f-8da1-d37280249758,gold.school,resell,72,37,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),08/05/2021 23:13,08/05/2026 23:13
+43cd2ad8-85cf-4a94-a64c-8c85b2b4dbfc,gold.schule,available,72,37,4,,,
+24d361e6-09ae-4ca1-bde9-dd21070b48d4,gold.security,available,72,37,4,,,
+2406630c-d4f2-481e-9778-3f0195779bb4,gold.services,available,72,37,4,,,
+e380f87b-515c-4a9b-8d36-c035416f4522,gold.sexy,available,72,37,4,,,
+bb52e77e-4d17-415f-ad00-cec61e2f95bc,gold.shiksha,available,72,37,4,,,
+4856d21d-c094-409e-8af2-991764659ded,gold.shoes,resell,72,37,4,"GoDaddy.com, LLC",05/03/2014 22:26,05/03/2026 22:26
+276f2933-4c5c-47f7-9244-dbaf56fbdf57,gold.shopping,sold,72,37,4,Porkbun LLC,15/11/2025 20:40,15/11/2026 20:40
+dd48e11d-c485-4ebb-9899-c20acc0f47d4,gold.show,expiring,72,37,4,"Chengdu West Dimension Digital Technology Co., Ltd.",28/12/2023 15:16,28/12/2025 15:16
+c398a5d8-eea5-4b6b-924f-e070c00cd65e,gold.singles,expired,72,37,4,"NameCheap, Inc.",12/10/2024 20:29,12/10/2025 20:29
+50d3b1ed-6a26-4f1e-ae5c-dc6acc1940b8,gold.site,available,72,37,4,,,
+1c5a1df6-6e7f-4d2d-9c26-dec8cf0948f6,gold.ski,available,72,37,4,,,
+879fb4fe-61b3-4ea3-ac07-f2e586cb33a9,gold.skin,available,72,37,4,,,
+28261522-00c8-480b-ad9a-c41c95011025,gold.so,resell,72,37,4,Dynadot LLC,28/04/2011 00:00,28/04/2026 00:00
+cdc6e2af-15db-4bf5-a61e-1dce08b87402,gold.soccer,resell,72,37,4,Automattic Inc.,05/07/2022 23:58,05/07/2026 23:58
+df66b810-a009-4588-91ab-78d6651da268,gold.software,available,72,37,4,,,
+2ec8bc18-152b-46a9-8b58-a5cfe9465ad1,gold.solutions,resell,72,37,4,Dynadot Inc,16/07/2019 10:26,16/07/2026 10:26
+77ba9710-ea6e-4403-8240-2235b5d7e0b8,gold.soy,available,72,37,4,,,
+fc4cf333-e853-4813-b8d6-ff35b93e9ff0,gold.space,available,72,37,4,,,
+81f53421-566b-4754-8d73-d21152f8f549,gold.spot,available,72,37,4,,,
+35fd54c0-b6d6-443a-9293-dc94d837ee39,gold.srl,available,72,37,4,,,
+28edcff8-b031-4843-ba56-e275229b4a3c,gold.store,available,72,37,4,,,
+a4cd45e7-46ed-4289-9248-1eb8d0618bd4,gold.stream,available,72,37,4,,,
+afe22516-f544-42cc-b5ab-25fa8dfd0012,gold.studio,available,72,37,4,,,
+575ce83d-d143-410c-b2bc-71ab57730ba9,gold.style,sold,72,37,4,"Sav.com, LLC - 36",03/08/2024 15:15,03/08/2026 15:15
+9d4f959a-7723-4c99-8d21-c92518bceb83,gold.sucks,available,72,37,4,,,
+9c765e43-1120-4fdd-89f8-343039c1936b,gold.supplies,available,72,37,4,,,
+cbfe6516-335f-474c-aff7-e3f9e418b458,gold.supply,resell,72,37,4,Porkbun LLC,29/12/2020 12:44,29/12/2026 12:44
+03f619ad-747f-4d99-b989-84c31edaeb9e,gold.support,available,72,37,4,,,
+0c455440-5d2d-4b5a-8375-a525ac69eeea,gold.surf,available,72,37,4,,,
+359c42ef-5d2f-4c42-99d4-5e72528d12e7,gold.surgery,available,72,37,4,,,
+5d0bb4b6-9baf-483b-af87-ecc736e7f84a,gold.sydney,available,72,37,4,,,
+8dd5c2e1-75b7-402a-8c6e-f9079fc52165,gold.tax,expiring,72,37,4,"GoDaddy.com, LLC",25/12/2021 17:37,25/12/2025 17:37
+42b9e7f2-85eb-45de-b245-4beae9956692,gold.taxi,expired,72,37,4,"Sav.com, LLC",18/09/2024 11:46,18/09/2025 11:46
+caa79c23-68b0-4d61-8164-7e344de92ba3,gold.tech,available,72,37,4,,,
+76fce00d-e3bf-43dd-8498-c06df2944975,gold.technology,resell,72,37,4,"Spaceship, Inc.",12/05/2017 14:08,12/05/2026 14:08
+e5063f25-7059-4b2f-9c63-4d053c526c87,gold.tel,available,72,37,4,,,
+fec66c9a-256d-4e27-9571-7a12a692c431,gold.tennis,resell,72,37,4,"GoDaddy.com, LLC",13/04/2022 23:56,13/04/2026 23:56
+a1f7b085-0188-4660-bf95-52f3b9971c20,gold.theatre,available,72,37,4,,,
+ad97b9c7-61d7-41e7-8f2b-0f1e80f9920a,gold.tickets,available,72,37,4,,,
+58be4a2b-1bb9-4f97-891c-d73f6074d647,gold.tires,available,72,37,4,,,
+1536d732-98f9-43be-b9af-a878d5e9e438,gold.today,resell,72,37,4,"GoDaddy.com, LLC",28/06/2015 16:00,28/06/2026 16:00
+39945f13-9b35-4e8a-9f0c-53d8dfe84391,gold.tools,resell,72,37,4,Porkbun LLC,18/03/2025 12:24,18/03/2026 12:24
+bbde4c41-6b76-46cc-9a68-b970d89b8ede,gold.tours,available,72,37,4,,,
+49622bd7-9ac1-481b-abb8-625e2d5975de,gold.town,available,72,37,4,,,
+41db0ac8-ee11-47b4-bd45-f085095b53e9,gold.trade,available,72,37,4,,,
+bd80e996-513e-4876-887e-a43c30de2e78,gold.travel,expiring,72,37,4,"Sav.com, LLC - 34",05/12/2024 15:16,05/12/2025 15:16
+127f59b0-fdd3-4887-8ed8-1c52badea033,gold.tube,expired,72,37,4,"Latin American Telecom, LLC",08/11/2017 19:27,08/11/2025 19:27
+1f123bb9-1ab0-452a-b183-288a3b7e6cfb,gold.university,available,72,37,4,,,
+936b3e4c-8f7d-4ddd-be19-106cd08f63e6,gold.uno,available,72,37,4,,,
+f42ad79c-f5c2-47d5-a936-d9f0b074bc3e,gold.vana,available,72,37,4,,,
+963ca90e-ac78-4ae9-b233-2e37311c961e,gold.ventures,resell,72,37,4,"Sav.com, LLC - 30",23/04/2023 15:15,23/04/2026 15:15
+ee5ec744-464e-4bb2-98fd-bbf68638cc66,gold.video,available,72,37,4,,,
+bfb18895-7973-4f94-ab8f-c7fc89e03c70,gold.villas,available,72,37,4,,,
+23982d95-06d1-47af-9b0a-497e54e6d8fc,gold.vodka,resell,72,37,4,"GoDaddy.com, LLC",02/06/2021 18:29,02/06/2026 18:29
+d0e4ec39-ad82-4041-90ab-2b465b7bc606,gold.vote,available,72,37,4,,,
+fa8c1ce7-1e92-4fe3-8738-4ecbb0d3811a,gold.voting,available,72,37,4,,,
+7abc420f-1db2-4056-9367-5672cd97ef0c,gold.voto,available,72,37,4,,,
+fb5ac5e0-7c3f-4929-85b9-dca702a760d0,gold.voyage,expired,72,37,4,Dynadot Inc,22/10/2024 05:05,22/10/2025 05:05
+60d16bdf-89fa-40fc-aca2-f510844e460c,gold.watch,sold,72,37,4,"Name.com, Inc.",20/09/2015 23:59,20/09/2026 23:59
+ea45437f-62b7-495f-ab10-04fc98d06462,gold.webcam,available,72,37,4,,,
+c27abc7e-b13b-45a6-9168-f4fe8c648484,gold.website,available,72,37,4,,,
+6786d2b5-7e88-49a3-96d9-9e094b2ec01f,gold.wedding,available,72,37,4,,,
+4ef7ff9b-bcd7-482c-bd66-d490613dd81d,gold.wiki,available,72,37,4,,,
+f291ab83-ddcf-4a60-a8c3-877d02b81c6d,gold.wine,available,72,37,4,,,
+0139d912-a1c0-40b2-ba53-dc1a3d6294b3,gold.work,resell,72,37,4,Dynadot Inc,30/10/2019 00:41,30/10/2026 01:41
+973f3dfb-8fd9-4ebe-9d6d-11860037acb4,gold.works,available,72,37,4,,,
+3fade5e5-5c5e-48f3-88c2-6e6bba1f8dc2,gold.world,resell,72,37,4,"Spaceship, Inc.",27/03/2024 15:46,27/03/2026 15:46
+421c9c75-690f-4922-8bbd-0151f116e44c,gold.xyz,available,72,37,4,,,
+01fbec92-4335-4064-ab9f-35284717bebc,gold.yachts,available,72,37,4,,,
+75e2fb18-398c-46c1-979c-55883b6e7cef,gold.zip,available,72,37,4,,,
 b0a61617-4b2d-48cb-89fb-da900870acab,silver.ac,resell,56,30,6,"Sav.com, LLC - 7",10/04/2025 15:15,10/04/2026 15:15
 af2b864f-532a-4f4b-b76e-c3b26454c28e,silver.accountant,available,56,30,6,,,
 c07d2c03-798c-44a4-845b-c0b49ca67524,silver.accountants,available,56,30,6,,,
 0681c59f-7cfc-4f97-8598-90fed63ddf10,silver.actor,available,56,30,6,,,
-618765fe-d6e0-4da4-99af-b56a655450ea,silver.adult,available,56,30,6,,,
-b5adc312-0b1e-476a-bf24-f7b7fa0579bf,silver.airforce,available,56,30,6,,,
-9f59879a-8a36-45b5-95cd-0023f4dbfa80,silver.apartments,available,56,30,6,,,
-1cc9fe9b-8f01-4e4f-961f-f872aeef1395,silver.archi,available,56,30,6,,,
-26cfcdab-d852-49ce-8846-fc0f0e3c0ca3,silver.art,available,56,30,6,,,
-e1174562-d7eb-4dc3-99ca-9a52afcc5fee,silver.associates,available,56,30,6,,,
-5e4a23e8-f5c5-4fef-ba82-26eaff8fefa1,silver.at,available,56,30,6,,,
-9a45a4c7-978e-4a00-b6f9-6bf34d606864,silver.attorney,available,56,30,6,,,
-f8b64335-3dd4-469c-8c20-1726a74d8795,silver.auction,available,56,30,6,,,
-76f4438b-d1ac-4c19-ada7-640fe754bc0e,silver.audio,available,56,30,6,,,
-f85dec8e-d5b7-40f9-81df-e9c676f9d349,silver.auto,available,56,30,6,,,
-2481a62e-fd8d-4f08-bb67-b17cf7a1cfe5,silver.autos,resell,56,30,6,"Xiamen ChinaSource Internet Service Co., Ltd",01/12/2024 11:01,01/12/2025 23:59
-1bb3c319-ac72-4a6a-bd0a-c5ea2b157a7d,silver.baby,available,56,30,6,,,
-540aebb5-7f06-419d-bd20-572acee04b83,silver.band,available,56,30,6,,,
-f1646156-b360-4a33-9967-ab79e6c76356,silver.bar,available,56,30,6,,,
-c601e912-0f83-413e-88df-e62a1acea975,silver.bayern,available,56,30,6,,,
-c51633d2-eec4-4d90-8bcd-95bc843a65a6,silver.beer,available,56,30,6,,,
-29bb3974-6cd5-46b4-9e2a-72b521053e58,silver.berlin,available,56,30,6,,,
-2ed28ded-74ec-4533-8790-4e19d3bcc087,silver.bet,resell,56,30,6,"GoDaddy.com, LLC",18/04/2025 15:15,18/04/2027 15:15
-40acc78a-4238-4339-a33a-0f5059be2b90,silver.bid,resell,56,30,6,Porkbun,26/07/2019 16:06,26/07/2026 16:06
-fa81b730-dd1a-4cc7-9b85-92edd570de97,silver.bike,available,56,30,6,,,
-f2bd6157-4695-4c56-b9a8-ed870e029ccd,silver.bingo,available,56,30,6,,,
-b1bb75b3-6d50-4f87-84cc-e6a61a83c7ca,silver.bio,resell,56,30,6,"Xiamen ChinaSource Internet Service Co., Ltd",10/04/2025 15:15,10/04/2026 15:15
-f137c954-9dab-452f-be91-e81aa4926fe8,silver.black,resell,56,30,6,Dynadot2 LLC,30/06/2019 10:12,30/06/2026 10:12
-0b128da1-7889-4c63-adc4-b37959cca2f2,silver.blackfriday,available,56,30,6,,,
-7c21fa29-1d9c-4c11-883a-237718273dc2,silver.blog,available,56,30,6,,,
-56a6f62b-77ac-48b5-a47c-b2e7dcafd6a4,silver.boats,available,56,30,6,,,
-517aa6c6-a026-4518-b0b3-69d92321d69a,silver.bond,available,56,30,6,,,
-b0adc3ea-f7cf-4306-bbc4-ed32b0228b9e,silver.boo,available,56,30,6,,,
-3d2f7f80-0487-4a2b-a30b-36969c568bc2,silver.boston,available,56,30,6,,,
-93272228-b8b3-41b7-addc-f10e58889e17,silver.build,available,56,30,6,,,
-bc553053-5381-42db-9dc7-d72a3384b0e1,silver.cab,available,56,30,6,,,
-097d63d4-51e9-4da6-9ae9-9695274950a3,silver.cam,available,56,30,6,,,
