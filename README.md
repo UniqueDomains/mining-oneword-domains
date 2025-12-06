@@ -50,7 +50,7 @@ If you want to search & filters the complete database of [Mining one word domain
 | screening.org    | resell    | 70       | 88%    | 9      | Dynadot Inc            | 09/05/2000 11:15 | 09/05/2027 11:15 |
 | screening.pro    | expired   | 70       | 88%    | 9      | Sav.com, LLC - 9       | 08/05/2024 17:00 | 08/05/2025 17:00 |
 | screening.so     | available | 70       | 88%    | 9      |                        |                  |                  |
-| screening.store  | available | 70       | 88%    | 9      |                        |                  |                  |
+| screening.store  | premium   | 70       | 88%    | 9      |                        |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Mining-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
