@@ -175,7 +175,7 @@ b5aaa645-5159-4813-914d-232bc0be14c6,strip.bio,resell,84,16,5,"Sav.com, LLC",07/
 a380a2ea-3325-48c7-830d-fb41e01b90c6,strip.boats,available,84,16,5,,,
 ccc7e8d9-d04f-49a5-b3ed-d5f3241cfa7c,strip.boo,premium,84,16,5,,,
 499a496b-9665-44bf-8f6b-01731d006bea,strip.boston,available,84,16,5,,,
-394114c1-bcef-4082-b217-37a529f6d360,strip.bot,available,84,16,5,,,
+394114c1-bcef-4082-b217-37a529f6d360,strip.bot,premium,84,16,5,,,
 779498bc-fedb-48d7-a9dc-f6a663f3fe96,strip.boutique,available,84,16,5,,,
 961eae9c-b479-458c-a01f-7cc578a31ab9,strip.build,premium,84,16,5,,,
 8d7cabc8-b2e8-45bd-9122-46292b4dcbaa,strip.builders,available,84,16,5,,,
@@ -274,7 +274,7 @@ d6fe1106-1ff5-4065-8dd7-b4af96c528d8,strip.fan,expired,84,16,5,Squarespace Domai
 9453a016-0b8b-46ae-9756-76bb1e7af924,strip.fans,premium,84,16,5,,,
 6e493998-f784-4e0c-907b-f7cbbe804d1e,strip.farm,available,84,16,5,,,
 21125354-04b6-4b96-843d-b855da7661d9,strip.fashion,premium,84,16,5,,,
-1f3863f6-1975-45c8-bf7d-b5f1ac14c75f,strip.fast,available,84,16,5,,,
+1f3863f6-1975-45c8-bf7d-b5f1ac14c75f,strip.fast,premium,84,16,5,,,
 60b06b71-4f4b-4f98-820b-93de0a1ec86f,strip.film,premium,84,16,5,,,
 42b77a82-4e17-48be-addf-c6502937dc39,strip.finance,sold,84,16,5,"NameCheap, Inc.",03/09/2020 06:15,03/09/2026 06:15
 d64c63dc-ee48-42ce-86c3-8bf8514b7340,strip.financial,available,84,16,5,,,
@@ -290,7 +290,7 @@ ec8aa4fd-cabe-44d5-aa24-6025b412514e,strip.foo,premium,84,16,5,,,
 1c44bd1e-27e9-4305-b286-d3f63684772b,strip.football,available,84,16,5,,,
 9cb02193-5ad9-4a2d-ae1e-36c3b76bee96,strip.forsale,premium,84,16,5,,,
 262562db-f551-42fe-be98-5218aa775e1e,strip.forum,premium,84,16,5,,,
-99a0e5ca-e9bd-4c70-ab35-0a74706bc236,strip.free,available,84,16,5,,,
+99a0e5ca-e9bd-4c70-ab35-0a74706bc236,strip.free,premium,84,16,5,,,
 798cf8b3-7866-4d3c-96e3-a3f8dcf63614,strip.fun,premium,84,16,5,,,
 89ae35bb-da9b-4b1d-8cef-17f42b95ab18,strip.fund,available,84,16,5,,,
 24c29174-16ef-4f3d-8a8a-1dbf1ecbf226,strip.furniture,available,84,16,5,,,
@@ -495,7 +495,7 @@ dc5d222a-9a17-4773-b85d-62b0e9a108a7,strip.surf,available,84,16,5,,,
 1c5abcee-cb4f-4038-916b-57b8a457bdd5,strip.surgery,available,84,16,5,,,
 e0f79820-dc47-47ac-b0f5-31c61386a797,strip.sydney,available,84,16,5,,,
 7bd9db00-f86e-4b2a-a41a-cf067ff5a4ed,strip.systems,available,84,16,5,,,
-f3a3ac23-f082-48ab-9ed6-dd10e2abf10c,strip.talk,available,84,16,5,,,
+f3a3ac23-f082-48ab-9ed6-dd10e2abf10c,strip.talk,premium,84,16,5,,,
 5cf1f725-87c3-4fe6-8646-459424a6e83f,strip.tattoo,available,84,16,5,,,
 f650c34a-fe71-476c-b951-36342d3405f7,strip.tax,available,84,16,5,,,
 e05c130f-f4ac-459a-a48f-8cb8394fb1df,strip.taxi,available,84,16,5,,,
@@ -545,7 +545,7 @@ dccc1ecf-18f0-4f9d-807f-b0957bd89712,strip.website,premium,84,16,5,,,
 bbcee287-682a-4fca-9b77-e8e095f76031,strip.xyz,sold,84,16,5,Dynadot LLC,02/06/2014 16:04,02/06/2027 23:59
 a1913844-9a7d-4554-857d-5a46f8159d1c,strip.yachts,available,84,16,5,,,
 1cd53bbf-2098-42a2-98f9-44ca2d2e9ef2,strip.yoga,premium,84,16,5,,,
-74538181-497b-4751-9ba4-829bd2c7275e,strip.you,available,84,16,5,,,
+74538181-497b-4751-9ba4-829bd2c7275e,strip.you,premium,84,16,5,,,
 93157a72-31af-4c87-870d-aad299ccdd28,strip.zip,premium,84,16,5,,,
 51864803-fda1-4f54-a924-8a09ee225d2b,block.at,available,68,88,5,,,
 92d576a1-e4f9-4008-9ece-a7f0526fa66d,block.expert,sold,68,88,5,Dynadot Inc,11/04/2020 01:41,11/04/2026 01:41
@@ -579,21 +579,6 @@ edcd9f42-942d-4797-9d52-d4e580afcbb3,heap.online,premium,54,84,4,,,
 73bb4c3d-c3b7-4478-a381-b75becd83a75,heap.site,premium,54,84,4,,,
 fec5ab85-a83f-4b43-ba7b-d28cb196ed0f,heap.so,premium,54,84,4,,,
 b08257b1-4114-4193-bd5b-1633bcfd5d89,heap.xyz,sold,54,84,4,Dynadot LLC,24/04/2017 18:28,24/04/2027 23:59
-06abb0b4-333a-4ec9-abeb-8acca17c104d,gravity.at,available,64,80,7,,,
-a96369d3-dad7-4380-b680-99a303d5db97,gravity.co,expiring,64,80,7,"GoDaddy.com, LLC",20/07/2010 18:00,19/07/2025 23:59
-41ac06e7-05e9-439f-846a-90fa381df135,gravity.it,resell,64,80,7,,15/02/2012 04:27,14/02/2026 00:00
-97854766-a894-4931-88d5-3bf179bcb8d3,gravity.me,expiring,64,80,7,"GoDaddy.com, LLC",21/07/2008 03:13,21/07/2025 03:13
-d8b964f8-418f-4307-8ad6-19cb9f928d78,gravity.org,resell,64,80,7,"GoDaddy.com, LLC",05/06/2003 14:04,05/06/2027 14:04
-7aed18e0-d355-454e-8dcb-a6131ef51d0d,gravity.so,resell,64,80,7,NameCheap,15/08/2020 22:28,15/08/2025 22:28
-f9b0d712-9a44-4a69-88c1-9b7d0b807530,gravity.space,premium,64,80,7,,,
-dd4f117f-4e75-47e0-a697-e6cdb86436fd,gravity.store,premium,64,80,7,,,
-1e55ca78-b07c-4139-8ef1-ad4920c9d4b7,flotation.ai,available,54,72,9,,,
-8d946c18-9c24-4b4b-8699-e6aa9bc8563b,flotation.at,available,54,72,9,,,
-76d5660b-619e-4813-b8de-c88d3e9d803a,flotation.cloud,available,54,72,9,,,
-16980846-1402-413c-9671-052d61132f2c,flotation.co,premium,54,72,9,,,
-b2a0d206-dfc9-4afd-9838-294f2500c494,flotation.dev,available,54,72,9,,,
-bb5a331e-ec1e-4768-b387-45072ef4b306,flotation.expert,available,54,72,9,,,
-9456e4e8-3d69-4564-bea9-4380a3d79522,flotation.gg,available,54,72,9,,,
 b9d5c65f-332b-447e-9cb2-7c2ee2da24bc,flotation.io,available,54,72,9,,,
 a157a717-4a44-421d-a8f8-216f025ca184,flotation.me,available,54,72,9,,,
 95a39a32-7650-4131-a274-d54663cd5399,flotation.ninja,available,54,72,9,,,
@@ -617,6 +602,21 @@ c5b6064b-df6a-4949-82c1-2856c9d96e3a,froth.pro,premium,84,88,5,,,
 4055d153-eafb-4b2b-92da-65cc3fa4010c,froth.so,available,84,88,5,,,
 f06c3897-238d-4ed1-b1f8-07903fa48543,froth.space,premium,84,88,5,,,
 8599e3a5-77c3-4c64-aec9-931943752986,froth.xyz,resell,84,88,5,Dynadot LLC,09/03/2021 10:06,09/03/2026 23:59
+06abb0b4-333a-4ec9-abeb-8acca17c104d,gravity.at,available,64,80,7,,,
+a96369d3-dad7-4380-b680-99a303d5db97,gravity.co,expiring,64,80,7,"GoDaddy.com, LLC",20/07/2010 18:00,19/07/2025 23:59
+41ac06e7-05e9-439f-846a-90fa381df135,gravity.it,resell,64,80,7,,15/02/2012 04:27,14/02/2026 00:00
+97854766-a894-4931-88d5-3bf179bcb8d3,gravity.me,expiring,64,80,7,"GoDaddy.com, LLC",21/07/2008 03:13,21/07/2025 03:13
+d8b964f8-418f-4307-8ad6-19cb9f928d78,gravity.org,resell,64,80,7,"GoDaddy.com, LLC",05/06/2003 14:04,05/06/2027 14:04
+7aed18e0-d355-454e-8dcb-a6131ef51d0d,gravity.so,resell,64,80,7,NameCheap,15/08/2020 22:28,15/08/2025 22:28
+f9b0d712-9a44-4a69-88c1-9b7d0b807530,gravity.space,premium,64,80,7,,,
+dd4f117f-4e75-47e0-a697-e6cdb86436fd,gravity.store,premium,64,80,7,,,
+1e55ca78-b07c-4139-8ef1-ad4920c9d4b7,flotation.ai,available,54,72,9,,,
+8d946c18-9c24-4b4b-8699-e6aa9bc8563b,flotation.at,available,54,72,9,,,
+76d5660b-619e-4813-b8de-c88d3e9d803a,flotation.cloud,available,54,72,9,,,
+16980846-1402-413c-9671-052d61132f2c,flotation.co,premium,54,72,9,,,
+b2a0d206-dfc9-4afd-9838-294f2500c494,flotation.dev,available,54,72,9,,,
+bb5a331e-ec1e-4768-b387-45072ef4b306,flotation.expert,available,54,72,9,,,
+9456e4e8-3d69-4564-bea9-4380a3d79522,flotation.gg,available,54,72,9,,,
 3a04ed9e-af47-49f3-9f6e-44b31d6bb57d,magnetic.ai,resell,60,84,8,Deep Vision Architects,16/12/2017 00:49,16/11/2025 00:49
 0ec27e60-8643-4814-b90b-d7dd0289c651,magnetic.at,available,60,84,8,,,
 f0ccda37-0e0c-41f9-b7a6-626fb9b725ec,magnetic.gg,resell,60,84,8,Enrapture Limited (https://enrapture.gg),,
@@ -703,265 +703,8 @@ baa8a039-ba99-4e3e-82ca-f919ad11ba72,copper.space,premium,54,92,6,,,
 645cea7d-0f30-4d94-901e-44a6126c88e9,copper.store,premium,54,92,6,,,
 24923b08-543f-4a99-b52f-8b2d2fdf4657,copper.tech,premium,54,92,6,,,
 2dabad68-582f-4cae-ab4c-2853e82ec391,copper.us,resell,54,92,6,"GoDaddy.com, LLC",09/07/2012 18:03,08/07/2026 23:59
-b0a61617-4b2d-48cb-89fb-da900870acab,silver.ac,resell,56,28,6,"Sav.com, LLC - 7",10/04/2025 15:15,10/04/2026 15:15
-af2b864f-532a-4f4b-b76e-c3b26454c28e,silver.accountant,premium,56,28,6,,,
-c07d2c03-798c-44a4-845b-c0b49ca67524,silver.accountants,available,56,28,6,,,
-0681c59f-7cfc-4f97-8598-90fed63ddf10,silver.actor,available,56,28,6,,,
-618765fe-d6e0-4da4-99af-b56a655450ea,silver.adult,available,56,28,6,,,
-b5adc312-0b1e-476a-bf24-f7b7fa0579bf,silver.airforce,available,56,28,6,,,
-9f59879a-8a36-45b5-95cd-0023f4dbfa80,silver.apartments,available,56,28,6,,,
-1cc9fe9b-8f01-4e4f-961f-f872aeef1395,silver.archi,available,56,28,6,,,
-26cfcdab-d852-49ce-8846-fc0f0e3c0ca3,silver.art,available,56,28,6,,,
-e1174562-d7eb-4dc3-99ca-9a52afcc5fee,silver.associates,available,56,28,6,,,
-5e4a23e8-f5c5-4fef-ba82-26eaff8fefa1,silver.at,available,56,28,6,,,
-9a45a4c7-978e-4a00-b6f9-6bf34d606864,silver.attorney,available,56,28,6,,,
-f8b64335-3dd4-469c-8c20-1726a74d8795,silver.auction,available,56,28,6,,,
-76f4438b-d1ac-4c19-ada7-640fe754bc0e,silver.audio,available,56,28,6,,,
-f85dec8e-d5b7-40f9-81df-e9c676f9d349,silver.auto,available,56,28,6,,,
-2481a62e-fd8d-4f08-bb67-b17cf7a1cfe5,silver.autos,resell,56,28,6,"Xiamen ChinaSource Internet Service Co., Ltd",01/12/2024 11:01,01/12/2025 23:59
-1bb3c319-ac72-4a6a-bd0a-c5ea2b157a7d,silver.baby,available,56,28,6,,,
-540aebb5-7f06-419d-bd20-572acee04b83,silver.band,available,56,28,6,,,
-f1646156-b360-4a33-9967-ab79e6c76356,silver.bar,available,56,28,6,,,
-c601e912-0f83-413e-88df-e62a1acea975,silver.bayern,available,56,28,6,,,
-c51633d2-eec4-4d90-8bcd-95bc843a65a6,silver.beer,available,56,28,6,,,
-29bb3974-6cd5-46b4-9e2a-72b521053e58,silver.berlin,available,56,28,6,,,
-2ed28ded-74ec-4533-8790-4e19d3bcc087,silver.bet,resell,56,28,6,"GoDaddy.com, LLC",18/04/2025 15:15,18/04/2027 15:15
-40acc78a-4238-4339-a33a-0f5059be2b90,silver.bid,resell,56,28,6,Porkbun,26/07/2019 16:06,26/07/2026 16:06
-fa81b730-dd1a-4cc7-9b85-92edd570de97,silver.bike,available,56,28,6,,,
-f2bd6157-4695-4c56-b9a8-ed870e029ccd,silver.bingo,available,56,28,6,,,
-b1bb75b3-6d50-4f87-84cc-e6a61a83c7ca,silver.bio,resell,56,28,6,"Xiamen ChinaSource Internet Service Co., Ltd",10/04/2025 15:15,10/04/2026 15:15
-f137c954-9dab-452f-be91-e81aa4926fe8,silver.black,resell,56,28,6,Dynadot2 LLC,30/06/2019 10:12,30/06/2026 10:12
-0b128da1-7889-4c63-adc4-b37959cca2f2,silver.blackfriday,available,56,28,6,,,
-7c21fa29-1d9c-4c11-883a-237718273dc2,silver.blog,available,56,28,6,,,
-abc631b0-3320-4291-9925-6bb0b1c5cbe4,silver.blue,resell,56,28,6,"Xiamen ChinaSource Internet Service Co., Ltd",06/08/2024 17:00,06/08/2026 17:00
-56a6f62b-77ac-48b5-a47c-b2e7dcafd6a4,silver.boats,available,56,28,6,,,
-517aa6c6-a026-4518-b0b3-69d92321d69a,silver.bond,available,56,28,6,,,
-b0adc3ea-f7cf-4306-bbc4-ed32b0228b9e,silver.boo,available,56,28,6,,,
-3d2f7f80-0487-4a2b-a30b-36969c568bc2,silver.boston,available,56,28,6,,,
-caca4145-1c51-41c7-9d7e-3875f5e39585,silver.bot,available,56,28,6,,,
-67092767-4407-4a63-9b03-4ba84eb48d5c,silver.boutique,resell,56,28,6,"Spaceship, Inc.",20/10/2025 19:27,20/10/2026 19:27
-93272228-b8b3-41b7-addc-f10e58889e17,silver.build,available,56,28,6,,,
-bc553053-5381-42db-9dc7-d72a3384b0e1,silver.cab,available,56,28,6,,,
-097d63d4-51e9-4da6-9ae9-9695274950a3,silver.cam,available,56,28,6,,,
-51a6d62a-7e15-4e20-99af-d5b6965efc37,silver.camera,available,56,28,6,,,
-348faa1c-bd4e-4efd-9be8-0245d9e3ae53,silver.camp,sold,56,28,6,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,29/10/2024 15:15,29/10/2026 15:15
-e427082e-fb10-4d83-8329-bb567eb7ca8a,silver.capital,resell,56,28,6,"NameCheap, Inc.",27/10/2015 23:11,27/10/2026 23:11
-efdca72e-af22-4120-a1da-cd84e6fab07c,silver.car,available,56,28,6,,,
-28ae0539-63a2-4714-8754-79f8bf6e3b33,silver.care,sold,56,28,6,"Spaceship, Inc.",14/09/2018 19:18,14/09/2026 19:18
-bde0fc81-cf77-42c3-9175-a47024ccc4ef,silver.cars,available,56,28,6,,,
-07d0ec49-9e02-4810-8e25-f2bccc01876b,silver.casa,available,56,28,6,,,
-695deac9-c077-4c46-a29c-f971f5ce9e66,silver.casino,available,56,28,6,,,
-ccd989d5-7e09-48bd-8c19-ca76079070e6,silver.catering,available,56,28,6,,,
-2718a651-0f07-49d7-a536-e63ca04d4b55,silver.ceo,available,56,28,6,,,
-f0cfbb8d-f84e-4dd2-becd-ccd27776100c,silver.cfd,available,56,28,6,,,
-31430f5e-38bb-4e1c-a3c5-cb4df765c89c,silver.charity,available,56,28,6,,,
-a6c03e78-28d6-4562-a932-0d7eafd67d86,silver.chat,resell,56,28,6,"DNSPod, Inc.",06/09/2019 12:09,06/09/2027 12:09
-6249b3fc-5542-4f7d-bc24-0fb2b59ea3bc,silver.claims,available,56,28,6,,,
-4058c1d4-98e4-4879-b7f1-2c8f0bc88f76,silver.cleaning,expiring,56,28,6,Tucows Domains Inc.,27/12/2023 18:25,27/12/2025 18:25
-6b27b612-aa56-41be-845a-0a22a4ba4dc0,silver.click,available,56,28,6,,,
-1620144f-eeb4-47fc-81c8-0ddb5c541d7f,silver.clinic,premium,56,28,6,,,
-524a327d-b9f9-4bcc-8642-2624df2dbdae,silver.clothing,available,56,28,6,,,
-baad218f-a4a4-4ef7-a69e-f1cfee61b4ca,silver.cloud,available,56,28,6,,,
-45db3f41-a9b6-4695-bee5-99e348662713,silver.club,resell,56,28,6,"GoDaddy.com, LLC",15/10/2015 11:05,14/10/2027 23:59
-fa6ded68-39ed-4570-a36d-21843ac2f703,silver.coach,sold,56,28,6,IONOS SE,11/09/2022 13:13,11/09/2026 13:13
-0ad0993b-6a91-4b13-a776-6a03b4a46ff1,silver.college,available,56,28,6,,,
-6b5f8ab7-e064-4f2e-8bab-baa4a18db399,silver.company,resell,56,28,6,"Name.com, Inc.",14/09/2019 18:39,14/09/2027 18:39
-bb93a8bf-71a4-4225-b627-e3eb32339d4c,silver.computer,expiring,56,28,6,"Sav.com, LLC",17/12/2024 12:02,17/12/2025 12:02
-20c623fa-056b-4982-9e7d-e64157d0e57e,silver.condos,available,56,28,6,,,
-69a9efcc-a9d3-4d1d-b8a1-8593e76aa0f8,silver.contractors,available,56,28,6,,,
-848a3774-24ff-4816-bda0-ffb3ebb5137f,silver.cooking,available,56,28,6,,,
-a13671ad-cc0c-4d3d-8441-51de4069e213,silver.cool,available,56,28,6,,,
-89bda1f1-43f6-4ca5-a7a0-aadc8c00562e,silver.country,available,56,28,6,,,
-232aca8e-8888-40a8-a6aa-c4b39b0602b6,silver.coupons,sold,56,28,6,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,23/11/2025 15:15,23/11/2026 15:15
-c0cefb46-c63f-4d9f-9139-ccf1da603f84,silver.courses,available,56,28,6,,,
-ecafd888-90f8-4a2e-8411-5ece5210b4c7,silver.credit,expired,56,28,6,"Sav.com, LLC",21/10/2024 19:42,21/10/2025 19:42
-1d3abd5d-56cb-4b6e-979f-cbaa05fa9184,silver.cricket,available,56,28,6,,,
-0245a3e4-7b12-4e1a-8fb0-48a77e762b4e,silver.cruises,available,56,28,6,,,
-c089011b-b597-4dff-a64b-918e16a32e73,silver.cv,available,56,28,6,,,
-fcd91d7c-e70f-4695-b15f-e6897ce36e9d,silver.cyou,available,56,28,6,,,
-6831b457-ac79-454c-8f4f-c7b0b7a07cda,silver.dad,available,56,28,6,,,
-19ae57c8-306e-43eb-a6f8-e59d39c2d9be,silver.dance,available,56,28,6,,,
-4712f7f6-3df3-4e75-9d38-7db12f6c045e,silver.date,available,56,28,6,,,
-42d3d7d5-e275-4023-bf82-aa05dbb96c89,silver.day,available,56,28,6,,,
-7e1e9e4b-db36-4321-a301-9646d8094edf,silver.deal,available,56,28,6,,,
-df388f5f-90ac-45f7-be5e-e3afe5bfbcfb,silver.dealer,available,56,28,6,,,
-dd5da231-2358-4d89-a28d-23fef68a4853,silver.degree,available,56,28,6,,,
-a6024d77-86dd-41b3-8eb1-f1afc9b2783c,silver.democrat,available,56,28,6,,,
-35231888-667e-44b9-b91e-703e9baba389,silver.dental,available,56,28,6,,,
-a163343e-5907-4dca-9303-b03897bbb8ab,silver.dentist,available,56,28,6,,,
-b21e364e-8b1c-4d89-a0fc-8e787eca5532,silver.design,available,56,28,6,,,
-85d2695b-1509-494a-98ae-0c6acb4c5a08,silver.diamonds,available,56,28,6,,,
-9aa35f17-7fd3-45a4-ac0e-0622f82c1d9d,silver.diet,available,56,28,6,,,
-0c85e36e-1a41-4471-bc27-fc1c6dcaf97d,silver.digital,resell,56,28,6,"Sav.com, LLC - 23",13/09/2023 15:15,13/09/2026 15:15
-0e6c0904-ef03-4f1e-9136-336ae8bdbf04,silver.directory,expiring,56,28,6,"NameCheap, Inc.",28/12/2024 08:50,28/12/2025 08:50
-649633e5-ec2a-4a65-9548-67a8a30d8336,silver.diy,available,56,28,6,,,
-d0f335e4-6f4b-4497-93cc-bdcfc5977267,silver.doctor,resell,56,28,6,"Wild West Domains, LLC",02/11/2016 16:00,02/11/2026 16:00
-5ed0bce3-2c63-4f17-979c-b43f76425def,silver.dog,resell,56,28,6,"Sav.com, LLC",24/11/2025 08:05,24/11/2026 08:05
-676fa87b-4595-46d5-bf60-6de0cb5efae4,silver.domains,available,56,28,6,,,
-f7dbb61e-e522-42df-bb2f-8c0779aec7ae,silver.download,available,56,28,6,,,
-01bf79de-7970-4a9b-8b18-d6cc5e806ef3,silver.email,resell,56,28,6,"GoDaddy.com, LLC",11/01/2024 17:49,11/01/2026 17:49
-7e374f8e-0d9f-4b88-9761-16eed8130db5,silver.engineer,available,56,28,6,,,
-027cd739-49be-4bcd-a3f6-a45573861122,silver.engineering,available,56,28,6,,,
-4be2046b-231d-4520-a6aa-6518a59d4f8c,silver.enterprises,available,56,28,6,,,
-e233163e-c312-44a1-9e02-227f4f0872a6,silver.esq,available,56,28,6,,,
-ebaebeab-4d3c-489c-bb29-e9821f582802,silver.estate,available,56,28,6,,,
-01c15ebb-3511-46b7-ab7a-dbb457c22ce1,silver.events,available,56,28,6,,,
-1259638f-cb1c-48e1-a783-bbd0acb61ec1,silver.exchange,resell,56,28,6,Dynadot Inc,29/09/2015 10:55,29/09/2026 10:55
-7520334a-6952-49df-8fcb-0c6c9a1199f2,silver.expert,available,56,28,6,,,
-9bc9ec7c-3220-43fe-a022-1872c742b3ce,silver.exposed,available,56,28,6,,,
-fd9e28bd-6dd3-421f-8dc4-cdd824ebaa39,silver.express,resell,56,28,6,"Spaceship, Inc.",05/11/2021 13:15,05/11/2026 13:15
-d4043d84-04e9-4b7c-aed8-1ac7f02ef1fb,silver.fail,available,56,28,6,,,
-54c2fbb7-f359-4fff-bfcb-463ed1e8b3de,silver.family,available,56,28,6,,,
-a664471f-1c79-4f78-b5dd-f6f5b9528731,silver.fan,available,56,28,6,,,
-5a23b3ab-397b-4a6c-9c78-351a73f3e612,silver.fans,available,56,28,6,,,
-62342949-0190-49f3-90ad-c2848a09334d,silver.farm,available,56,28,6,,,
-7c51b3d0-6eb8-49ee-a0c3-6b4c8e671793,silver.fashion,available,56,28,6,,,
-4abda95b-3c1e-4b81-b680-70b73368566d,silver.fast,available,56,28,6,,,
-197dee77-986d-4019-8167-7325aed4b5ab,silver.film,sold,56,28,6,IONOS SE,09/08/2017 01:43,09/08/2026 01:43
-134e1938-4ecb-436f-bd93-076e570e1464,silver.financial,resell,56,28,6,"NameSilo, LLC",08/01/2022 09:58,08/01/2026 09:58
-9ddf068c-1203-411a-aea9-db55fbdf6e5b,silver.fishing,available,56,28,6,,,
-284a549d-ab62-432d-9379-e959820b5729,silver.fit,available,56,28,6,,,
-d3767fef-6890-4b30-b0b1-54aec0aab9fc,silver.fitness,resell,56,28,6,Dynadot Inc,26/10/2025 17:08,26/10/2026 17:08
-879204f0-1569-4998-b4bd-c89b6007ad77,silver.flights,available,56,28,6,,,
-61322e00-abec-47d0-bf03-425bc9e17d50,silver.florist,available,56,28,6,,,
-e7819436-2018-4c3a-8dba-e97bcb287f0f,silver.flowers,available,56,28,6,,,
-76b89a4c-647d-42f7-8131-8ea0e79bd7af,silver.foo,available,56,28,6,,,
-70e1700d-9197-40a8-9518-8eb78aa5c0a7,silver.food,available,56,28,6,,,
-23d68d25-13ac-4ad3-bf7b-dd42110d819e,silver.football,available,56,28,6,,,
-e1893cd8-148f-4a9e-962a-2a252c8cc8bd,silver.forsale,resell,56,28,6,"GoDaddy.com, LLC",07/03/2023 05:55,07/03/2026 05:55
-f162813e-769a-440a-971f-10e5175f6181,silver.forum,available,56,28,6,,,
-c83c067d-ff4b-4f08-a5db-3fa79f94905a,silver.free,available,56,28,6,,,
-601f2dbf-bd73-4047-b943-b60cdab0861e,silver.fun,available,56,28,6,,,
-8851776c-df7a-4923-854e-830ec44214ae,silver.furniture,available,56,28,6,,,
-a8f58967-a501-4a49-80eb-b0f629f634b3,silver.futbol,available,56,28,6,,,
-2d0a66ea-fc84-4f24-a753-c047928ec7c1,silver.fyi,sold,56,28,6,"GoDaddy.com, LLC",04/09/2015 03:11,04/09/2026 03:11
-afa6105a-1708-44a3-9ea0-b5775786070e,silver.game,available,56,28,6,,,
-737ce3d6-0c10-492e-9044-0da9d34bda0d,silver.games,resell,56,28,6,"Name.com, Inc.",17/09/2016 20:32,17/09/2026 20:32
-a7720059-7de6-4a3f-81a6-9b1921fbfaf6,silver.garden,available,56,28,6,,,
-98f33d53-c3d3-4dbb-ad7f-da5be3aab8fd,silver.gay,available,56,28,6,,,
-e2900dff-3d14-4871-ba21-ce926ef5be86,silver.gg,resell,56,28,6,"Spaceship, Inc (https://www.spaceship.com)",,
-b7a3c742-3af0-4a34-9932-1ddcd4486678,silver.gift,available,56,28,6,,,
-7580dc40-eeac-42de-a1e5-bc04f97906c2,silver.gifts,available,56,28,6,,,
-36ff8898-8964-4a9d-b6a9-7d1ea5411f65,silver.gives,available,56,28,6,,,
-4a02d1bc-55c4-43ed-97dc-2bbd535ee9e5,silver.giving,available,56,28,6,,,
-a2a79612-bdf6-4542-9e51-5644dd3a1dbb,silver.glass,available,56,28,6,,,
-9ceee1d9-d3d7-4ada-a44f-8c944f7d4e50,silver.global,available,56,28,6,,,
-61ec0ca0-3120-4887-975a-5b717eb8b073,silver.golf,expiring,56,28,6,Porkbun LLC,25/12/2024 19:42,25/12/2025 19:42
-8e94a54f-7089-45b9-9573-49a0c9925846,silver.graphics,available,56,28,6,,,
-0c26cc34-9945-44db-9fbc-fecb271b14f1,silver.gratis,available,56,28,6,,,
-c579a9c1-2f33-4978-9876-884563c451ee,silver.green,available,56,28,6,,,
-ff7fbd0f-5cc6-468d-a00b-076d4253cb74,silver.gripe,available,56,28,6,,,
-742e263f-c47d-438a-b499-fca2521f053a,silver.group,resell,56,28,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),20/08/2018 16:14,20/08/2030 16:14
-772eba1b-4636-42c6-a0ee-608a89e8326e,silver.guitars,available,56,28,6,,,
-51f2b505-9420-4e72-9f26-0b1d407020c0,silver.hair,sold,56,28,6,Dynadot LLC,02/03/2021 00:54,02/03/2026 23:59
-4d6b7bdb-a0b1-467b-8f73-a3fa9a043f10,silver.health,resell,56,28,6,Dynadot Inc,24/01/2024 13:20,24/01/2026 13:20
-553ab51e-4dfc-4449-be7a-4fdc690a1994,silver.healthcare,available,56,28,6,,,
-ba57e567-586f-46bb-89cc-9a9b4a8353e8,silver.help,available,56,28,6,,,
-ff8191e1-7ead-4cf5-bc5d-875040bce8b1,silver.hiphop,available,56,28,6,,,
-bc92d2f9-ae9b-4241-bf47-48ef3aa9acfc,silver.hiv,available,56,28,6,,,
-669eb01c-44f6-4569-b00a-69590d46dea0,silver.hockey,available,56,28,6,,,
-1f0427a6-a02a-4c61-9958-db9c438b3370,silver.holdings,available,56,28,6,,,
-aa0221f2-881f-4e4a-bdb4-11d234cb2eaf,silver.holiday,available,56,28,6,,,
-312662b9-af81-434a-a1be-50d7b9fc66aa,silver.homes,resell,56,28,6,"Porkbun, LLC",15/04/2022 16:55,15/04/2026 23:59
-ebadf553-6bb1-4099-8723-a71d1f896af0,silver.hospital,available,56,28,6,,,
-cb5d474f-e5c8-4099-b0b0-1eb133655e15,silver.host,available,56,28,6,,,
-55a54173-20cc-4d84-bde6-a1e888781873,silver.hosting,available,56,28,6,,,
-570e7e49-3f6b-4efa-88aa-bad361080389,silver.hot,available,56,28,6,,,
-bc43ed75-2391-4d40-bb2a-f95df5f47bea,silver.how,available,56,28,6,,,
-44dc9bcf-09f6-453c-b6a9-fb1d53288129,silver.icu,available,56,28,6,,,
-a1101c4f-3cae-4449-871f-a6c9c0c56a14,silver.im,available,56,28,6,,,
-c9ab658f-4b4b-46c9-8bd6-9e8c8f326f7c,silver.immo,available,56,28,6,,,
-6d287fc1-062a-4d30-886f-f2eb53840d3b,silver.immobilien,available,56,28,6,,,
-32b77490-4888-485b-9899-f5d48484c070,silver.inc,available,56,28,6,,,
-50a5d036-7f77-4d04-9455-fdcfaf9b545f,silver.industries,available,56,28,6,,,
-24aeca85-4bc0-4ea9-80e2-f2fc2b0ad164,silver.info,sold,56,28,6,GrepApps Technology Inc.,08/10/2025 15:15,08/10/2026 15:15
-9408d116-6dcf-4e84-a1be-ed40252098de,silver.ing,available,56,28,6,,,
-319f8db5-33bb-4c5c-bca1-b0e386a688ad,silver.ink,available,56,28,6,,,
-230cd19a-badd-4eea-8cc9-d54d3c11d576,silver.insure,available,56,28,6,,,
-704f9eee-fd98-431d-99f7-10c93f9852bd,silver.investments,available,56,28,6,,,
-f74ed732-66a1-473a-bfff-f2f821a26f12,silver.irish,premium,56,28,6,,,
-31d3c8ad-7ec1-48d5-8f93-1745ecc4a519,silver.juegos,available,56,28,6,,,
-2ac1bbb3-2646-476c-a2fc-39911a4c92c8,silver.kaufen,available,56,28,6,,,
-26880502-4bb5-4919-877e-218fb9dc2eb6,silver.kids,available,56,28,6,,,
-e2370f12-e389-4aae-99dc-bf33c5822285,silver.kitchen,available,56,28,6,,,
-4b2af502-1d82-41df-9ff9-3323a2e8ccaa,silver.land,resell,56,28,6,Porkbun LLC,24/06/2019 08:35,24/06/2026 08:35
-16d00425-de0c-4707-914d-39aa5b03ef98,silver.law,available,56,28,6,,,
-9ac0cee2-5d64-47bc-abc9-f683fc87c704,silver.lease,available,56,28,6,,,
-d072fcd3-6a8d-402f-976d-053e19f54b4b,silver.life,resell,56,28,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),14/10/2018 08:50,14/10/2026 08:50
-3ce7831a-5f4c-478f-8b1c-4f0c21712a73,silver.lifestyle,available,56,28,6,,,
-6d7b400a-2521-4ff8-9935-6b224bc0763e,silver.lighting,available,56,28,6,,,
-e93b9f43-4f3e-4d99-9a5c-ffc00a33a27c,silver.limited,available,56,28,6,,,
-2322228e-74b5-430c-9d1c-526c76d99393,silver.limo,available,56,28,6,,,
-8fa4ab50-ccb0-4424-9641-62c0534ada96,silver.link,available,56,28,6,,,
-8ca4a892-b1cd-4259-be65-1893331813cb,silver.living,available,56,28,6,,,
-8400396e-3419-4475-ba51-e00912035407,silver.loan,available,56,28,6,,,
-15b26d20-2573-4087-b8e8-0db77ee98fa1,silver.locker,available,56,28,6,,,
-d2521421-8e5b-4173-96a7-0615021e0066,silver.london,available,56,28,6,,,
-22373a9d-54b1-407b-b495-62c054b69a97,silver.love,available,56,28,6,,,
-67ba14f7-2c0c-46f0-8c82-0e11c3fd8385,silver.ltda,available,56,28,6,,,
-2dc396ff-3301-4e19-81e0-674d19498337,silver.luxe,available,56,28,6,,,
-13916e90-b86f-4192-b3d6-5a6f5fbdea8e,silver.luxury,available,56,28,6,,,
-049f7ff8-ab89-4680-a060-75f6b677187e,silver.maison,available,56,28,6,,,
-456ce9f9-2af7-4bd9-9bb5-0b84c05f205b,silver.management,available,56,28,6,,,
-f99e434f-9c9c-4f85-8393-5623a6481884,silver.market,available,56,28,6,,,
-a7db8a41-4fb6-4ca8-87e6-ead0a999a67f,silver.marketing,sold,56,28,6,"Sav.com, LLC",15/01/2021 13:18,15/01/2026 13:18
-32bdc14f-e740-4001-909e-66072a63c66b,silver.mba,available,56,28,6,,,
-e69c5e91-7c43-4eff-a0ff-79c80e5fd20a,silver.me,sold,56,28,6,Dynadot Inc,01/08/2008 18:01,01/08/2026 18:01
-7ed18dc0-6b3e-45f7-a338-7e9ec84f8867,silver.media,resell,56,28,6,"Spaceship, Inc.",02/04/2022 13:15,02/04/2026 13:15
-01c121b9-e6b9-4263-af4b-ca7bda445e2f,silver.melbourne,available,56,28,6,,,
-2ae5ce76-4edf-4875-a76c-f1921d20811c,silver.meme,available,56,28,6,,,
-8b8966c8-2e94-44d1-8b3a-b43750491928,silver.memorial,available,56,28,6,,,
-1e4c5760-7022-442d-9393-53e8e0697271,silver.men,available,56,28,6,,,
-e377aad6-a13b-4f4a-8eb3-ff35f3cd09d4,silver.menu,sold,56,28,6,"GoDaddy.com, LLC",24/09/2014 16:39,24/09/2026 16:39
-83b2b127-dc48-4588-9e32-4fc1fd64b21d,silver.miami,available,56,28,6,,,
-caf4dd0b-4bfa-4dba-b42f-58e5d6660b83,silver.moda,available,56,28,6,,,
-462f8505-20f4-4c9d-9ea4-9c03596b03ac,silver.moe,available,56,28,6,,,
-0d519947-eb0b-46d6-8598-ae8644645c78,silver.mom,sold,56,28,6,Namecheap,24/09/2025 06:37,24/09/2026 23:59
-b47e039f-7d39-46b2-92ec-13015131a0bb,silver.mortgage,available,56,28,6,,,
-dbf719c9-3262-4150-a299-ab692c0db8ef,silver.motorcycles,available,56,28,6,,,
-77a03e02-eced-4d17-bfbe-41872e34a0e9,silver.mov,available,56,28,6,,,
-a80610fd-9bf1-463a-b6ac-dba0db2d15a8,silver.movie,available,56,28,6,,,
-7577dce1-fbc5-4f95-a053-f823ba3250fd,silver.music,available,56,28,6,,,
-481324e8-ab70-4c2d-9a4b-2d8034a9c37f,silver.navy,available,56,28,6,,,
-59568839-5012-4fce-81d0-58c0abec5bec,silver.nexus,available,56,28,6,,,
-fff79d02-1ff4-498f-baca-c47b1f6db622,silver.ngo,available,56,28,6,,,
-b7fd2f3c-508f-48d6-a2ce-a4586cd7529f,silver.ninja,available,56,28,6,,,
-62079bb9-c92a-4a80-837e-b072afa9cab1,silver.nyc,available,56,28,6,,,
-21e591c5-aeb6-4247-974e-79a747068cac,silver.observer,available,56,28,6,,,
-c5f18071-de36-4378-abbf-2f3aef732a25,silver.ong,available,56,28,6,,,
-e18f47b1-b03e-4f00-9d4e-fde0e8dd40d1,silver.onl,available,56,28,6,,,
-1f565b13-5a3e-47aa-84a1-395c01653468,silver.online,available,56,28,6,,,
-9bbd7a33-1809-407f-a6bb-66c6f2d83bf1,silver.organic,available,56,28,6,,,
-d5365d61-0167-4de4-bab8-73fa6019db2f,silver.osaka,available,56,28,6,,,
-038c9952-ad03-443f-a23e-201ff8a3eb90,silver.page,available,56,28,6,,,
-4b9f7958-3c9e-48af-9d6e-b798862663a5,silver.partners,available,56,28,6,,,
-c0b28b8b-52db-42cd-a5d0-62749a31515a,silver.parts,available,56,28,6,,,
-f64b98fa-0d88-4c03-8ae2-d44ef3a47fad,silver.party,resell,56,28,6,Key-Systems LLC,23/02/2015 09:52,22/02/2029 23:59
-ec0bbd2d-627d-4704-a511-da41f58e1a89,silver.pet,resell,56,28,6,"Spaceship, Inc.",08/11/2024 17:00,08/11/2026 17:00
-33fffeb1-34e4-4dd0-bf78-8d4ed407c910,silver.phd,available,56,28,6,,,
-5a49ac5c-e30a-47e1-9ea2-4cef1838d517,silver.photo,available,56,28,6,,,
-f5cf031b-c0b8-4bfc-b7e7-b90ff4dafe7a,silver.photography,available,56,28,6,,,
-147b635c-554b-4872-ac2b-ee22595a2072,silver.pics,sold,56,28,6,"Spaceship, Inc.",02/11/2024 15:24,02/11/2026 23:59
-35854747-9fac-4282-a40c-f7c3c18e2ecf,silver.pictures,available,56,28,6,,,
-a33a6b33-71b5-4896-8d73-5d093d72e6a8,silver.pink,available,56,28,6,,,
-638a8cb0-f9d4-45cc-a24a-d93b724284d3,silver.pizza,available,56,28,6,,,
-6985976b-2a6d-43fc-8b93-1d4127ed5972,silver.place,available,56,28,6,,,
-c180f2c9-ff8d-4490-a649-80a482e73433,silver.plumbing,available,56,28,6,,,
-c8b94bbd-4a3e-48c6-ba36-036d676c740f,silver.plus,resell,56,28,6,Porkbun LLC,14/09/2025 19:59,14/09/2026 19:59
-ffdf0ea3-4754-4b49-a881-d800e77d960d,silver.poker,available,56,28,6,,,
-4da33ba1-b0ec-4a1c-bd74-c294d1138208,silver.porn,available,56,28,6,,,
-23c4973f-ce52-408d-b2e6-2a99a5c24291,silver.press,available,56,28,6,,,
-814a60ab-3558-4284-bb66-2da159914666,silver.prof,available,56,28,6,,,
-db544313-d2da-40f2-a8d8-ac07c6eef767,silver.promo,available,56,28,6,,,
-2305c3d2-f978-4a3c-a626-b1c3daf442a4,silver.properties,resell,56,28,6,"Sav.com, LLC",16/08/2019 16:40,16/08/2026 16:40
-573d19b8-bd4f-4091-b21e-792b77e17253,silver.property,available,56,28,6,,,
-298eea11-2937-4160-9730-19abf7766ab0,silver.protection,available,56,28,6,,,
-20be7b99-d246-4c27-b424-1941f5e555a9,silver.pub,sold,56,28,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),23/09/2025 07:31,23/09/2026 07:31
-c12fa00d-4ed4-47a4-9154-721f2e3b5f1e,silver.pw,available,56,28,6,,,
-6bda0a2c-f1e6-4fe7-bbc7-4c4972b4a76b,silver.qpon,available,56,28,6,,,
-ee135eba-65e2-47e4-a42b-3a1e53251759,silver.quest,resell,56,28,6,"Xiamen ChinaSource Internet Service Co., Ltd",11/01/2025 10:28,11/01/2026 23:59
-44674c6f-6354-444f-8951-10942865fb4d,silver.racing,available,56,28,6,,,
-8d2ff829-50cf-423f-ad0c-95c7cdbd1aaf,silver.realty,available,56,28,6,,,
+44674c6f-6354-444f-8951-10942865fb4d,silver.racing,premium,56,28,6,,,
+8d2ff829-50cf-423f-ad0c-95c7cdbd1aaf,silver.realty,premium,56,28,6,,,
 695347e4-6b6e-4b4b-88d0-b9c8ed90b638,silver.recipes,available,56,28,6,,,
 c8927db7-9650-4bce-9bb0-09ece199cbf0,silver.red,resell,56,28,6,Automattic Inc.,13/05/2018 10:32,13/05/2028 10:32
 921ec2d9-10c3-4099-a82e-bee0542e16fd,silver.rehab,available,56,28,6,,,
@@ -971,31 +714,288 @@ def8170c-871f-40f3-8e91-ae16bd04ca2f,silver.reisen,available,56,28,6,,,
 0226e6e3-9a56-4241-b690-719f4f6ca8ef,silver.rentals,available,56,28,6,,,
 b3ba3165-d04a-4991-b99a-e418301c5997,silver.repair,available,56,28,6,,,
 4d6d464e-9edb-4b66-9c2c-a76c6c60406e,silver.republican,available,56,28,6,,,
-d0cd4d4d-a9c4-46ce-ad77-b439d9a8f88a,silver.rest,available,56,28,6,,,
-3936a808-6cf0-4843-acec-6df374f4923b,silver.review,available,56,28,6,,,
-a21913fa-1370-44bb-abad-6742eac0913a,silver.reviews,available,56,28,6,,,
+d0cd4d4d-a9c4-46ce-ad77-b439d9a8f88a,silver.rest,premium,56,28,6,,,
+3936a808-6cf0-4843-acec-6df374f4923b,silver.review,premium,56,28,6,,,
+a21913fa-1370-44bb-abad-6742eac0913a,silver.reviews,premium,56,28,6,,,
 b304d967-e117-4f03-880d-8c69a36f0cbf,silver.rich,available,56,28,6,,,
 583a5d18-c728-4892-a9fd-0260859cb043,silver.rip,available,56,28,6,,,
-ce917f9c-0f39-46bd-b9dd-6f823c6f244f,silver.rodeo,available,56,28,6,,,
-2928e66e-305e-4206-85d4-05130278c485,silver.rsvp,available,56,28,6,,,
+ce917f9c-0f39-46bd-b9dd-6f823c6f244f,silver.rodeo,premium,56,28,6,,,
+2928e66e-305e-4206-85d4-05130278c485,silver.rsvp,premium,56,28,6,,,
 bea4a603-992f-4988-a5d5-e29a6b474824,silver.run,resell,56,28,6,"DNSPod, Inc.",01/07/2018 19:02,01/07/2026 19:02
 231ff110-45e4-4fd8-ade9-6d271c052992,silver.salon,available,56,28,6,,,
 7e81b467-a282-4eb6-82eb-d45e6f0ff409,silver.sarl,sold,56,28,6,"GoDaddy.com, LLC",28/09/2025 04:39,28/09/2026 04:39
-1e8922e8-0f93-4fd2-a54f-e82c148e8d62,silver.sbs,available,56,28,6,,,
+1e8922e8-0f93-4fd2-a54f-e82c148e8d62,silver.sbs,premium,56,28,6,,,
 68145822-6614-44ac-8b04-022c5d6e9cbf,silver.schule,available,56,28,6,,,
-16044137-7048-4229-957f-4220330d00ca,silver.science,available,56,28,6,,,
+16044137-7048-4229-957f-4220330d00ca,silver.science,premium,56,28,6,,,
 a249ae69-f2c9-4a53-bb34-50c7f9418edc,silver.security,available,56,28,6,,,
 e9d7cf13-5b79-4236-bf25-cf2bd2141ae1,silver.services,resell,56,28,6,Dynadot Inc,19/01/2017 15:12,19/01/2026 15:12
 d3fd5cc9-47b6-4790-85ed-777c00b1d69e,silver.sexy,available,56,28,6,,,
 fcad4222-5ec5-4b32-8848-2c86c2f787e7,silver.shiksha,available,56,28,6,,,
 68eae398-38b4-4145-b88a-96d9c2397e2c,silver.shop,premium,56,28,6,,,
 401d8453-d211-4c03-9bc9-e1348d48d2f5,silver.show,resell,56,28,6,"Sav.com, LLC - 42",12/01/2025 15:15,12/01/2026 15:15
-013cdd0c-93a0-4b10-af42-91c523e6c5cb,silver.site,available,56,28,6,,,
+013cdd0c-93a0-4b10-af42-91c523e6c5cb,silver.site,premium,56,28,6,,,
 29be897c-aad5-46b2-b06a-cc75e5d88c81,silver.ski,sold,56,28,6,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,15/08/2025 15:15,15/08/2026 15:15
 a85125af-4ff5-4a04-894c-ea5bbf28bddb,silver.so,resell,56,28,6,Dynadot LLC,03/06/2022 05:00,03/06/2026 05:00
 fd3f19c5-2f14-489f-85e0-0b5f67955c83,silver.soccer,available,56,28,6,,,
 46e46389-3798-4159-9030-63fcaabd9833,silver.social,resell,56,28,6,"DNSPod, Inc.",30/10/2024 15:15,30/10/2026 15:15
-a47f8278-35d5-4c07-8350-136e116dcd71,silver.software,available,56,28,6,,,
+a47f8278-35d5-4c07-8350-136e116dcd71,silver.software,premium,56,28,6,,,
 baf3bb77-6f3c-4377-b1d8-a972bdd6aa39,silver.solar,available,56,28,6,,,
-a9d5dddd-f71d-47f3-98c2-d86913763e07,silver.soy,available,56,28,6,,,
-ec6e77b3-b41c-4f87-875f-8c828e213a96,silver.space,available,56,28,6,,,
+a9d5dddd-f71d-47f3-98c2-d86913763e07,silver.soy,premium,56,28,6,,,
+ec6e77b3-b41c-4f87-875f-8c828e213a96,silver.space,premium,56,28,6,,,
+22c61aad-487a-4fb2-a6d4-fa70ef4f9832,silver.spot,available,56,28,6,,,
+f0ec6fc3-2a7e-40c3-a780-94f4a70d54c9,silver.storage,available,56,28,6,,,
+b98c841c-8b51-48bd-98c1-f1edb0f037bb,silver.store,available,56,28,6,,,
+d162f757-1fc7-4367-83d9-f1c44e101108,silver.stream,available,56,28,6,,,
+8e16802b-1a9f-4f4a-8e31-5f27a3d4d971,silver.studio,available,56,28,6,,,
+de41814b-b7cd-4e2d-bc10-8c0a665b62cd,silver.study,available,56,28,6,,,
+54df0601-748c-41fe-9a92-23ad1340e91b,silver.style,resell,56,28,6,"Spaceship, Inc.",24/06/2024 15:15,24/06/2026 15:15
+d602f6b8-ad95-433e-a6de-965d1995a274,silver.sucks,available,56,28,6,,,
+dba48dc4-8481-459e-8c95-744d4cfb7cc9,silver.supplies,available,56,28,6,,,
+81c21493-36a4-4970-9f7b-13838c6c03ad,silver.support,resell,56,28,6,Dynadot Inc,28/02/2025 17:00,28/02/2026 17:00
+48e3cd45-2c37-4648-b93d-4ba199eec4af,silver.surf,available,56,28,6,,,
+78465b72-695c-4d53-8826-ea4c704e3c60,silver.surgery,available,56,28,6,,,
+8deb9f77-204e-4f2e-9658-8a7e279dbcd9,silver.sydney,available,56,28,6,,,
+4681893f-39a9-4626-8391-b0462bc268aa,silver.systems,resell,56,28,6,Porkbun LLC,25/02/2025 04:52,25/02/2026 04:52
+166f9aa7-c2ed-490e-bf4c-15061e071403,silver.talk,available,56,28,6,,,
+b85dccc2-b1de-467c-b3a9-3f74c2f0559b,silver.tax,resell,56,28,6,"DNSPod, Inc.",21/09/2024 15:15,21/09/2026 15:15
+fe9cff6d-f4ed-42df-afb4-3e93b4f2c8d6,silver.taxi,available,56,28,6,,,
+d29b9d1e-80b0-4495-b9fc-2ce18a0eca14,silver.team,resell,56,28,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),14/02/2019 22:30,14/02/2026 22:30
+9d04e32b-b409-4905-a03c-637c26b3bae4,silver.tech,available,56,28,6,,,
+cb30e505-14aa-407d-8db9-a91af0bc0e99,silver.technology,resell,56,28,6,"Sav.com, LLC - 26",12/07/2025 15:16,12/07/2026 15:16
+fc36d2d2-eb6f-486d-ab41-f41170ec03b9,silver.tel,available,56,28,6,,,
+58eacdaf-5cd4-4e4d-b225-f34de5c1c4ff,silver.tennis,available,56,28,6,,,
+1db48dbb-c631-4e3b-beab-ea5c0e8dbf28,silver.theater,available,56,28,6,,,
+2985a610-c728-4d90-9120-e2d00a10521b,silver.theatre,available,56,28,6,,,
+abbf0e6d-1a3d-40a5-bd51-119c97c2884a,silver.tickets,available,56,28,6,,,
+66617de6-e94d-49da-8b50-60699244df72,silver.tienda,available,56,28,6,,,
+1c997f28-859b-42a8-bf4c-7e8870e6e9fb,silver.tires,available,56,28,6,,,
+1f9803bc-ebfa-4eff-a03f-95a5d95b3a50,silver.today,sold,56,28,6,"GoDaddy.com, LLC",19/09/2023 15:15,19/09/2026 15:15
+902dc7f9-5c1e-44ab-a4ed-54060d2867c7,silver.tools,available,56,28,6,,,
+b93f38f5-a826-4199-895f-15eb9420e956,silver.top,available,56,28,6,,,
+c84604fc-d8b0-48e2-860d-cdc998068959,silver.tours,sold,56,28,6,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,06/10/2025 15:15,06/10/2026 15:15
+77ae5f9d-ab8f-47f3-b67b-950c16d1a65f,silver.town,sold,56,28,6,Dynadot Inc,07/01/2023 17:00,07/01/2026 17:00
+aefc5732-d825-49fd-bc57-d21383dcc8ff,silver.trade,available,56,28,6,,,
+d3d47273-99dd-49c6-8545-ddae20ebc9b8,silver.travel,resell,56,28,6,Dynadot Inc,27/08/2025 18:59,27/08/2026 18:59
+401ceb3f-16e1-4705-82a5-9f615c2ac45e,silver.tube,expired,56,28,6,"Latin American Telecom, LLC",08/11/2017 19:27,08/11/2025 19:27
+ec8e3559-acb5-4a57-ae2f-2c407ea11106,silver.university,available,56,28,6,,,
+7712e12b-e8c6-4833-9aaf-464d9b45f325,silver.uno,available,56,28,6,,,
+fdfa4037-5ace-47b9-9431-1dc89bdbbb46,silver.vacations,available,56,28,6,,,
+5f12bd6b-b010-4025-a7d1-75cb7698ff0d,silver.vana,available,56,28,6,,,
+5c033e2b-06c7-454e-92a9-18c0d0e82ec9,silver.ventures,resell,56,28,6,"GoDaddy.com, LLC",05/02/2014 16:00,05/02/2026 16:00
+db748405-31e1-4396-9aa7-55cbe20f0093,silver.vet,available,56,28,6,,,
+0840fc92-3ef9-46fb-bde2-cd24120acad0,silver.viajes,available,56,28,6,,,
+454ce445-58ee-43d0-a718-e31d73b9c22b,silver.video,available,56,28,6,,,
+2a4ba2ea-10c3-4eb9-96de-dda5e4e81878,silver.villas,available,56,28,6,,,
+f30aff5c-6ecf-4a6d-bd7f-0aaca7f7e379,silver.vin,resell,56,28,6,"Xiamen ChinaSource Internet Service Co., Ltd",05/11/2022 13:15,05/11/2025 13:15
+43da168d-96c2-4b0f-b8f4-cd0934158fbd,silver.vision,available,56,28,6,,,
+b70cbbd9-2224-47bc-8fb6-8e94128224b3,silver.vodka,available,56,28,6,,,
+84496661-aed5-4b8d-aefa-8e9d7ab1d73c,silver.vote,available,56,28,6,,,
+2dbdd15f-cfdb-4763-846c-8d88e49feb32,silver.voting,available,56,28,6,,,
+3e162f55-468d-447b-8796-088d3844c322,silver.voto,available,56,28,6,,,
+0df7dc5a-8f15-42cd-86ae-eaece5f91ca6,silver.voyage,available,56,28,6,,,
+e0510f55-99f3-447f-b738-75c203fb7aba,silver.webcam,available,56,28,6,,,
+e7cebb9d-b115-42a2-ab44-ec1a20140a4a,silver.website,available,56,28,6,,,
+04f3e7d7-0074-458b-a950-bbdab2118b13,silver.wedding,available,56,28,6,,,
+192ac491-3ee4-4b58-9044-4b49217e19bf,silver.wiki,available,56,28,6,,,
+0d6b0a58-042c-4d76-80bd-54acd61ed756,silver.wine,available,56,28,6,,,
+a701aae2-a40b-4505-801c-23d4a3799391,silver.work,resell,56,28,6,West263 International Limited,19/07/2017 21:22,19/07/2026 21:22
+af10dbf6-6fa4-4d52-86cd-ec00ebbef4b0,silver.xyz,resell,56,28,6,Namecheap,21/07/2022 01:47,21/07/2026 23:59
+d5b6f35f-eb4b-42b7-befb-4563c378bfb0,silver.yoga,available,56,28,6,,,
+c0f00517-c8d0-4b5d-b45f-c017d9ad6c4b,silver.zip,available,56,28,6,,,
+06788603-499d-49df-9955-b171e3e413aa,silver.zone,sold,56,28,6,"GoDaddy.com, LLC",16/08/2020 11:39,16/08/2026 11:39
+b0a61617-4b2d-48cb-89fb-da900870acab,silver.ac,resell,56,28,6,"Sav.com, LLC - 7",10/04/2025 15:15,10/04/2026 15:15
+af2b864f-532a-4f4b-b76e-c3b26454c28e,silver.accountant,premium,56,28,6,,,
+c07d2c03-798c-44a4-845b-c0b49ca67524,silver.accountants,available,56,28,6,,,
+0681c59f-7cfc-4f97-8598-90fed63ddf10,silver.actor,available,56,28,6,,,
+618765fe-d6e0-4da4-99af-b56a655450ea,silver.adult,premium,56,28,6,,,
+b5adc312-0b1e-476a-bf24-f7b7fa0579bf,silver.airforce,available,56,28,6,,,
+9f59879a-8a36-45b5-95cd-0023f4dbfa80,silver.apartments,available,56,28,6,,,
+1cc9fe9b-8f01-4e4f-961f-f872aeef1395,silver.archi,available,56,28,6,,,
+26cfcdab-d852-49ce-8846-fc0f0e3c0ca3,silver.art,premium,56,28,6,,,
+e1174562-d7eb-4dc3-99ca-9a52afcc5fee,silver.associates,available,56,28,6,,,
+5e4a23e8-f5c5-4fef-ba82-26eaff8fefa1,silver.at,available,56,28,6,,,
+9a45a4c7-978e-4a00-b6f9-6bf34d606864,silver.attorney,premium,56,28,6,,,
+f8b64335-3dd4-469c-8c20-1726a74d8795,silver.auction,premium,56,28,6,,,
+76f4438b-d1ac-4c19-ada7-640fe754bc0e,silver.audio,available,56,28,6,,,
+f85dec8e-d5b7-40f9-81df-e9c676f9d349,silver.auto,available,56,28,6,,,
+2481a62e-fd8d-4f08-bb67-b17cf7a1cfe5,silver.autos,resell,56,28,6,"Xiamen ChinaSource Internet Service Co., Ltd",01/12/2024 11:01,01/12/2025 23:59
+1bb3c319-ac72-4a6a-bd0a-c5ea2b157a7d,silver.baby,premium,56,28,6,,,
+540aebb5-7f06-419d-bd20-572acee04b83,silver.band,premium,56,28,6,,,
+f1646156-b360-4a33-9967-ab79e6c76356,silver.bar,premium,56,28,6,,,
+c601e912-0f83-413e-88df-e62a1acea975,silver.bayern,available,56,28,6,,,
+c51633d2-eec4-4d90-8bcd-95bc843a65a6,silver.beer,premium,56,28,6,,,
+29bb3974-6cd5-46b4-9e2a-72b521053e58,silver.berlin,available,56,28,6,,,
+2ed28ded-74ec-4533-8790-4e19d3bcc087,silver.bet,resell,56,28,6,"GoDaddy.com, LLC",18/04/2025 15:15,18/04/2027 15:15
+40acc78a-4238-4339-a33a-0f5059be2b90,silver.bid,resell,56,28,6,Porkbun,26/07/2019 16:06,26/07/2026 16:06
+fa81b730-dd1a-4cc7-9b85-92edd570de97,silver.bike,available,56,28,6,,,
+f2bd6157-4695-4c56-b9a8-ed870e029ccd,silver.bingo,available,56,28,6,,,
+b1bb75b3-6d50-4f87-84cc-e6a61a83c7ca,silver.bio,resell,56,28,6,"Xiamen ChinaSource Internet Service Co., Ltd",10/04/2025 15:15,10/04/2026 15:15
+f137c954-9dab-452f-be91-e81aa4926fe8,silver.black,resell,56,28,6,Dynadot2 LLC,30/06/2019 10:12,30/06/2026 10:12
+0b128da1-7889-4c63-adc4-b37959cca2f2,silver.blackfriday,available,56,28,6,,,
+7c21fa29-1d9c-4c11-883a-237718273dc2,silver.blog,premium,56,28,6,,,
+abc631b0-3320-4291-9925-6bb0b1c5cbe4,silver.blue,resell,56,28,6,"Xiamen ChinaSource Internet Service Co., Ltd",06/08/2024 17:00,06/08/2026 17:00
+56a6f62b-77ac-48b5-a47c-b2e7dcafd6a4,silver.boats,premium,56,28,6,,,
+517aa6c6-a026-4518-b0b3-69d92321d69a,silver.bond,premium,56,28,6,,,
+b0adc3ea-f7cf-4306-bbc4-ed32b0228b9e,silver.boo,premium,56,28,6,,,
+3d2f7f80-0487-4a2b-a30b-36969c568bc2,silver.boston,premium,56,28,6,,,
+caca4145-1c51-41c7-9d7e-3875f5e39585,silver.bot,premium,56,28,6,,,
+67092767-4407-4a63-9b03-4ba84eb48d5c,silver.boutique,resell,56,28,6,"Spaceship, Inc.",20/10/2025 19:27,20/10/2026 19:27
+93272228-b8b3-41b7-addc-f10e58889e17,silver.build,premium,56,28,6,,,
+bc553053-5381-42db-9dc7-d72a3384b0e1,silver.cab,premium,56,28,6,,,
+097d63d4-51e9-4da6-9ae9-9695274950a3,silver.cam,premium,56,28,6,,,
+51a6d62a-7e15-4e20-99af-d5b6965efc37,silver.camera,available,56,28,6,,,
+348faa1c-bd4e-4efd-9be8-0245d9e3ae53,silver.camp,sold,56,28,6,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,29/10/2024 15:15,29/10/2026 15:15
+e427082e-fb10-4d83-8329-bb567eb7ca8a,silver.capital,resell,56,28,6,"NameCheap, Inc.",27/10/2015 23:11,27/10/2026 23:11
+efdca72e-af22-4120-a1da-cd84e6fab07c,silver.car,available,56,28,6,,,
+28ae0539-63a2-4714-8754-79f8bf6e3b33,silver.care,sold,56,28,6,"Spaceship, Inc.",14/09/2018 19:18,14/09/2026 19:18
+bde0fc81-cf77-42c3-9175-a47024ccc4ef,silver.cars,available,56,28,6,,,
+07d0ec49-9e02-4810-8e25-f2bccc01876b,silver.casa,premium,56,28,6,,,
+695deac9-c077-4c46-a29c-f971f5ce9e66,silver.casino,premium,56,28,6,,,
+ccd989d5-7e09-48bd-8c19-ca76079070e6,silver.catering,available,56,28,6,,,
+2718a651-0f07-49d7-a536-e63ca04d4b55,silver.ceo,available,56,28,6,,,
+f0cfbb8d-f84e-4dd2-becd-ccd27776100c,silver.cfd,premium,56,28,6,,,
+31430f5e-38bb-4e1c-a3c5-cb4df765c89c,silver.charity,available,56,28,6,,,
+a6c03e78-28d6-4562-a932-0d7eafd67d86,silver.chat,resell,56,28,6,"DNSPod, Inc.",06/09/2019 12:09,06/09/2027 12:09
+6249b3fc-5542-4f7d-bc24-0fb2b59ea3bc,silver.claims,available,56,28,6,,,
+4058c1d4-98e4-4879-b7f1-2c8f0bc88f76,silver.cleaning,expiring,56,28,6,Tucows Domains Inc.,27/12/2023 18:25,27/12/2025 18:25
+6b27b612-aa56-41be-845a-0a22a4ba4dc0,silver.click,premium,56,28,6,,,
+1620144f-eeb4-47fc-81c8-0ddb5c541d7f,silver.clinic,premium,56,28,6,,,
+524a327d-b9f9-4bcc-8642-2624df2dbdae,silver.clothing,available,56,28,6,,,
+baad218f-a4a4-4ef7-a69e-f1cfee61b4ca,silver.cloud,premium,56,28,6,,,
+45db3f41-a9b6-4695-bee5-99e348662713,silver.club,resell,56,28,6,"GoDaddy.com, LLC",15/10/2015 11:05,14/10/2027 23:59
+fa6ded68-39ed-4570-a36d-21843ac2f703,silver.coach,sold,56,28,6,IONOS SE,11/09/2022 13:13,11/09/2026 13:13
+0ad0993b-6a91-4b13-a776-6a03b4a46ff1,silver.college,premium,56,28,6,,,
+6b5f8ab7-e064-4f2e-8bab-baa4a18db399,silver.company,resell,56,28,6,"Name.com, Inc.",14/09/2019 18:39,14/09/2027 18:39
+bb93a8bf-71a4-4225-b627-e3eb32339d4c,silver.computer,expiring,56,28,6,"Sav.com, LLC",17/12/2024 12:02,17/12/2025 12:02
+20c623fa-056b-4982-9e7d-e64157d0e57e,silver.condos,available,56,28,6,,,
+69a9efcc-a9d3-4d1d-b8a1-8593e76aa0f8,silver.contractors,available,56,28,6,,,
+848a3774-24ff-4816-bda0-ffb3ebb5137f,silver.cooking,premium,56,28,6,,,
+a13671ad-cc0c-4d3d-8441-51de4069e213,silver.cool,available,56,28,6,,,
+89bda1f1-43f6-4ca5-a7a0-aadc8c00562e,silver.country,available,56,28,6,,,
+232aca8e-8888-40a8-a6aa-c4b39b0602b6,silver.coupons,sold,56,28,6,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,23/11/2025 15:15,23/11/2026 15:15
+c0cefb46-c63f-4d9f-9139-ccf1da603f84,silver.courses,available,56,28,6,,,
+ecafd888-90f8-4a2e-8411-5ece5210b4c7,silver.credit,expired,56,28,6,"Sav.com, LLC",21/10/2024 19:42,21/10/2025 19:42
+1d3abd5d-56cb-4b6e-979f-cbaa05fa9184,silver.cricket,available,56,28,6,,,
+0245a3e4-7b12-4e1a-8fb0-48a77e762b4e,silver.cruises,available,56,28,6,,,
+c089011b-b597-4dff-a64b-918e16a32e73,silver.cv,premium,56,28,6,,,
+fcd91d7c-e70f-4695-b15f-e6897ce36e9d,silver.cyou,premium,56,28,6,,,
+6831b457-ac79-454c-8f4f-c7b0b7a07cda,silver.dad,premium,56,28,6,,,
+19ae57c8-306e-43eb-a6f8-e59d39c2d9be,silver.dance,available,56,28,6,,,
+4712f7f6-3df3-4e75-9d38-7db12f6c045e,silver.date,premium,56,28,6,,,
+42d3d7d5-e275-4023-bf82-aa05dbb96c89,silver.day,premium,56,28,6,,,
+7e1e9e4b-db36-4321-a301-9646d8094edf,silver.deal,premium,56,28,6,,,
+df388f5f-90ac-45f7-be5e-e3afe5bfbcfb,silver.dealer,premium,56,28,6,,,
+dd5da231-2358-4d89-a28d-23fef68a4853,silver.degree,available,56,28,6,,,
+a6024d77-86dd-41b3-8eb1-f1afc9b2783c,silver.democrat,available,56,28,6,,,
+35231888-667e-44b9-b91e-703e9baba389,silver.dental,available,56,28,6,,,
+a163343e-5907-4dca-9303-b03897bbb8ab,silver.dentist,premium,56,28,6,,,
+b21e364e-8b1c-4d89-a0fc-8e787eca5532,silver.design,premium,56,28,6,,,
+85d2695b-1509-494a-98ae-0c6acb4c5a08,silver.diamonds,premium,56,28,6,,,
+9aa35f17-7fd3-45a4-ac0e-0622f82c1d9d,silver.diet,available,56,28,6,,,
+0c85e36e-1a41-4471-bc27-fc1c6dcaf97d,silver.digital,resell,56,28,6,"Sav.com, LLC - 23",13/09/2023 15:15,13/09/2026 15:15
+0e6c0904-ef03-4f1e-9136-336ae8bdbf04,silver.directory,expiring,56,28,6,"NameCheap, Inc.",28/12/2024 08:50,28/12/2025 08:50
+649633e5-ec2a-4a65-9548-67a8a30d8336,silver.diy,premium,56,28,6,,,
+d0f335e4-6f4b-4497-93cc-bdcfc5977267,silver.doctor,resell,56,28,6,"Wild West Domains, LLC",02/11/2016 16:00,02/11/2026 16:00
+5ed0bce3-2c63-4f17-979c-b43f76425def,silver.dog,resell,56,28,6,"Sav.com, LLC",24/11/2025 08:05,24/11/2026 08:05
+676fa87b-4595-46d5-bf60-6de0cb5efae4,silver.domains,available,56,28,6,,,
+f7dbb61e-e522-42df-bb2f-8c0779aec7ae,silver.download,premium,56,28,6,,,
+01bf79de-7970-4a9b-8b18-d6cc5e806ef3,silver.email,resell,56,28,6,"GoDaddy.com, LLC",11/01/2024 17:49,11/01/2026 17:49
+7e374f8e-0d9f-4b88-9761-16eed8130db5,silver.engineer,premium,56,28,6,,,
+027cd739-49be-4bcd-a3f6-a45573861122,silver.engineering,available,56,28,6,,,
+4be2046b-231d-4520-a6aa-6518a59d4f8c,silver.enterprises,available,56,28,6,,,
+e233163e-c312-44a1-9e02-227f4f0872a6,silver.esq,premium,56,28,6,,,
+ebaebeab-4d3c-489c-bb29-e9821f582802,silver.estate,available,56,28,6,,,
+01c15ebb-3511-46b7-ab7a-dbb457c22ce1,silver.events,available,56,28,6,,,
+1259638f-cb1c-48e1-a783-bbd0acb61ec1,silver.exchange,resell,56,28,6,Dynadot Inc,29/09/2015 10:55,29/09/2026 10:55
+7520334a-6952-49df-8fcb-0c6c9a1199f2,silver.expert,available,56,28,6,,,
+9bc9ec7c-3220-43fe-a022-1872c742b3ce,silver.exposed,premium,56,28,6,,,
+fd9e28bd-6dd3-421f-8dc4-cdd824ebaa39,silver.express,resell,56,28,6,"Spaceship, Inc.",05/11/2021 13:15,05/11/2026 13:15
+d4043d84-04e9-4b7c-aed8-1ac7f02ef1fb,silver.fail,available,56,28,6,,,
+54c2fbb7-f359-4fff-bfcb-463ed1e8b3de,silver.family,premium,56,28,6,,,
+a664471f-1c79-4f78-b5dd-f6f5b9528731,silver.fan,premium,56,28,6,,,
+5a23b3ab-397b-4a6c-9c78-351a73f3e612,silver.fans,premium,56,28,6,,,
+62342949-0190-49f3-90ad-c2848a09334d,silver.farm,available,56,28,6,,,
+7c51b3d0-6eb8-49ee-a0c3-6b4c8e671793,silver.fashion,premium,56,28,6,,,
+4abda95b-3c1e-4b81-b680-70b73368566d,silver.fast,premium,56,28,6,,,
+197dee77-986d-4019-8167-7325aed4b5ab,silver.film,sold,56,28,6,IONOS SE,09/08/2017 01:43,09/08/2026 01:43
+134e1938-4ecb-436f-bd93-076e570e1464,silver.financial,resell,56,28,6,"NameSilo, LLC",08/01/2022 09:58,08/01/2026 09:58
+9ddf068c-1203-411a-aea9-db55fbdf6e5b,silver.fishing,premium,56,28,6,,,
+284a549d-ab62-432d-9379-e959820b5729,silver.fit,premium,56,28,6,,,
+d3767fef-6890-4b30-b0b1-54aec0aab9fc,silver.fitness,resell,56,28,6,Dynadot Inc,26/10/2025 17:08,26/10/2026 17:08
+879204f0-1569-4998-b4bd-c89b6007ad77,silver.flights,available,56,28,6,,,
+61322e00-abec-47d0-bf03-425bc9e17d50,silver.florist,available,56,28,6,,,
+e7819436-2018-4c3a-8dba-e97bcb287f0f,silver.flowers,premium,56,28,6,,,
+76b89a4c-647d-42f7-8131-8ea0e79bd7af,silver.foo,premium,56,28,6,,,
+70e1700d-9197-40a8-9518-8eb78aa5c0a7,silver.food,premium,56,28,6,,,
+23d68d25-13ac-4ad3-bf7b-dd42110d819e,silver.football,available,56,28,6,,,
+e1893cd8-148f-4a9e-962a-2a252c8cc8bd,silver.forsale,resell,56,28,6,"GoDaddy.com, LLC",07/03/2023 05:55,07/03/2026 05:55
+f162813e-769a-440a-971f-10e5175f6181,silver.forum,premium,56,28,6,,,
+c83c067d-ff4b-4f08-a5db-3fa79f94905a,silver.free,premium,56,28,6,,,
+601f2dbf-bd73-4047-b943-b60cdab0861e,silver.fun,premium,56,28,6,,,
+8851776c-df7a-4923-854e-830ec44214ae,silver.furniture,available,56,28,6,,,
+a8f58967-a501-4a49-80eb-b0f629f634b3,silver.futbol,available,56,28,6,,,
+2d0a66ea-fc84-4f24-a753-c047928ec7c1,silver.fyi,sold,56,28,6,"GoDaddy.com, LLC",04/09/2015 03:11,04/09/2026 03:11
+afa6105a-1708-44a3-9ea0-b5775786070e,silver.game,premium,56,28,6,,,
+737ce3d6-0c10-492e-9044-0da9d34bda0d,silver.games,resell,56,28,6,"Name.com, Inc.",17/09/2016 20:32,17/09/2026 20:32
+a7720059-7de6-4a3f-81a6-9b1921fbfaf6,silver.garden,premium,56,28,6,,,
+98f33d53-c3d3-4dbb-ad7f-da5be3aab8fd,silver.gay,premium,56,28,6,,,
+e2900dff-3d14-4871-ba21-ce926ef5be86,silver.gg,resell,56,28,6,"Spaceship, Inc (https://www.spaceship.com)",,
+b7a3c742-3af0-4a34-9932-1ddcd4486678,silver.gift,premium,56,28,6,,,
+7580dc40-eeac-42de-a1e5-bc04f97906c2,silver.gifts,premium,56,28,6,,,
+36ff8898-8964-4a9d-b6a9-7d1ea5411f65,silver.gives,available,56,28,6,,,
+4a02d1bc-55c4-43ed-97dc-2bbd535ee9e5,silver.giving,available,56,28,6,,,
+a2a79612-bdf6-4542-9e51-5644dd3a1dbb,silver.glass,available,56,28,6,,,
+9ceee1d9-d3d7-4ada-a44f-8c944f7d4e50,silver.global,premium,56,28,6,,,
+61ec0ca0-3120-4887-975a-5b717eb8b073,silver.golf,expiring,56,28,6,Porkbun LLC,25/12/2024 19:42,25/12/2025 19:42
+8e94a54f-7089-45b9-9573-49a0c9925846,silver.graphics,available,56,28,6,,,
+0c26cc34-9945-44db-9fbc-fecb271b14f1,silver.gratis,available,56,28,6,,,
+c579a9c1-2f33-4978-9876-884563c451ee,silver.green,premium,56,28,6,,,
+ff7fbd0f-5cc6-468d-a00b-076d4253cb74,silver.gripe,available,56,28,6,,,
+742e263f-c47d-438a-b499-fca2521f053a,silver.group,resell,56,28,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),20/08/2018 16:14,20/08/2030 16:14
+772eba1b-4636-42c6-a0ee-608a89e8326e,silver.guitars,available,56,28,6,,,
+51f2b505-9420-4e72-9f26-0b1d407020c0,silver.hair,sold,56,28,6,Dynadot LLC,02/03/2021 00:54,02/03/2026 23:59
+4d6b7bdb-a0b1-467b-8f73-a3fa9a043f10,silver.health,resell,56,28,6,Dynadot Inc,24/01/2024 13:20,24/01/2026 13:20
+553ab51e-4dfc-4449-be7a-4fdc690a1994,silver.healthcare,available,56,28,6,,,
+ba57e567-586f-46bb-89cc-9a9b4a8353e8,silver.help,premium,56,28,6,,,
+ff8191e1-7ead-4cf5-bc5d-875040bce8b1,silver.hiphop,premium,56,28,6,,,
+bc92d2f9-ae9b-4241-bf47-48ef3aa9acfc,silver.hiv,available,56,28,6,,,
+669eb01c-44f6-4569-b00a-69590d46dea0,silver.hockey,available,56,28,6,,,
+1f0427a6-a02a-4c61-9958-db9c438b3370,silver.holdings,available,56,28,6,,,
+aa0221f2-881f-4e4a-bdb4-11d234cb2eaf,silver.holiday,available,56,28,6,,,
+312662b9-af81-434a-a1be-50d7b9fc66aa,silver.homes,resell,56,28,6,"Porkbun, LLC",15/04/2022 16:55,15/04/2026 23:59
+ebadf553-6bb1-4099-8723-a71d1f896af0,silver.hospital,available,56,28,6,,,
+cb5d474f-e5c8-4099-b0b0-1eb133655e15,silver.host,premium,56,28,6,,,
+55a54173-20cc-4d84-bde6-a1e888781873,silver.hosting,available,56,28,6,,,
+570e7e49-3f6b-4efa-88aa-bad361080389,silver.hot,premium,56,28,6,,,
+bc43ed75-2391-4d40-bb2a-f95df5f47bea,silver.how,premium,56,28,6,,,
+44dc9bcf-09f6-453c-b6a9-fb1d53288129,silver.icu,premium,56,28,6,,,
+a1101c4f-3cae-4449-871f-a6c9c0c56a14,silver.im,premium,56,28,6,,,
+c9ab658f-4b4b-46c9-8bd6-9e8c8f326f7c,silver.immo,available,56,28,6,,,
+6d287fc1-062a-4d30-886f-f2eb53840d3b,silver.immobilien,available,56,28,6,,,
+32b77490-4888-485b-9899-f5d48484c070,silver.inc,premium,56,28,6,,,
+50a5d036-7f77-4d04-9455-fdcfaf9b545f,silver.industries,available,56,28,6,,,
+24aeca85-4bc0-4ea9-80e2-f2fc2b0ad164,silver.info,sold,56,28,6,GrepApps Technology Inc.,08/10/2025 15:15,08/10/2026 15:15
+9408d116-6dcf-4e84-a1be-ed40252098de,silver.ing,premium,56,28,6,,,
+319f8db5-33bb-4c5c-bca1-b0e386a688ad,silver.ink,premium,56,28,6,,,
+230cd19a-badd-4eea-8cc9-d54d3c11d576,silver.insure,available,56,28,6,,,
+704f9eee-fd98-431d-99f7-10c93f9852bd,silver.investments,premium,56,28,6,,,
+f74ed732-66a1-473a-bfff-f2f821a26f12,silver.irish,premium,56,28,6,,,
+31d3c8ad-7ec1-48d5-8f93-1745ecc4a519,silver.juegos,available,56,28,6,,,
+2ac1bbb3-2646-476c-a2fc-39911a4c92c8,silver.kaufen,available,56,28,6,,,
+26880502-4bb5-4919-877e-218fb9dc2eb6,silver.kids,premium,56,28,6,,,
+e2370f12-e389-4aae-99dc-bf33c5822285,silver.kitchen,available,56,28,6,,,
+4b2af502-1d82-41df-9ff9-3323a2e8ccaa,silver.land,resell,56,28,6,Porkbun LLC,24/06/2019 08:35,24/06/2026 08:35
+16d00425-de0c-4707-914d-39aa5b03ef98,silver.law,premium,56,28,6,,,
+9ac0cee2-5d64-47bc-abc9-f683fc87c704,silver.lease,available,56,28,6,,,
+d072fcd3-6a8d-402f-976d-053e19f54b4b,silver.life,resell,56,28,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),14/10/2018 08:50,14/10/2026 08:50
+3ce7831a-5f4c-478f-8b1c-4f0c21712a73,silver.lifestyle,premium,56,28,6,,,
+6d7b400a-2521-4ff8-9935-6b224bc0763e,silver.lighting,available,56,28,6,,,
+e93b9f43-4f3e-4d99-9a5c-ffc00a33a27c,silver.limited,premium,56,28,6,,,
+2322228e-74b5-430c-9d1c-526c76d99393,silver.limo,premium,56,28,6,,,
+8fa4ab50-ccb0-4424-9641-62c0534ada96,silver.link,premium,56,28,6,,,
+8ca4a892-b1cd-4259-be65-1893331813cb,silver.living,premium,56,28,6,,,
+8400396e-3419-4475-ba51-e00912035407,silver.loan,premium,56,28,6,,,
+15b26d20-2573-4087-b8e8-0db77ee98fa1,silver.locker,premium,56,28,6,,,
+d2521421-8e5b-4173-96a7-0615021e0066,silver.london,premium,56,28,6,,,
+22373a9d-54b1-407b-b495-62c054b69a97,silver.love,premium,56,28,6,,,
+67ba14f7-2c0c-46f0-8c82-0e11c3fd8385,silver.ltda,premium,56,28,6,,,
