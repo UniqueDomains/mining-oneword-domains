@@ -1,34 +1,4 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
-19c33eeb-7338-4eea-b373-9606739892a4,min.ing,premium,66,27,6,,,
-ebb97387-e9dc-4bb4-8977-ee86870d8244,mining.ac,premium,66,27,6,,,
-c3a720ef-8213-410c-8c93-c268fc083553,mining.accountant,premium,66,27,6,,,
-5c6c9690-d72c-42f3-b4b2-8e978f1c33bb,mining.accountants,available,66,27,6,,,
-7e641ec5-f0c0-4be2-b227-39cb819da5ca,mining.actor,available,66,27,6,,,
-7e934942-6236-4ce3-86e8-910c5ce7e364,mining.adult,available,66,27,6,,,
-aa10d12e-d956-4aea-aec1-5e71b0f100be,mining.agency,resell,66,27,6,Unstoppable Domains Inc,21/12/2021 13:15,21/12/2026 13:15
-3064f5a1-9b31-4f58-8bd0-483ce2389721,mining.ai,resell,66,27,6,101domain GRS Limited,16/12/2017 01:11,15/11/2026 01:11
-c0910f9e-11a4-4d84-b31f-307290738747,mining.airforce,available,66,27,6,,,
-82b71f70-5b7e-4ea0-b3fa-826dd345e821,mining.apartments,available,66,27,6,,,
-c3cae2b0-595d-47c8-8713-97b9f40409f2,mining.app,resell,66,27,6,West263 International Limited,18/07/2019 00:59,18/07/2026 00:59
-26359690-7ac9-4ee3-be49-85d3446c9e78,mining.archi,available,66,27,6,,,
-1a71e264-aafc-4060-b4e0-69c0dbec4bec,mining.army,available,66,27,6,,,
-9e280d36-a76f-4458-b431-9632401dfa88,mining.art,premium,66,27,6,,,
-3036e3e0-b3e1-4011-89ec-d63b242e5b83,mining.associates,available,66,27,6,,,
-6964cafd-c1b2-4cc3-88e6-0e6f614f90d5,mining.attorney,premium,66,27,6,,,
-ef220012-e229-4a22-b347-b732f9802a3e,mining.audio,available,66,27,6,,,
-d79c41f9-2774-4ff7-8fd2-828d48c0996b,mining.auto,available,66,27,6,,,
-fb4c1819-962b-4390-8899-c048313dbcfe,mining.band,available,66,27,6,,,
-e84a954f-6b6c-4080-a3d9-2d504bdc8d05,mining.bar,premium,66,27,6,,,
-b2bf6137-45ff-470b-a14e-ab7c2fae9922,mining.bargains,available,66,27,6,,,
-8a25d373-9aee-4eb8-a9a1-d418943a3858,mining.bayern,premium,66,27,6,,,
-a80459fe-2a96-4e8b-b4ab-cb1d08f26c61,mining.beauty,resell,66,27,6,"Spaceship, Inc.",11/07/2025 15:24,11/07/2026 23:59
-62c0331d-a9a5-4e5b-8d99-7c2b955cb108,mining.berlin,available,66,27,6,,,
-d2ecf83d-0a1f-4e9e-881b-8fc5e33baa0f,mining.bid,resell,66,27,6,"OwnRegistrar, Inc.",26/05/2025 22:46,26/05/2026 22:46
-ccb31317-f734-4606-bdd7-97b48207e4d6,mining.bike,available,66,27,6,,,
-b3ec48f7-2456-4835-a331-674cd3818d20,mining.bingo,available,66,27,6,,,
-e5a6bc5c-e5cb-4410-aaec-5c5b0461d80c,mining.biz,resell,66,27,6,"GoDaddy.com, LLC",27/03/2002 08:10,26/03/2026 23:59
-8c31d74e-f57b-456e-a2e2-df1b4c0b7bdf,mining.blackfriday,available,66,27,6,,,
-d17c0954-d3af-4161-836f-3a4741a536be,mining.blog,premium,66,27,6,,,
 66a2c49c-3a5b-4e3f-af0d-e24fbd51f2c6,mining.blue,resell,66,27,6,"Xiamen ChinaSource Internet Service Co., Ltd",06/05/2025 15:15,06/05/2026 15:15
 caec480f-03ec-4373-be84-2cd8f96176c9,mining.boats,available,66,27,6,,,
 7add73cc-c84b-4bce-b50d-f6348b17d166,mining.boo,premium,66,27,6,,,
@@ -354,6 +324,36 @@ f3309225-5bdd-4bec-9755-c1c01a08698a,mining.xyz,resell,66,27,6,"Go Daddy, LLC",0
 f0ef2538-aeb1-4d5d-aa86-baf98bdf9e5a,mining.you,premium,66,27,6,,,
 778ad6c7-9b66-43aa-bf3c-9382b6b8326e,mining.zip,premium,66,27,6,,,
 4f2af914-b7d3-46f9-9501-ce3f439816f9,mining.zone,resell,66,27,6,"Xiamen ChinaSource Internet Service Co., Ltd",13/05/2018 03:40,13/05/2026 03:40
+19c33eeb-7338-4eea-b373-9606739892a4,min.ing,premium,66,27,6,,,
+ebb97387-e9dc-4bb4-8977-ee86870d8244,mining.ac,premium,66,27,6,,,
+c3a720ef-8213-410c-8c93-c268fc083553,mining.accountant,premium,66,27,6,,,
+5c6c9690-d72c-42f3-b4b2-8e978f1c33bb,mining.accountants,available,66,27,6,,,
+7e641ec5-f0c0-4be2-b227-39cb819da5ca,mining.actor,available,66,27,6,,,
+7e934942-6236-4ce3-86e8-910c5ce7e364,mining.adult,available,66,27,6,,,
+aa10d12e-d956-4aea-aec1-5e71b0f100be,mining.agency,resell,66,27,6,Unstoppable Domains Inc,21/12/2021 13:15,21/12/2026 13:15
+3064f5a1-9b31-4f58-8bd0-483ce2389721,mining.ai,resell,66,27,6,101domain GRS Limited,16/12/2017 01:11,15/11/2026 01:11
+c0910f9e-11a4-4d84-b31f-307290738747,mining.airforce,available,66,27,6,,,
+82b71f70-5b7e-4ea0-b3fa-826dd345e821,mining.apartments,available,66,27,6,,,
+c3cae2b0-595d-47c8-8713-97b9f40409f2,mining.app,resell,66,27,6,West263 International Limited,18/07/2019 00:59,18/07/2026 00:59
+26359690-7ac9-4ee3-be49-85d3446c9e78,mining.archi,available,66,27,6,,,
+1a71e264-aafc-4060-b4e0-69c0dbec4bec,mining.army,available,66,27,6,,,
+9e280d36-a76f-4458-b431-9632401dfa88,mining.art,premium,66,27,6,,,
+3036e3e0-b3e1-4011-89ec-d63b242e5b83,mining.associates,available,66,27,6,,,
+6964cafd-c1b2-4cc3-88e6-0e6f614f90d5,mining.attorney,premium,66,27,6,,,
+ef220012-e229-4a22-b347-b732f9802a3e,mining.audio,available,66,27,6,,,
+d79c41f9-2774-4ff7-8fd2-828d48c0996b,mining.auto,available,66,27,6,,,
+fb4c1819-962b-4390-8899-c048313dbcfe,mining.band,available,66,27,6,,,
+e84a954f-6b6c-4080-a3d9-2d504bdc8d05,mining.bar,premium,66,27,6,,,
+b2bf6137-45ff-470b-a14e-ab7c2fae9922,mining.bargains,available,66,27,6,,,
+8a25d373-9aee-4eb8-a9a1-d418943a3858,mining.bayern,premium,66,27,6,,,
+a80459fe-2a96-4e8b-b4ab-cb1d08f26c61,mining.beauty,resell,66,27,6,"Spaceship, Inc.",11/07/2025 15:24,11/07/2026 23:59
+62c0331d-a9a5-4e5b-8d99-7c2b955cb108,mining.berlin,available,66,27,6,,,
+d2ecf83d-0a1f-4e9e-881b-8fc5e33baa0f,mining.bid,resell,66,27,6,"OwnRegistrar, Inc.",26/05/2025 22:46,26/05/2026 22:46
+ccb31317-f734-4606-bdd7-97b48207e4d6,mining.bike,available,66,27,6,,,
+b3ec48f7-2456-4835-a331-674cd3818d20,mining.bingo,available,66,27,6,,,
+e5a6bc5c-e5cb-4410-aaec-5c5b0461d80c,mining.biz,resell,66,27,6,"GoDaddy.com, LLC",27/03/2002 08:10,26/03/2026 23:59
+8c31d74e-f57b-456e-a2e2-df1b4c0b7bdf,mining.blackfriday,available,66,27,6,,,
+d17c0954-d3af-4161-836f-3a4741a536be,mining.blog,premium,66,27,6,,,
 10149a6c-7394-4e3f-bec4-20fa278a69a9,milling.ai,resell,50,76,7,"NameCheap, Inc.",10/04/2025 09:39,10/04/2027 09:39
 c605cc91-cc10-4eaa-9c0c-3a7cce798846,milling.app,premium,50,76,7,,,
 3c7c968d-fde0-410c-b454-04d2f5a41a76,milling.at,available,50,76,7,,,
