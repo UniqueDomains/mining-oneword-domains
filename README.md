@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [Mining one word domain
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain           | Status    | Attract. | Demand | Length | Registrar                                               | Created          | Expires          |
-| ---------------- | --------- | -------- | ------ | ------ | ------------------------------------------------------- | ---------------- | ---------------- |
-| mining.blue      | resell    | 66       | 27%    | 6      | Xiamen ChinaSource Internet Service Co., Ltd            | 06/05/2025 15:15 | 06/05/2026 15:15 |
-| mining.boats     | available | 66       | 27%    | 6      |                                                         |                  |                  |
-| mining.boo       | premium   | 66       | 27%    | 6      |                                                         |                  |                  |
-| mining.boston    | available | 66       | 27%    | 6      |                                                         |                  |                  |
-| mining.bot       | premium   | 66       | 27%    | 6      |                                                         |                  |                  |
-| mining.boutique  | available | 66       | 27%    | 6      |                                                         |                  |                  |
-| mining.builders  | available | 66       | 27%    | 6      |                                                         |                  |                  |
-| mining.business  | premium   | 66       | 27%    | 6      |                                                         |                  |                  |
-| mining.buzz      | premium   | 66       | 27%    | 6      |                                                         |                  |                  |
-| mining.cafe      | available | 66       | 27%    | 6      |                                                         |                  |                  |
-| mining.cam       | expiring  | 66       | 27%    | 6      | Spaceship, Inc.                                         | 21/12/2024 16:09 | 21/12/2025 23:59 |
-| mining.camera    | available | 66       | 27%    | 6      |                                                         |                  |                  |
-| mining.camp      | expired   | 66       | 27%    | 6      | Sav.com, LLC                                            | 21/10/2024 20:40 | 21/10/2025 20:40 |
-| mining.capital   | resell    | 66       | 27%    | 6      | Spaceship, Inc.                                         | 23/12/2023 17:00 | 23/12/2026 17:00 |
-| mining.car       | available | 66       | 27%    | 6      |                                                         |                  |                  |
-| mining.cards     | available | 66       | 27%    | 6      |                                                         |                  |                  |
-| mining.care      | available | 66       | 27%    | 6      |                                                         |                  |                  |
-| mining.cars      | available | 66       | 27%    | 6      |                                                         |                  |                  |
-| mining.cash      | resell    | 66       | 27%    | 6      | Xiamen ChinaSource Internet Service Co., Ltd            | 13/02/2024 15:15 | 13/02/2027 15:15 |
-| mining.casino    | available | 66       | 27%    | 6      |                                                         |                  |                  |
-| mining.catering  | available | 66       | 27%    | 6      |                                                         |                  |                  |
-| mining.ceo       | premium   | 66       | 27%    | 6      |                                                         |                  |                  |
-| mining.cfd       | premium   | 66       | 27%    | 6      |                                                         |                  |                  |
-| mining.charity   | available | 66       | 27%    | 6      |                                                         |                  |                  |
-| mining.chat      | resell    | 66       | 27%    | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) | 30/07/2018 23:21 | 30/07/2026 23:21 |
-| mining.cheap     | resell    | 66       | 27%    | 6      | Dynadot Inc                                             | 19/09/2024 15:09 | 19/09/2026 15:09 |
-| mining.christmas | available | 66       | 27%    | 6      |                                                         |                  |                  |
-| mining.church    | available | 66       | 27%    | 6      |                                                         |                  |                  |
-| mining.cleaning  | available | 66       | 27%    | 6      |                                                         |                  |                  |
-| mining.clinic    | available | 66       | 27%    | 6      |                                                         |                  |                  |
+| Domain             | Status    | Attract. | Demand | Length | Registrar                                    | Created          | Expires          |
+| ------------------ | --------- | -------- | ------ | ------ | -------------------------------------------- | ---------------- | ---------------- |
+| mining.bargains    | available | 66       | 27%    | 6      |                                              |                  |                  |
+| mining.bayern      | premium   | 66       | 27%    | 6      |                                              |                  |                  |
+| mining.beauty      | resell    | 66       | 27%    | 6      | Spaceship, Inc.                              | 11/07/2025 15:24 | 11/07/2026 23:59 |
+| mining.berlin      | available | 66       | 27%    | 6      |                                              |                  |                  |
+| mining.bid         | resell    | 66       | 27%    | 6      | OwnRegistrar, Inc.                           | 26/05/2025 22:46 | 26/05/2026 22:46 |
+| mining.bike        | available | 66       | 27%    | 6      |                                              |                  |                  |
+| mining.bingo       | available | 66       | 27%    | 6      |                                              |                  |                  |
+| mining.biz         | resell    | 66       | 27%    | 6      | GoDaddy.com, LLC                             | 27/03/2002 08:10 | 26/03/2026 23:59 |
+| mining.blackfriday | available | 66       | 27%    | 6      |                                              |                  |                  |
+| mining.blog        | premium   | 66       | 27%    | 6      |                                              |                  |                  |
+| mining.blue        | resell    | 66       | 27%    | 6      | Xiamen ChinaSource Internet Service Co., Ltd | 06/05/2025 15:15 | 06/05/2026 15:15 |
+| mining.boats       | available | 66       | 27%    | 6      |                                              |                  |                  |
+| mining.boo         | premium   | 66       | 27%    | 6      |                                              |                  |                  |
+| mining.boston      | available | 66       | 27%    | 6      |                                              |                  |                  |
+| mining.bot         | premium   | 66       | 27%    | 6      |                                              |                  |                  |
+| mining.boutique    | available | 66       | 27%    | 6      |                                              |                  |                  |
+| mining.builders    | available | 66       | 27%    | 6      |                                              |                  |                  |
+| mining.business    | premium   | 66       | 27%    | 6      |                                              |                  |                  |
+| mining.buzz        | premium   | 66       | 27%    | 6      |                                              |                  |                  |
+| mining.cafe        | available | 66       | 27%    | 6      |                                              |                  |                  |
+| mining.cam         | expiring  | 66       | 27%    | 6      | Spaceship, Inc.                              | 21/12/2024 16:09 | 21/12/2025 23:59 |
+| mining.camera      | available | 66       | 27%    | 6      |                                              |                  |                  |
+| mining.camp        | expired   | 66       | 27%    | 6      | Sav.com, LLC                                 | 21/10/2024 20:40 | 21/10/2025 20:40 |
+| mining.capital     | resell    | 66       | 27%    | 6      | Spaceship, Inc.                              | 23/12/2023 17:00 | 23/12/2026 17:00 |
+| mining.car         | available | 66       | 27%    | 6      |                                              |                  |                  |
+| mining.cards       | available | 66       | 27%    | 6      |                                              |                  |                  |
+| mining.care        | available | 66       | 27%    | 6      |                                              |                  |                  |
+| mining.cars        | available | 66       | 27%    | 6      |                                              |                  |                  |
+| mining.cash        | resell    | 66       | 27%    | 6      | Xiamen ChinaSource Internet Service Co., Ltd | 13/02/2024 15:15 | 13/02/2027 15:15 |
+| mining.casino      | available | 66       | 27%    | 6      |                                              |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Mining-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -88,9 +88,9 @@ If you want to search & filters the complete database of [Mining one word domain
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,756       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 63,843       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,573    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 30,719       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 64,044       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,599,086    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |

@@ -1,4 +1,14 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
+b2bf6137-45ff-470b-a14e-ab7c2fae9922,mining.bargains,available,66,27,6,,,
+8a25d373-9aee-4eb8-a9a1-d418943a3858,mining.bayern,premium,66,27,6,,,
+a80459fe-2a96-4e8b-b4ab-cb1d08f26c61,mining.beauty,resell,66,27,6,"Spaceship, Inc.",11/07/2025 15:24,11/07/2026 23:59
+62c0331d-a9a5-4e5b-8d99-7c2b955cb108,mining.berlin,available,66,27,6,,,
+d2ecf83d-0a1f-4e9e-881b-8fc5e33baa0f,mining.bid,resell,66,27,6,"OwnRegistrar, Inc.",26/05/2025 22:46,26/05/2026 22:46
+ccb31317-f734-4606-bdd7-97b48207e4d6,mining.bike,available,66,27,6,,,
+b3ec48f7-2456-4835-a331-674cd3818d20,mining.bingo,available,66,27,6,,,
+e5a6bc5c-e5cb-4410-aaec-5c5b0461d80c,mining.biz,resell,66,27,6,"GoDaddy.com, LLC",27/03/2002 08:10,26/03/2026 23:59
+8c31d74e-f57b-456e-a2e2-df1b4c0b7bdf,mining.blackfriday,available,66,27,6,,,
+d17c0954-d3af-4161-836f-3a4741a536be,mining.blog,premium,66,27,6,,,
 66a2c49c-3a5b-4e3f-af0d-e24fbd51f2c6,mining.blue,resell,66,27,6,"Xiamen ChinaSource Internet Service Co., Ltd",06/05/2025 15:15,06/05/2026 15:15
 caec480f-03ec-4373-be84-2cd8f96176c9,mining.boats,available,66,27,6,,,
 7add73cc-c84b-4bce-b50d-f6348b17d166,mining.boo,premium,66,27,6,,,
@@ -344,16 +354,6 @@ ef220012-e229-4a22-b347-b732f9802a3e,mining.audio,available,66,27,6,,,
 d79c41f9-2774-4ff7-8fd2-828d48c0996b,mining.auto,available,66,27,6,,,
 fb4c1819-962b-4390-8899-c048313dbcfe,mining.band,available,66,27,6,,,
 e84a954f-6b6c-4080-a3d9-2d504bdc8d05,mining.bar,premium,66,27,6,,,
-b2bf6137-45ff-470b-a14e-ab7c2fae9922,mining.bargains,available,66,27,6,,,
-8a25d373-9aee-4eb8-a9a1-d418943a3858,mining.bayern,premium,66,27,6,,,
-a80459fe-2a96-4e8b-b4ab-cb1d08f26c61,mining.beauty,resell,66,27,6,"Spaceship, Inc.",11/07/2025 15:24,11/07/2026 23:59
-62c0331d-a9a5-4e5b-8d99-7c2b955cb108,mining.berlin,available,66,27,6,,,
-d2ecf83d-0a1f-4e9e-881b-8fc5e33baa0f,mining.bid,resell,66,27,6,"OwnRegistrar, Inc.",26/05/2025 22:46,26/05/2026 22:46
-ccb31317-f734-4606-bdd7-97b48207e4d6,mining.bike,available,66,27,6,,,
-b3ec48f7-2456-4835-a331-674cd3818d20,mining.bingo,available,66,27,6,,,
-e5a6bc5c-e5cb-4410-aaec-5c5b0461d80c,mining.biz,resell,66,27,6,"GoDaddy.com, LLC",27/03/2002 08:10,26/03/2026 23:59
-8c31d74e-f57b-456e-a2e2-df1b4c0b7bdf,mining.blackfriday,available,66,27,6,,,
-d17c0954-d3af-4161-836f-3a4741a536be,mining.blog,premium,66,27,6,,,
 10149a6c-7394-4e3f-bec4-20fa278a69a9,milling.ai,resell,50,76,7,"NameCheap, Inc.",10/04/2025 09:39,10/04/2027 09:39
 c605cc91-cc10-4eaa-9c0c-3a7cce798846,milling.app,premium,50,76,7,,,
 3c7c968d-fde0-410c-b454-04d2f5a41a76,milling.at,available,50,76,7,,,
@@ -374,6 +374,29 @@ b792021e-2f6b-4cf4-8733-15e73fb5181f,milling.space,premium,50,76,7,,,
 484f998b-37b1-4b36-8206-873fb943f7d3,milling.us,resell,50,76,7,InternetX GmbH,24/04/2002 15:16,23/04/2026 23:59
 50804c6f-053f-45b4-9350-b019a0d9d07c,milling.xyz,resell,50,76,7,Dynadot LLC,27/09/2019 18:53,27/09/2026 23:59
 b5683a19-680a-47c1-9020-9a4d4c83f1b7,milling.zone,available,50,76,7,,,
+622e2e12-3c84-45f6-b418-40ef92349dfb,screening.villas,available,70,11,9,,,
+d92a7fc0-9636-45ed-99c4-476871aca2bf,screening.vin,available,70,11,9,,,
+64575f33-301c-4b21-80c5-997ad9eb00ad,screening.vip,premium,70,11,9,,,
+3ac30aa2-7726-4dde-8a9a-a6f6d6df5a67,screening.vision,premium,70,11,9,,,
+9a5cd0e8-e786-4f68-9cbe-36447d696ffb,screening.vodka,available,70,11,9,,,
+e07eeb0b-d9cf-4678-afe6-38020ce0d3ab,screening.vote,available,70,11,9,,,
+aab1a4f9-ddc0-4bff-ac23-4d861b90c385,screening.voting,available,70,11,9,,,
+2e90c4eb-4b94-44a1-9d23-586fb7ced6e1,screening.voto,available,70,11,9,,,
+9a68e95b-7830-4c5a-966a-a0e092ce3f44,screening.voyage,available,70,11,9,,,
+ea99e6ad-517f-4671-8132-27b56aaf0b8b,screening.watch,available,70,11,9,,,
+c51fdb9e-9c27-42c0-ac55-e463f8543375,screening.webcam,premium,70,11,9,,,
+66072766-b7b4-44a9-b58d-15eebbc3e9f1,screening.wedding,available,70,11,9,,,
+38d20559-b0e5-4456-b623-862b09c9e51e,screening.win,available,70,11,9,,,
+c79688b7-6170-4260-86a1-ab08af68ac87,screening.wine,available,70,11,9,,,
+7d195515-bdb3-439b-a1eb-105de0750857,screening.work,expiring,70,11,9,CommuniGal Communication Ltd.,19/12/2024 00:00,19/12/2025 00:00
+9936c884-8850-4404-94b3-56d6148aea39,screening.works,available,70,11,9,,,
+f2075b12-ce56-47b2-853f-ac2d62f0648b,screening.world,expiring,70,11,9,"Xiamen ChinaSource Internet Service Co., Ltd",11/01/2025 15:15,11/01/2026 15:15
+29ad5756-2d1c-4297-9c4e-80a828da8194,screening.wtf,available,70,11,9,,,
+630eba95-d437-4323-b624-b381c1eb9c0b,screening.yachts,available,70,11,9,,,
+249fc3bb-7177-4450-9c37-181d44abcedb,screening.yoga,available,70,11,9,,,
+be7ffe42-98a9-458c-9ef4-bd2c072dd851,screening.you,premium,70,11,9,,,
+00e6c307-eda1-49c7-9e3d-b10a71365fc6,screening.zip,premium,70,11,9,,,
+8e30eebb-b110-44b9-b1ae-3118f8dc22e1,screening.zone,available,70,11,9,,,
 f038cfc6-a18d-41a3-bf16-c1d4110edaae,screening.ac,available,70,11,9,,,
 29e8ec2f-d752-4c77-9600-8a41f91f02cb,screening.academy,available,70,11,9,,,
 2b365bbf-9aec-4ad0-8b42-6385b6316b12,screening.accountant,available,70,11,9,,,
@@ -785,29 +808,6 @@ ccfbd39e-a2ba-49ec-a34b-65fa4acf2a8d,screening.ventures,available,70,11,9,,,
 a8eb34e4-95d2-407e-bf74-971c0a15972d,screening.vet,available,70,11,9,,,
 af4730af-36b3-47f1-8bd3-eb367e7b5f2b,screening.viajes,available,70,11,9,,,
 7d0e0a47-6124-4409-80a4-f0eee7c00c5d,screening.video,premium,70,11,9,,,
-622e2e12-3c84-45f6-b418-40ef92349dfb,screening.villas,available,70,11,9,,,
-d92a7fc0-9636-45ed-99c4-476871aca2bf,screening.vin,available,70,11,9,,,
-64575f33-301c-4b21-80c5-997ad9eb00ad,screening.vip,premium,70,11,9,,,
-3ac30aa2-7726-4dde-8a9a-a6f6d6df5a67,screening.vision,premium,70,11,9,,,
-9a5cd0e8-e786-4f68-9cbe-36447d696ffb,screening.vodka,available,70,11,9,,,
-e07eeb0b-d9cf-4678-afe6-38020ce0d3ab,screening.vote,available,70,11,9,,,
-aab1a4f9-ddc0-4bff-ac23-4d861b90c385,screening.voting,available,70,11,9,,,
-2e90c4eb-4b94-44a1-9d23-586fb7ced6e1,screening.voto,available,70,11,9,,,
-9a68e95b-7830-4c5a-966a-a0e092ce3f44,screening.voyage,available,70,11,9,,,
-ea99e6ad-517f-4671-8132-27b56aaf0b8b,screening.watch,available,70,11,9,,,
-c51fdb9e-9c27-42c0-ac55-e463f8543375,screening.webcam,premium,70,11,9,,,
-66072766-b7b4-44a9-b58d-15eebbc3e9f1,screening.wedding,available,70,11,9,,,
-38d20559-b0e5-4456-b623-862b09c9e51e,screening.win,available,70,11,9,,,
-c79688b7-6170-4260-86a1-ab08af68ac87,screening.wine,available,70,11,9,,,
-7d195515-bdb3-439b-a1eb-105de0750857,screening.work,expiring,70,11,9,CommuniGal Communication Ltd.,19/12/2024 00:00,19/12/2025 00:00
-9936c884-8850-4404-94b3-56d6148aea39,screening.works,available,70,11,9,,,
-f2075b12-ce56-47b2-853f-ac2d62f0648b,screening.world,expiring,70,11,9,"Xiamen ChinaSource Internet Service Co., Ltd",11/01/2025 15:15,11/01/2026 15:15
-29ad5756-2d1c-4297-9c4e-80a828da8194,screening.wtf,available,70,11,9,,,
-630eba95-d437-4323-b624-b381c1eb9c0b,screening.yachts,available,70,11,9,,,
-249fc3bb-7177-4450-9c37-181d44abcedb,screening.yoga,available,70,11,9,,,
-be7ffe42-98a9-458c-9ef4-bd2c072dd851,screening.you,premium,70,11,9,,,
-00e6c307-eda1-49c7-9e3d-b10a71365fc6,screening.zip,premium,70,11,9,,,
-8e30eebb-b110-44b9-b1ae-3118f8dc22e1,screening.zone,available,70,11,9,,,
 98c1f1d0-2316-46a5-a970-3262e0aa3d04,classification.at,available,64,80,14,,,
 9e020f68-138f-4c8a-994e-91d5b257afbf,classification.co,resell,64,80,14,InternetX GmbH,05/06/2014 18:02,04/06/2026 23:59
 8264dcc0-0858-4ca6-830b-8c7b65ea2355,classification.com,resell,64,80,14,"GoDaddy.com, LLC",20/02/2000 11:47,20/02/2030 11:47
