@@ -1,4 +1,12 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
+19c33eeb-7338-4eea-b373-9606739892a4,min.ing,premium,66,27,6,,,
+ebb97387-e9dc-4bb4-8977-ee86870d8244,mining.ac,premium,66,27,6,,,
+c3a720ef-8213-410c-8c93-c268fc083553,mining.accountant,premium,66,27,6,,,
+5c6c9690-d72c-42f3-b4b2-8e978f1c33bb,mining.accountants,available,66,27,6,,,
+7e641ec5-f0c0-4be2-b227-39cb819da5ca,mining.actor,available,66,27,6,,,
+7e934942-6236-4ce3-86e8-910c5ce7e364,mining.adult,available,66,27,6,,,
+aa10d12e-d956-4aea-aec1-5e71b0f100be,mining.agency,resell,66,27,6,Unstoppable Domains Inc,21/12/2021 13:15,21/12/2026 13:15
+3064f5a1-9b31-4f58-8bd0-483ce2389721,mining.ai,resell,66,27,6,101domain GRS Limited,16/12/2017 01:11,15/11/2026 01:11
 c0910f9e-11a4-4d84-b31f-307290738747,mining.airforce,available,66,27,6,,,
 82b71f70-5b7e-4ea0-b3fa-826dd345e821,mining.apartments,available,66,27,6,,,
 c3cae2b0-595d-47c8-8713-97b9f40409f2,mining.app,resell,66,27,6,West263 International Limited,18/07/2019 00:59,18/07/2026 00:59
@@ -346,14 +354,6 @@ f3309225-5bdd-4bec-9755-c1c01a08698a,mining.xyz,resell,66,27,6,"Go Daddy, LLC",0
 f0ef2538-aeb1-4d5d-aa86-baf98bdf9e5a,mining.you,premium,66,27,6,,,
 778ad6c7-9b66-43aa-bf3c-9382b6b8326e,mining.zip,premium,66,27,6,,,
 4f2af914-b7d3-46f9-9501-ce3f439816f9,mining.zone,resell,66,27,6,"Xiamen ChinaSource Internet Service Co., Ltd",13/05/2018 03:40,13/05/2026 03:40
-19c33eeb-7338-4eea-b373-9606739892a4,min.ing,premium,66,27,6,,,
-ebb97387-e9dc-4bb4-8977-ee86870d8244,mining.ac,premium,66,27,6,,,
-c3a720ef-8213-410c-8c93-c268fc083553,mining.accountant,premium,66,27,6,,,
-5c6c9690-d72c-42f3-b4b2-8e978f1c33bb,mining.accountants,available,66,27,6,,,
-7e641ec5-f0c0-4be2-b227-39cb819da5ca,mining.actor,available,66,27,6,,,
-7e934942-6236-4ce3-86e8-910c5ce7e364,mining.adult,available,66,27,6,,,
-aa10d12e-d956-4aea-aec1-5e71b0f100be,mining.agency,resell,66,27,6,Unstoppable Domains Inc,21/12/2021 13:15,21/12/2026 13:15
-3064f5a1-9b31-4f58-8bd0-483ce2389721,mining.ai,resell,66,27,6,101domain GRS Limited,16/12/2017 01:11,15/11/2026 01:11
 10149a6c-7394-4e3f-bec4-20fa278a69a9,milling.ai,resell,50,76,7,"NameCheap, Inc.",10/04/2025 09:39,10/04/2027 09:39
 c605cc91-cc10-4eaa-9c0c-3a7cce798846,milling.app,premium,50,76,7,,,
 3c7c968d-fde0-410c-b454-04d2f5a41a76,milling.at,available,50,76,7,,,
@@ -374,6 +374,23 @@ b792021e-2f6b-4cf4-8733-15e73fb5181f,milling.space,premium,50,76,7,,,
 484f998b-37b1-4b36-8206-873fb943f7d3,milling.us,resell,50,76,7,InternetX GmbH,24/04/2002 15:16,23/04/2026 23:59
 50804c6f-053f-45b4-9350-b019a0d9d07c,milling.xyz,resell,50,76,7,Dynadot LLC,27/09/2019 18:53,27/09/2026 23:59
 b5683a19-680a-47c1-9020-9a4d4c83f1b7,milling.zone,available,50,76,7,,,
+a971d15b-3da1-4fa8-95c1-607314582350,screening.sydney,available,70,11,9,,,
+0a9d3cdd-0acb-4774-987d-1ee30939eb5f,screening.systems,sold,70,11,9,"GoDaddy.com, LLC",14/12/2015 21:36,14/12/2030 21:36
+7c766da4-22ca-4359-92e6-2a7c607d6f42,screening.talk,premium,70,11,9,,,
+b9f2b8d6-a1e5-4393-b6a7-bfd8c1d7b1a2,screening.tattoo,available,70,11,9,,,
+a5a9c69c-6f0d-49e6-ae56-1a7f7073eeab,screening.tax,available,70,11,9,,,
+131d11e2-31ac-4482-81d4-e9b0e340c045,screening.taxi,available,70,11,9,,,
+30325fe9-67c5-495e-af18-657105506172,screening.team,available,70,11,9,,,
+2125a448-e4a0-4ad1-84e2-2b87ff2b7ed8,screening.tech,expiring,70,11,9,"Xiamen ChinaSource Internet Service Co., Ltd",19/12/2020 21:03,19/12/2025 23:59
+22276afa-f1a9-421b-b166-e03ea81ddb0f,screening.technology,available,70,11,9,,,
+65cb736c-8bd2-463a-a71c-b098f6feaebe,screening.tel,available,70,11,9,,,
+2b39fa79-2c64-4b16-89ef-87a456054221,screening.tennis,available,70,11,9,,,
+e6662aa4-f6e4-414a-aa6a-89a9c536d4b3,screening.theater,available,70,11,9,,,
+f043386f-d39f-4c00-8bd2-fe0126ffb9b8,screening.theatre,available,70,11,9,,,
+c75f40d6-6b00-405b-8f5d-d1ffbe1a8bdd,screening.tickets,available,70,11,9,,,
+6b1a7391-260d-4318-8859-a4cd6efb6bfc,screening.tienda,available,70,11,9,,,
+e0a25dd9-182f-4f16-86f7-f53d81fe2566,screening.tires,available,70,11,9,,,
+2e6b1355-8c9f-4b14-900d-70aeb23e8ea7,screening.to,available,70,11,9,,,
 9634f86d-1d6c-401d-9581-27e178f7b45a,screening.today,available,70,11,9,,,
 7a81c27b-1e27-4ee0-9b50-0893be072151,screening.tours,available,70,11,9,,,
 3be87c44-0e5b-4106-8b86-835117fcb4c3,screening.town,available,70,11,9,,,
@@ -791,23 +808,6 @@ e176af2b-2d5b-4cc0-946d-1e9a3ae0f7aa,screening.sucks,available,70,11,9,,,
 7531812b-4035-40a9-95a2-df7c02b14241,screening.supply,available,70,11,9,,,
 5c8efa4c-22ca-4b2d-853f-f1fc34f55bed,screening.surf,available,70,11,9,,,
 480dda4e-6452-454c-9369-e5849d253775,screening.surgery,available,70,11,9,,,
-a971d15b-3da1-4fa8-95c1-607314582350,screening.sydney,available,70,11,9,,,
-0a9d3cdd-0acb-4774-987d-1ee30939eb5f,screening.systems,sold,70,11,9,"GoDaddy.com, LLC",14/12/2015 21:36,14/12/2030 21:36
-7c766da4-22ca-4359-92e6-2a7c607d6f42,screening.talk,premium,70,11,9,,,
-b9f2b8d6-a1e5-4393-b6a7-bfd8c1d7b1a2,screening.tattoo,available,70,11,9,,,
-a5a9c69c-6f0d-49e6-ae56-1a7f7073eeab,screening.tax,available,70,11,9,,,
-131d11e2-31ac-4482-81d4-e9b0e340c045,screening.taxi,available,70,11,9,,,
-30325fe9-67c5-495e-af18-657105506172,screening.team,available,70,11,9,,,
-2125a448-e4a0-4ad1-84e2-2b87ff2b7ed8,screening.tech,expiring,70,11,9,"Xiamen ChinaSource Internet Service Co., Ltd",19/12/2020 21:03,19/12/2025 23:59
-22276afa-f1a9-421b-b166-e03ea81ddb0f,screening.technology,available,70,11,9,,,
-65cb736c-8bd2-463a-a71c-b098f6feaebe,screening.tel,available,70,11,9,,,
-2b39fa79-2c64-4b16-89ef-87a456054221,screening.tennis,available,70,11,9,,,
-e6662aa4-f6e4-414a-aa6a-89a9c536d4b3,screening.theater,available,70,11,9,,,
-f043386f-d39f-4c00-8bd2-fe0126ffb9b8,screening.theatre,available,70,11,9,,,
-c75f40d6-6b00-405b-8f5d-d1ffbe1a8bdd,screening.tickets,available,70,11,9,,,
-6b1a7391-260d-4318-8859-a4cd6efb6bfc,screening.tienda,available,70,11,9,,,
-e0a25dd9-182f-4f16-86f7-f53d81fe2566,screening.tires,available,70,11,9,,,
-2e6b1355-8c9f-4b14-900d-70aeb23e8ea7,screening.to,available,70,11,9,,,
 98c1f1d0-2316-46a5-a970-3262e0aa3d04,classification.at,available,64,80,14,,,
 9e020f68-138f-4c8a-994e-91d5b257afbf,classification.co,resell,64,80,14,InternetX GmbH,05/06/2014 18:02,04/06/2026 23:59
 8264dcc0-0858-4ca6-830b-8c7b65ea2355,classification.com,resell,64,80,14,"GoDaddy.com, LLC",20/02/2000 11:47,20/02/2030 11:47
