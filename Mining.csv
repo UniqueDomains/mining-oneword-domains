@@ -374,6 +374,11 @@ b792021e-2f6b-4cf4-8733-15e73fb5181f,milling.space,premium,50,76,7,,,
 484f998b-37b1-4b36-8206-873fb943f7d3,milling.us,resell,50,76,7,InternetX GmbH,24/04/2002 15:16,23/04/2026 23:59
 50804c6f-053f-45b4-9350-b019a0d9d07c,milling.xyz,resell,50,76,7,Dynadot LLC,27/09/2019 18:53,27/09/2026 23:59
 b5683a19-680a-47c1-9020-9a4d4c83f1b7,milling.zone,available,50,76,7,,,
+cd50b978-d26a-4f3a-871c-05cd622d99c0,screening.soy,available,70,11,9,,,
+ecaa32b9-4586-4d9d-a419-860e2432a5a3,screening.spot,premium,70,11,9,,,
+b652cfcc-0702-44d1-8eec-8997d1ac7f78,screening.srl,available,70,11,9,,,
+c7d661a8-e4bd-4a7d-9786-c5fe3f87ce30,screening.storage,available,70,11,9,,,
+135de0ae-dbf5-4afe-a597-3018802f0031,screening.store,premium,70,11,9,,,
 061acb77-2d49-401e-92f6-81f9ac031b12,screening.stream,available,70,11,9,,,
 26c3a8ec-15f4-4e60-b57d-0f8f587d127b,screening.studio,available,70,11,9,,,
 fa2f9115-e120-4e03-87e0-044c2e72c014,screening.study,premium,70,11,9,,,
@@ -803,11 +808,6 @@ e1c7d71e-ba82-440e-b3c6-63fe83fa77ba,screening.ski,available,70,11,9,,,
 6f486f74-f1ea-475f-aa28-e547c000d641,screening.soccer,available,70,11,9,,,
 c3ce71eb-4e21-4704-96b4-07b27b7fefe8,screening.social,available,70,11,9,,,
 7fdef627-82a4-4ce9-ac1b-6e75c94f5d9d,screening.solar,available,70,11,9,,,
-cd50b978-d26a-4f3a-871c-05cd622d99c0,screening.soy,available,70,11,9,,,
-ecaa32b9-4586-4d9d-a419-860e2432a5a3,screening.spot,premium,70,11,9,,,
-b652cfcc-0702-44d1-8eec-8997d1ac7f78,screening.srl,available,70,11,9,,,
-c7d661a8-e4bd-4a7d-9786-c5fe3f87ce30,screening.storage,available,70,11,9,,,
-135de0ae-dbf5-4afe-a597-3018802f0031,screening.store,premium,70,11,9,,,
 98c1f1d0-2316-46a5-a970-3262e0aa3d04,classification.at,available,64,80,14,,,
 9e020f68-138f-4c8a-994e-91d5b257afbf,classification.co,resell,64,80,14,InternetX GmbH,05/06/2014 18:02,04/06/2026 23:59
 8264dcc0-0858-4ca6-830b-8c7b65ea2355,classification.com,resell,64,80,14,"GoDaddy.com, LLC",20/02/2000 11:47,20/02/2030 11:47
