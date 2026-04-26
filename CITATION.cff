@@ -4,9 +4,9 @@ title: "Mining One-Word Domains"
 type: dataset
 authors:
   - name: "Unique Domains"
-version: "2026-04-13"
-date-released: "2026-04-13"
-url: "https://unique.domains/domains/sector/mining"
+version: "2026-04-26"
+date-released: "2026-04-26"
+url: "https://unique.domains/domains/sector/Mining"
 repository-code: "https://github.com/UniqueDomains/mining-oneword-domains"
 license: "See LICENSE"
-abstract: "Daily-updated dataset of mining one-word domains from Unique Domains."
+abstract: "Daily-updated public extract of mining one-word domains from Unique Domains."

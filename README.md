@@ -1,29 +1,29 @@
-# Mining One-Word Domains (4,164)
+# Mining One-Word Domains (6,288)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-4%2C165%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C164%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C288%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of mining one-word domains from Unique Domains.
+Daily-updated public extract of mining one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **6,288 domains** on the canonical page below.
 
-**Public extract:** 4,165 rows · **Live catalog:** 4,164 domains
+**Public extract:** 1,000 rows · **Live catalog:** 6,288 domains
 
-**Last updated:** 2026-04-13  
-**Canonical page:** `https://unique.domains/domains/sector/mining`  
+**Last updated:** 2026-04-26  
+**Canonical page:** `https://unique.domains/domains/sector/Mining`  
 **Best for:** founders, investors, studios
 
 ---
 
 <p align="center">
-  <a href="https://unique.domains/domains/sector/mining?utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
+  <a href="https://unique.domains/domains/sector/Mining?utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./mining.csv">CSV</a> / <a href="./mining.json">JSON</a>
   · <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
@@ -31,20 +31,20 @@ Daily-updated dataset of mining one-word domains from Unique Domains.
 
 ---
 
-➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/sector/mining?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=top_create_radar)  
-➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/sector/mining?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=top_start_project)  
+➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/sector/Mining?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=top_create_radar)  
+➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/sector/Mining?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=top_start_project)  
 ➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=top_api_docs)
 
 ---
 
 ## 📦 What this repository contains
 
-This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/sector/mining`.
+This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/sector/Mining`.
 
 ### Files
 
-- `mining.csv` — public CSV extract (4,165 rows)
-- `mining.json` — public JSON extract (4,165 rows)
+- `mining.csv` — public CSV extract (1,000 rows)
+- `mining.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar         |
-| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| iron.ac          | available | $49.99     | $99           | 84             | 98     | 4      | name.com          |
-| mineral.me       | resell    | $8,050     | $27.99        | 58             | 80     | 7      | GoDaddy.com, LLC  |
-| mine.store       | premium   | $781.25    | $3,125        | 56             | 96     | 4      | name.com          |
-| coal.ninja       | available | $42.98     | —             | 50             | 84     | 4      | namecheap         |
-| refining.me      | resell    | $9,198.85  | $27.99        | 58             | 80     | 8      | Dynadot Inc       |
-| mine.site        | premium   | $312.50    | $1,250        | 56             | 96     | 4      | name.com          |
-| coal.expert      | available | $82.48     | —             | 50             | 84     | 4      | namecheap         |
-| ore.me           | resell    | $22,871.20 | $27.99        | 58             | 76     | 3      | Dynadot Inc       |
-| mine.online      | premium   | $1,562.50  | $6,250        | 56             | 96     | 4      | name.com          |
-| mineral.ninja    | available | $42.98     | —             | 58             | 80     | 7      | namecheap         |
-| analysis.io      | resell    | $71,472.50 | $59.99        | 80             | 23     | 8      | Sav.com, LLC      |
-| coal.tech        | premium   | $312.50    | $1,250        | 50             | 84     | 4      | name.com          |
-| refining.zone    | available | $51.98     | —             | 58             | 80     | 8      | namecheap         |
-| engineering.info | resell    | $34,385    | $35.99        | 74             | 22     | 11     | Dynadot Inc       |
-| coal.store       | premium   | $312.50    | $1,250        | 50             | 84     | 4      | name.com          |
-| refining.pro     | available | $30.98     | —             | 58             | 80     | 8      | namecheap         |
-| strip.info       | resell    | $11,498.85 | $35.99        | 84             | 19     | 5      | Sav.com, LLC - 37 |
-| coal.space       | premium   | $325       | $1,300        | 50             | 84     | 4      | namecheap         |
-| refining.gg      | available | $82.98     | —             | 58             | 80     | 8      | namecheap         |
-| strip.co         | resell    | $57,371.20 | $48.99        | 84             | 18     | 5      | GoDaddy.com, LLC  |
+| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                  |
+| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------------------ |
+| coal.ninja       | available | $42.98     | —             | 50             | 84     | 4      | namecheap                                  |
+| mineral.me       | resell    | $8,050     | $27.99        | 58             | 80     | 7      | GoDaddy.com, LLC                           |
+| mine.store       | premium   | $781.25    | $3,125        | 56             | 96     | 4      | name.com                                   |
+| coal.expert      | available | $82.48     | —             | 50             | 84     | 4      | namecheap                                  |
+| ore.me           | resell    | $22,871.20 | $27.99        | 58             | 76     | 3      | Dynadot Inc                                |
+| mine.site        | premium   | $312.50    | $1,250        | 56             | 96     | 4      | name.com                                   |
+| mineral.ninja    | available | $42.98     | —             | 58             | 80     | 7      | namecheap                                  |
+| engineering.info | resell    | $34,385    | $35.99        | 74             | 28     | 11     | Dynadot Inc                                |
+| mine.online      | premium   | $1,562.50  | $6,250        | 56             | 96     | 4      | name.com                                   |
+| ore.expert       | available | $82.48     | —             | 58             | 76     | 3      | namecheap                                  |
+| engineering.gg   | resell    | $70.98     | —             | 74             | 28     | 11     | Spaceship, Inc (https://www.spaceship.com) |
+| coal.tech        | premium   | $312.50    | $1,250        | 50             | 84     | 4      | name.com                                   |
+| extraction.ninja | available | $42.98     | —             | 59             | 72     | 10     | namecheap                                  |
+| boring.ca        | resell    | —          | —             | 62             | 98     | 6      | BareMetal.com inc                          |
+| coal.store       | premium   | $312.50    | $1,250        | 50             | 84     | 4      | name.com                                   |
+| extraction.gg    | available | $82.98     | —             | 59             | 72     | 10     | namecheap                                  |
+| mine.cloud       | resell    | —          | —             | 56             | 96     | 4      | Dynadot, LLC                               |
+| coal.space       | premium   | $325       | $1,300        | 50             | 84     | 4      | namecheap                                  |
+| boring.town      | available | $9.99      | —             | 62             | 35     | 6      | name.com                                   |
+| geology.pro      | resell    | —          | —             | 70             | 84     | 7      | Registrar of Domain Names REG.RU LLC       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 4,165-row public sample | 4,164 live domains                               |
+| 1,000-row public sample | 6,288 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -101,7 +101,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
-[Create Radar](https://unique.domains/domains/sector/mining?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/sector/mining?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=related_pricing)
+[Create Radar](https://unique.domains/domains/sector/Mining?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/sector/Mining?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=related_pricing)
 
 ## 🧱 Field summary
 
@@ -143,14 +143,14 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Mining One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Mining One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 
 ## 🔗 Related links
 
-- [Live search](https://unique.domains/domains/sector/mining?utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=top_open_search)
+- [Live search](https://unique.domains/domains/sector/Mining?utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=top_open_search)
 - [Technology and scoring](https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=top_api_docs)
