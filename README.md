@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                           |
-| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| jewelry.build    | premium   | $1,950     | $1,950        | high           | low    | 7      | namecheap                                           |
-| dig.equipment    | available | $19.99     | —             | high           | low    | 3      | name.com                                            |
-| out.autos        | resell    | $1.99      | —             | high           | low    | 3      | Dynadot LLC                                         |
-| dig.build        | premium   | $1,875     | —             | high           | low    | 3      | name.com                                            |
-| dig.jewelry      | available | $19.99     | —             | high           | low    | 3      | name.com                                            |
-| metal.co         | resell    | $57,498.85 | $48.99        | high           | low    | 5      | NameSilo, LLC                                       |
-| dig.builders     | premium   | $78.54     | $78.54        | high           | low    | 3      | namesilo                                            |
-| dig.luxury       | available | $49.99     | —             | high           | low    | 3      | name.com                                            |
-| energy.luxe      | resell    | $37,060.64 | —             | high           | medium | 6      | Dynadot Inc                                         |
-| dig.construction | premium   | $78.54     | $78.54        | high           | low    | 3      | namesilo                                            |
-| dig.supplies     | available | $24.99     | $24.99        | high           | low    | 3      | namesilo                                            |
-| deposit.it       | resell    | $6,648.15  | $25.99        | high           | low    | 7      | name.com                                            |
-| dig.contractors  | premium   | $78.54     | $78.54        | high           | low    | 3      | namesilo                                            |
-| oil.ryukyu       | available | $22.98     | —             | high           | low    | 3      | namecheap                                           |
-| analysis.io      | resell    | $71,472.50 | $59.99        | high           | low    | 8      | Sav.com, LLC                                        |
-| dig.luxe         | premium   | $854       | $17.70        | high           | low    | 3      | namesilo                                            |
-| out.apartments   | available | $19.99     | —             | high           | low    | 3      | name.com                                            |
-| dig.gold         | resell    | —          | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| dig.parts        | premium   | $118.80    | $118.80       | high           | low    | 3      | namesilo                                            |
-| out.archi        | available | $24.99     | —             | high           | low    | 3      | name.com                                            |
+| domain         | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                           |
+| -------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| jewelry.build  | premium   | $1,950     | $1,950        | high           | low    | 7      | namecheap                                           |
+| dig.equipment  | available | $19.99     | —             | high           | low    | 3      | name.com                                            |
+| out.autos      | resell    | $1.99      | —             | high           | low    | 3      | Dynadot LLC                                         |
+| dig.parts      | premium   | $118.80    | $118.80       | high           | low    | 3      | namesilo                                            |
+| dig.supplies   | available | $24.99     | $24.99        | high           | low    | 3      | namesilo                                            |
+| metal.co       | resell    | $57,498.85 | $48.99        | high           | low    | 5      | NameSilo, LLC                                       |
+| dig.tech       | premium   | $781.25    | —             | high           | low    | 3      | name.com                                            |
+| oil.ryukyu     | available | $22.98     | —             | high           | low    | 3      | namecheap                                           |
+| energy.luxe    | resell    | $37,060.64 | —             | high           | medium | 6      | Dynadot Inc                                         |
+| oil.supplies   | premium   | $250       | $250          | high           | low    | 3      | name.com                                            |
+| out.apartments | available | $19.99     | —             | high           | low    | 3      | name.com                                            |
+| dig.gold       | resell    | —          | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| out.band       | premium   | $78.54     | $78.54        | high           | low    | 3      | namesilo                                            |
+| out.archi      | available | $24.99     | —             | high           | low    | 3      | name.com                                            |
+| out.asia       | resell    | —          | —             | high           | low    | 3      | NameCheap, Inc.                                     |
+| out.bond       | premium   | $376.96    | $753.92       | high           | low    | 3      | namesilo                                            |
+| out.auto       | available | $1,999.99  | $2,199        | high           | low    | 3      | namesilo                                            |
+| out.farm       | resell    | —          | —             | high           | low    | 3      | Dynadot Inc                                         |
+| out.builders   | premium   | $118.80    | $118.80       | high           | low    | 3      | namesilo                                            |
+| out.boutique   | available | $6.99      | —             | high           | low    | 3      | name.com                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
