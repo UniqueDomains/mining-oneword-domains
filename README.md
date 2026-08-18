@@ -16,7 +16,7 @@ This set includes 113,503 one-word domain names related to mining, spanning 506 
 
 **Public extract:** 1,000 rows · **Live catalog:** 125,124 domains · **Median ask:** $582.36 · **High-demand under $2,500:** 412
 
-**Last updated:** 2026-08-17
+**Last updated:** 2026-08-18
 **Canonical page:** `https://unique.domains/domains/sector/mining`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price     | renewal_price | attractiveness | demand | length | registrar            |
-| ---------------- | --------- | ------------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| jewelry.build    | premium   | $1,950        | $1,950        | high           | low    | 7      | namecheap            |
-| cut.supplies     | available | $24.99        | $24.99        | high           | low    | 3      | namesilo             |
-| out.autos        | resell    | $1.99         | —             | high           | low    | 3      | Dynadot LLC          |
-| dig.build        | premium   | $1,875        | —             | high           | low    | 3      | name.com             |
-| dig.engineer     | available | $13.99        | —             | high           | low    | 3      | name.com             |
-| metal.co         | resell    | $57,498.85    | $48.99        | high           | low    | 5      | NameSilo, LLC        |
-| dig.builders     | premium   | $78.54        | $78.54        | high           | low    | 3      | namesilo             |
-| dig.equipment    | available | $19.99        | —             | high           | low    | 3      | name.com             |
-| energy.luxe      | resell    | $37,060.64    | —             | high           | medium | 6      | Dynadot Inc          |
-| dig.construction | premium   | $78.54        | $78.54        | high           | low    | 3      | namesilo             |
-| dig.jewelry      | available | $19.99        | —             | high           | low    | 3      | name.com             |
-| deposit.it       | resell    | $6,648.15     | $25.99        | high           | low    | 7      | name.com             |
-| dig.contractors  | premium   | $78.54        | $78.54        | high           | low    | 3      | namesilo             |
-| dig.luxury       | available | $49.99        | —             | high           | low    | 3      | name.com             |
-| analysis.io      | resell    | $71,472.50    | $59.99        | high           | low    | 8      | Sav.com, LLC         |
-| dig.luxe         | premium   | $854          | $17.70        | high           | low    | 3      | namesilo             |
-| dig.supplies     | available | $24.99        | $24.99        | high           | low    | 3      | namesilo             |
-| material.com     | resell    | $1,149,999.99 | $17.99        | high           | low    | 8      | Atom.com Domains LLC |
-| dig.parts        | premium   | $118.80       | $118.80       | high           | low    | 3      | namesilo             |
-| oil.diamonds     | available | $54.99        | $54.99        | high           | low    | 3      | namesilo             |
+| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                           |
+| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| dig.supplies     | available | $24.99     | $24.99        | high           | low    | 3      | namesilo                                            |
+| out.autos        | resell    | $1.99      | —             | high           | low    | 3      | Dynadot LLC                                         |
+| bit.shop         | premium   | $12,500    | —             | high           | medium | 3      | name.com                                            |
+| oil.ryukyu       | available | $22.98     | —             | high           | low    | 3      | namecheap                                           |
+| metal.co         | resell    | $57,498.85 | $48.99        | high           | low    | 5      | NameSilo, LLC                                       |
+| out.builders     | premium   | $118.80    | $118.80       | high           | low    | 3      | namesilo                                            |
+| out.apartments   | available | $19.99     | —             | high           | low    | 3      | name.com                                            |
+| dig.gold         | resell    | —          | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| out.business     | premium   | $118.80    | $118.80       | high           | low    | 3      | namesilo                                            |
+| out.auto         | available | $1,999.99  | $2,199        | high           | low    | 3      | namesilo                                            |
+| out.finance      | resell    | —          | —             | high           | low    | 3      | Sav.com, LLC - 18                                   |
+| out.condos       | premium   | $78.54     | $78.54        | high           | low    | 3      | namesilo                                            |
+| out.car          | available | $1,999.99  | $2,199        | high           | low    | 3      | namesilo                                            |
+| out.gold         | resell    | —          | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| out.construction | premium   | $118.80    | $118.80       | high           | low    | 3      | namesilo                                            |
+| out.cars         | available | $1,999.99  | $2,199        | high           | low    | 3      | namesilo                                            |
+| out.homes        | resell    | —          | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| out.contractors  | premium   | $118.80    | $118.80       | high           | low    | 3      | namesilo                                            |
+| out.energy       | available | $21.99     | —             | high           | low    | 3      | name.com                                            |
+| out.info         | resell    | —          | —             | high           | low    | 3      | Dynadot Inc                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Mining Domain Names Across 506 TLDs*. Version 2026-08-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Mining Domain Names Across 506 TLDs*. Version 2026-08-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
