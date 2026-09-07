@@ -16,7 +16,7 @@ This set includes 113,503 one-word domain names related to mining, spanning 506 
 
 **Public extract:** 1,000 rows · **Live catalog:** 139,891 domains · **Median ask:** $531.70 · **High-demand under $2,500:** 430
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-07
 **Canonical page:** `https://unique.domains/domains/sector/mining`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price     | renewal_price | attractiveness | demand | length | registrar                                           |
-| ---------------- | --------- | ------------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| jewelry.build    | premium   | $1,950        | $1,950        | high           | low    | 7      | namecheap                                           |
-| out.lgbt         | available | —             | —             | high           | low    | 3      | —                                                   |
-| cut.supplies     | available | $24.99        | $24.99        | high           | low    | 3      | namesilo                                            |
-| out.autos        | resell    | $1.99         | —             | high           | low    | 3      | Dynadot LLC                                         |
-| dig.build        | premium   | $1,875        | —             | high           | low    | 3      | name.com                                            |
-| dig.engineer     | available | $13.99        | —             | high           | low    | 3      | name.com                                            |
-| metal.co         | resell    | $57,498.85    | $48.99        | high           | low    | 5      | NameSilo, LLC                                       |
-| dig.builders     | premium   | $78.54        | $78.54        | high           | low    | 3      | namesilo                                            |
-| dig.equipment    | available | $19.99        | —             | high           | low    | 3      | name.com                                            |
-| deposit.it       | resell    | $6,648.15     | $25.99        | high           | low    | 7      | name.com                                            |
-| dig.construction | premium   | $78.54        | $78.54        | high           | low    | 3      | namesilo                                            |
-| dig.jewelry      | available | $19.99        | —             | high           | low    | 3      | name.com                                            |
-| analysis.io      | resell    | $71,472.50    | $59.99        | high           | low    | 8      | Sav.com, LLC                                        |
-| dig.contractors  | premium   | $78.54        | $78.54        | high           | low    | 3      | namesilo                                            |
-| dig.luxury       | available | $49.99        | —             | high           | low    | 3      | name.com                                            |
-| material.com     | resell    | $1,149,999.99 | $17.99        | high           | low    | 8      | Atom.com Domains LLC                                |
-| dig.luxe         | premium   | $854          | $17.70        | high           | low    | 3      | namesilo                                            |
-| dig.supplies     | available | $24.99        | $24.99        | high           | low    | 3      | namesilo                                            |
-| dig.gold         | resell    | —             | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| dig.parts        | premium   | $118.80       | $118.80       | high           | low    | 3      | namesilo                                            |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| out.supplies  | available | $24.99    | $24.99        | high           | low    | 3      | namesilo                                            |
+| out.gold      | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| coin.autos    | premium   | $2,500    | $2,500        | medium         | medium | 4      | name.com                                            |
+| belt.ryukyu   | available | $22.98    | —             | high           | low    | 4      | namecheap                                           |
+| raw.net       | resell    | —         | —             | medium         | low    | 3      | IONOS SE                                            |
+| coin.diy      | premium   | $218.75   | $312.50       | medium         | medium | 4      | name.com                                            |
+| coin.auto     | available | $1,999.99 | $2,199        | medium         | medium | 4      | namesilo                                            |
+| coin.bio      | resell    | —         | —             | medium         | medium | 4      | Dynadot Inc                                         |
+| coin.foo      | premium   | $1,248.75 | $1,248.75     | medium         | medium | 4      | name.com                                            |
+| coin.car      | available | $1,999.99 | $2,199        | medium         | medium | 4      | namesilo                                            |
+| coin.black    | resell    | —         | —             | medium         | medium | 4      | Dynadot Inc                                         |
+| coin.forex    | premium   | $6,250    | $6,250        | medium         | medium | 4      | name.com                                            |
+| coin.dentist  | available | $63.98    | $81.98        | medium         | medium | 4      | namecheap                                           |
+| coin.broker   | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc.                                     |
+| coin.free     | premium   | $12,500   | $12,500       | medium         | medium | 4      | name.com                                            |
+| coin.futbol   | available | $5.98     | $21.98        | medium         | medium | 4      | namecheap                                           |
+| coin.discount | resell    | —         | —             | medium         | medium | 4      | Hosting Concepts B.V. d/b/a Registrar.eu            |
+| coin.inc      | premium   | $2,015    | $2,600        | medium         | medium | 4      | namecheap                                           |
+| coin.hockey   | available | $14.99    | $77.99        | medium         | medium | 4      | name.com                                            |
+| coin.energy   | resell    | —         | —             | medium         | medium | 4      | Dynadot Inc                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Mining Domain Names Across 506 TLDs*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Mining Domain Names Across 506 TLDs*. Version 2026-09-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
@@ -157,4 +157,4 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 ## 📬 Contact
 
-Questions, corrections, or partnership requests: `gaetan@unique.domains`
+Questions, corrections, or partnership requests: `kai@unique.domains`
