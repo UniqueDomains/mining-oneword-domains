@@ -1,10 +1,10 @@
-# One-Word Mining Domain Names Across 506 TLDs (37,754)
+# One-Word Mining Domain Names Across 506 TLDs (38,104)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-37%2C754%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-38%2C104%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This set includes 113,503 one-word domain names related to mining, spanning 506 different TLDs. The median ask is around $656. Updated daily, it offers a wide range of extensions and price points for evaluating mining-related domain names.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **37,754 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **38,104 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 37,754 domains · **Median ask:** $394.22 · **High-demand under $2,500:** 67
+**Public extract:** 1,000 rows · **Live catalog:** 38,104 domains · **Median ask:** $391.60 · **High-demand under $2,500:** 36
 
-**Last updated:** 2026-09-22
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/sector/mining`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                    |
-| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| metal.xyz         | resell    | —          | —             | high           | low    | 5      | GoDaddy.com, LLC                             |
-| heavy.ac          | available | $49.99     | —             | high           | low    | 5      | name.com                                     |
-| metal.co          | resell    | $57,498.85 | $48.99        | high           | low    | 5      | NameSilo, LLC                                |
-| heavy.band        | premium   | $123.75    | —             | high           | low    | 5      | name.com                                     |
-| heavy.academy     | available | $21.99     | —             | high           | low    | 5      | name.com                                     |
-| rare.gold         | resell    | —          | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| heavy.bar         | premium   | $393.75    | —             | high           | low    | 5      | name.com                                     |
-| heavy.accountants | available | $43.99     | —             | high           | low    | 5      | name.com                                     |
-| heavy.autos       | resell    | —          | —             | high           | low    | 5      | Dynadot LLC                                  |
-| heavy.blog        | premium   | $175.70    | $700          | high           | low    | 5      | namecheap                                    |
-| heavy.actor       | available | $19.99     | —             | high           | low    | 5      | name.com                                     |
-| heavy.beer        | resell    | —          | —             | high           | low    | 5      | GoDaddy.com, LLC                             |
-| heavy.build       | premium   | $312.50    | —             | high           | low    | 5      | name.com                                     |
-| heavy.ag          | available | $89        | —             | high           | low    | 5      | name.com                                     |
-| heavy.bike        | resell    | —          | —             | high           | low    | 5      | Cronon GmbH                                  |
-| heavy.casa        | premium   | $50        | —             | high           | low    | 5      | name.com                                     |
-| heavy.airforce    | available | $134.98    | —             | high           | low    | 5      | namecheap                                    |
-| heavy.bot         | resell    | —          | —             | high           | low    | 5      | Dynadot, LLC                                 |
-| heavy.cfd         | premium   | $180.60    | $361.20       | high           | low    | 5      | namecheap                                    |
-| heavy.apartments  | available | $19.99     | —             | high           | low    | 5      | name.com                                     |
+| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar         |
+| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| metal.xyz         | resell    | —          | —             | high           | low    | 5      | GoDaddy.com, LLC  |
+| oil.ryukyu        | available | $22.98     | —             | high           | low    | 3      | namecheap         |
+| metal.co          | resell    | $57,498.85 | $48.99        | high           | low    | 5      | NameSilo, LLC     |
+| rig.engineer      | premium   | $71.40     | $71.40        | medium         | low    | 3      | namesilo          |
+| rig.cruises       | available | $56.99     | $56.99        | medium         | low    | 3      | namesilo          |
+| coin.surf         | resell    | —          | —             | medium         | medium | 4      | Dynadot Inc       |
+| coin.diamonds     | premium   | $500       | $500          | medium         | medium | 4      | name.com          |
+| rig.villas        | available | $59.99     | $59.99        | medium         | low    | 3      | namesilo          |
+| gold.energy       | resell    | —          | —             | low            | low    | 4      | —                 |
+| coin.prof         | premium   | $1,623.75  | $1,623.75     | medium         | medium | 4      | name.com          |
+| blast.bayern      | available | $34.99     | $34.99        | medium         | medium | 5      | namesilo          |
+| earth.engineering | resell    | —          | —             | medium         | medium | 5      | Sav.com, LLC - 18 |
+| data.press        | premium   | $975       | $1,950        | medium         | low    | 4      | namecheap         |
+| blast.country     | available | $2,298     | $2,450        | medium         | medium | 5      | namecheap         |
+| goods.health      | resell    | —          | —             | high           | low    | 5      | Spaceship, Inc.   |
+| blast.food        | premium   | $455       | $650          | medium         | medium | 5      | namecheap         |
+| blast.pics        | available | $1.80      | $40.98        | medium         | medium | 5      | namecheap         |
+| heavy.equipment   | resell    | —          | —             | medium         | low    | 5      | —                 |
+| blast.free        | premium   | $640       | $640          | medium         | medium | 5      | namesilo          |
+| goods.moi         | available | $39.99     | —             | high           | low    | 5      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 37,754 live domains                        |
+| 1,000-row public sample | 38,104 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 67 high-demand names under $2,500          |
+| Basic exported fields   | 36 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Mining Domain Names Across 506 TLDs*. Version 2026-09-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Mining Domain Names Across 506 TLDs*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
