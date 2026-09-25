@@ -1,10 +1,10 @@
-# One-Word Mining Domain Names Across 506 TLDs (25,049)
+# One-Word Mining Domain Names Across 506 TLDs (23,792)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C049%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C792%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This set includes 113,503 one-word domain names related to mining, spanning 506 different TLDs. The median ask is around $656. Updated daily, it offers a wide range of extensions and price points for evaluating mining-related domain names.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,049 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,792 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,049 domains · **Median ask:** $426.96 · **High-demand under $2,500:** 35
+**Public extract:** 1,000 rows · **Live catalog:** 23,792 domains · **Median ask:** $431.26 · **High-demand under $2,500:** 35
 
 **Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/sector/mining`
@@ -71,19 +71,19 @@ print(df.head())
 | ore.so        | available | $68.98     | —             | high           | high   | 3      | namecheap        |
 | mineral.me    | resell    | $8,050     | $27.99        | high           | high   | 7      | GoDaddy.com, LLC |
 | ore.online    | premium   | $781.25    | $3,125        | high           | high   | 3      | name.com         |
-| coin.storage  | available | $509.99    | $529.99       | high           | medium | 4      | namesilo         |
+| coin.theatre  | available | $509.99    | $529.99       | high           | medium | 4      | namesilo         |
 | ore.us        | resell    | —          | —             | high           | high   | 3      | GoDaddy.com, LLC |
 | ore.pro       | premium   | $520       | $520          | high           | high   | 3      | namecheap        |
-| rare.ryukyu   | available | $22.98     | —             | high           | medium | 4      | namecheap        |
+| blast.guitars | available | $104.99    | $114.99       | high           | medium | 5      | namesilo         |
 | coal.xyz      | resell    | —          | —             | high           | high   | 4      | Go Daddy, LLC    |
 | ore.site      | premium   | $156.25    | $625          | high           | high   | 3      | name.com         |
-| blast.gives   | available | $7.48      | $37.98        | high           | medium | 5      | namecheap        |
-| coin.tips     | resell    | —          | —             | high           | medium | 4      | Dynadot Inc      |
+| blast.tattoo  | available | $2.98      | $48.98        | high           | medium | 5      | namecheap        |
+| coin.plus     | resell    | —          | —             | high           | medium | 4      | NameSilo, LLC    |
 | ore.store     | premium   | $312.50    | $1,250        | high           | high   | 3      | name.com         |
-| blast.guitars | available | $104.99    | $114.99       | high           | medium | 5      | namesilo         |
-| coin.travel   | resell    | —          | —             | high           | medium | 4      | Porkbun LLC      |
+| mined.ag      | available | $89        | $141.99       | high           | low    | 5      | name.com         |
+| mine.cloud    | resell    | —          | —             | high           | high   | 4      | Dynadot, LLC     |
 | ore.tech      | premium   | $781.25    | $3,125        | high           | high   | 3      | name.com         |
-| blast.horse   | available | $32.49     | $32.49        | high           | medium | 5      | namesilo         |
+| mined.baby    | available | $1.80      | $81.98        | high           | low    | 5      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,049 live domains                        |
+| 1,000-row public sample | 23,792 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 35 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
