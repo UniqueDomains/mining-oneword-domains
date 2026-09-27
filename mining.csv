@@ -226,7 +226,7 @@ c66c4e82-df48-49bb-813e-d0ae160beb1a,mining.fishing,available,32.49,32.49,high,l
 c3ab2d29-f97c-4099-98a2-8e6b4b42d140,mining.villas,available,19.99,,high,low,6,name.com,,,
 e1993fbf-aef4-4217-81b2-8a7cb8a35d80,mining.photo,available,39.99,,high,low,6,name.com,,,
 f4827337-a0fe-478b-9008-3700ff20dce4,mining.moda,available,19.99,,high,low,6,name.com,,,
-e3e07161-d04a-417a-a2d3-2d24dd6534f5,mining.loan,premium,650,84.5,high,low,6,namecheap,,,
+e3e07161-d04a-417a-a2d3-2d24dd6534f5,mining.loan,premium,640,77.35,high,low,6,namesilo,,,27/09/2026 06:58
 4151389e-9254-42fb-8e92-8b7085cc7355,mining.team,resell,,,high,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",06/06/2018 04:45,06/06/2027 04:45,26/09/2026 07:34
 41766601-a81f-494a-a69e-c18470e764ee,mining.day,premium,323.7,323.7,high,low,6,namecheap,,,
 8b5d0cd3-c9b6-4445-8056-7e09262cb7ef,mining.supplies,premium,1040,1040,high,low,6,namecheap,,,
@@ -268,7 +268,7 @@ bd8be625-da3f-4f99-ac04-675de5fe8087,mining.vip,resell,,,high,low,6,"Xiamen Chin
 8a25d373-9aee-4eb8-a9a1-d418943a3858,mining.bayern,available,,,high,low,6,,,,
 77b8054a-b909-425f-bbb2-7823ddab1c0e,mining.vet,available,41.99,41.99,high,low,6,namesilo,,,
 e9dfa70a-74b4-4391-9036-27ddd53b6c37,mining.hockey,available,14.99,,high,low,6,name.com,,,
-dd7d3d66-752e-4546-90bd-cd66709a9e3b,mining.soy,premium,107.9,107.9,high,low,6,namecheap,,,
+dd7d3d66-752e-4546-90bd-cd66709a9e3b,mining.soy,premium,107.9,107.9,high,low,6,namecheap,,,27/09/2026 06:58
 9e40b970-2590-45f4-937b-3b9befa566ed,mining.diy,premium,325,650,high,low,6,namecheap,,,
 f06eef3d-5342-4615-9674-c13678026c4f,mining.hospital,available,57.99,57.99,high,low,6,namesilo,,,
 2fe2db08-3de9-410d-8664-1b934a769c66,mining.academy,resell,,,high,low,6,"Spaceship, Inc.",29/03/2026 05:50,29/03/2027 05:50,26/09/2026 07:34
@@ -601,6 +601,7 @@ b7d4851e-c015-4766-9aa0-7c642b771fc1,mineral.cfd,premium,68.43,147.2,high,low,7,
 3b43077e-527c-467a-b895-f2d26facffc2,mine.mx,resell,,,high,low,4,GoDaddy.com,11/12/2016 00:00,11/12/2027 00:00,26/09/2026 07:34
 b5a26c5d-51d1-4378-8747-c6f9a0a309db,mine.mom,available,1.99,27.99,high,low,4,namesilo,,,25/09/2026 09:26
 4c01c192-91c3-4484-af99-35e871f2fb28,mineral.exposed,available,22.49,22.49,high,low,7,namesilo,,,08/09/2026 16:39
+5f09de56-5bd6-42b2-a123-144cd8094444,digging.contractors,premium,72.6,72.6,high,low,7,dynadot,,,27/09/2026 13:02
 6f710265-5b17-4b00-b120-eb2d50c64e38,mineral.one,resell,,,high,low,7,Dynadot Inc,14/02/2026 01:04,14/02/2027 01:04,26/09/2026 07:34
 9618f14a-3bf4-4911-a118-120b4923cbdd,excavation.dealer,premium,4278,2660,high,low,10,namesilo,,,20/09/2026 01:55
 ab7f8f4c-2238-4e90-a3ef-5265f5ec50fc,excavation.pics,available,1.99,32.49,high,low,10,namesilo,,,20/09/2026 01:55
@@ -612,7 +613,7 @@ ee9375ef-3134-41f2-b6da-9aacc48ed7bb,mine.healthcare,available,93.98,111.98,high
 4c610ba2-8979-4339-93f7-c0c45a665075,mineral.dog,available,5.98,86.98,high,low,7,namecheap,,,08/09/2026 16:39
 db1d9a62-bde2-4bfc-83fe-5c5794a027b2,mineral.soccer,available,25.99,25.99,high,low,7,namesilo,,,08/09/2026 16:39
 40455760-8525-4591-82bc-bc98a0e78997,excavation.science,available,11.99,11.99,high,low,10,namesilo,,,20/09/2026 01:55
-e574c279-620f-4dd7-9f23-d6293a930c86,exploring.at,available,,,high,high,9,,,,
+e574c279-620f-4dd7-9f23-d6293a930c86,exploring.at,available,11.99,11.99,high,high,9,namesilo,,,27/09/2026 06:28
 f171fcd0-d16c-4602-a60a-3420328b76de,excavation.gifts,available,36.99,36.99,high,low,10,namesilo,,,20/09/2026 01:55
 a1aee3e8-5fa8-47b6-8f64-16375c8c8bab,excavation.guide,available,41.49,41.49,high,low,10,namesilo,,,20/09/2026 01:55
 a64502ca-4e15-4b30-a000-d77e4657eb8c,excavation.juegos,available,368.98,478.98,high,low,10,namecheap,,,20/09/2026 01:55
@@ -658,6 +659,7 @@ abfb670d-94ad-458b-b7ff-f047a96a8e51,mineral.plus,resell,,,high,low,7,"DNSPod, I
 b79c4b93-a0f6-43fb-a2ee-ab156327bc67,mine.hamburg,available,69.98,73.98,high,low,4,namecheap,,,25/09/2026 09:26
 6ceb10b0-ff1b-4cc5-a808-efd8a5f4518a,pit.site,premium,3450,3450,high,low,3,namesilo,,,24/09/2026 13:22
 8c529668-1f9c-42f2-a526-b420a4f99674,mine.claims,available,17.99,64.99,high,low,4,namesilo,,,25/09/2026 09:26
+d10850f2-f7e7-4c78-9e68-a6b563a599fb,digging.builders,available,35.99,35.99,high,low,7,namesilo,,,27/09/2026 13:02
 c95719fc-8074-41b7-8fb9-e22eaf632db5,pit.archi,available,14.98,132.98,high,low,3,namecheap,,,24/09/2026 13:22
 92b3d6a8-0ee3-4b62-b451-f50780ffdc8c,excavation.rentals,available,10.99,44.49,high,low,10,namesilo,,,20/09/2026 01:55
 53524d7f-c48a-45c8-ac34-60ce3be5547d,mineral.restaurant,available,11.98,81.98,high,low,7,namecheap,,,08/09/2026 16:39
@@ -755,7 +757,7 @@ ee539626-5df9-4ec4-a09b-6990b57a4fcc,excavation.healthcare,available,88.99,88.99
 a616a034-6bc3-400a-82ef-d2c0d5aab130,mineral.melbourne,available,44.98,53.98,high,low,7,namecheap,,,08/09/2026 16:39
 3af8697a-c7c0-4d3d-802b-a3955dd427e1,pit.express,premium,38.94,38.94,high,low,3,namesilo,,,24/09/2026 13:22
 fce26eda-8a42-45d8-ad5a-1d9e70580f81,gold.investments,premium,512,512,high,medium,4,namesilo,,,22/09/2026 03:56
-17a6974d-084e-4676-8bb8-8cca7138a31c,elements.expert,available,,,high,high,8,,,,
+17a6974d-084e-4676-8bb8-8cca7138a31c,elements.expert,resell,,,high,high,8,,,,27/09/2026 05:52
 71b19cc8-7c91-4322-b000-d4b752cba443,minerals.ninja,available,,,high,medium,8,,,,
 18b23849-0b8d-4249-a034-fa61580db353,pit.auction,available,36.99,36.99,high,low,3,namesilo,,,24/09/2026 13:22
 f9fd43cd-d6be-4276-9b52-1a4d269e381e,mine.phd,premium,427.7,427.7,high,low,4,namecheap,,,25/09/2026 09:26
@@ -808,6 +810,7 @@ c1c8e686-63e6-4e69-b9c7-d487f36132f6,metal.market,premium,520,520,high,low,5,nam
 89645638-bd53-4c48-955f-5b2cf565b2a7,mine.soy,premium,198.75,198.75,high,low,4,name.com,,,25/09/2026 09:26
 f4236e82-80c3-4836-88e5-0ee38386d611,mineral.ski,available,27.99,64.99,high,low,7,namesilo,,,08/09/2026 16:39
 eb97faa6-694e-4b4c-b202-5aa30564a228,excavation.racing,available,11.99,11.99,high,low,10,namesilo,,,20/09/2026 01:55
+cb26363e-6ce9-4d96-ab41-7069b2cd7092,digging.build,available,26.97,26.97,high,low,7,dynadot,,,27/09/2026 13:02
 43defd0a-9ddf-4cfa-8275-793fee7e8b4d,mineral.fail,available,38.99,38.99,high,low,7,namesilo,,,08/09/2026 16:39
 aa334b28-7534-4832-9c42-c4371df5b850,metal.cars,available,2070,2950,high,low,5,namecheap,,,25/09/2026 19:55
 ba7cb577-9143-4521-9e3b-2fcc18b0e4c9,excavation.locker,available,6.98,56.98,high,low,10,namecheap,,,20/09/2026 01:55
@@ -823,7 +826,7 @@ ee5ec744-464e-4bb2-98fd-bbf68638cc66,gold.video,premium,242,242,high,medium,4,na
 5a053645-6f4c-43b4-9cf8-bf97735d6fe9,coal.expert,available,82.48,,high,high,4,namecheap,,,
 d16c7d09-dd0c-4e29-ba6a-a101606a4887,excavation.vodka,available,32.49,32.49,high,low,10,namesilo,,,20/09/2026 01:55
 c866b8ad-8e63-45e3-a853-6ea25782fd51,metal.homes,premium,2600,2600,high,low,5,namecheap,,,25/09/2026 19:55
-753c5a01-6b3e-45a1-8e83-4e88c9d3dbe2,geology.gg,available,,,high,high,7,,,,
+753c5a01-6b3e-45a1-8e83-4e88c9d3dbe2,geology.gg,available,68.98,82.98,high,high,7,namecheap,,,27/09/2026 05:37
 c5105a5d-4294-43ab-8c9d-ca28a38019f3,metal.auto,available,2070,2950,high,low,5,namecheap,,,25/09/2026 19:55
 a9cc6afe-a18f-4e8e-a2c7-ea1e63688657,gold.cafe,resell,,,high,medium,4,"Spaceship, Inc.",31/12/2017 23:56,31/12/2026 23:56,26/09/2026 06:25
 8d7c57c7-6b7e-4c2b-86ac-a50140b991c5,mineral.charity,available,7.48,37.98,high,low,7,namecheap,,,08/09/2026 16:39
@@ -834,6 +837,7 @@ a9cc6afe-a18f-4e8e-a2c7-ea1e63688657,gold.cafe,resell,,,high,medium,4,"Spaceship
 93e42618-f4d7-44df-bd11-3332aeea39a1,gold.mortgage,premium,242,242,high,medium,4,namesilo,,,22/09/2026 03:56
 f799361e-3a46-46cb-a047-c4dd70a873c8,prospecting.space,available,,,high,high,11,,,,
 5309ee3d-35f0-4440-8a3f-f288449a194d,dig.vacations,premium,118.8,118.8,high,low,3,namesilo,,,24/09/2026 23:51
+a621db98-b894-422c-b7bb-6968822a7114,digging.industries,available,47.98,58.98,high,low,7,namecheap,,,27/09/2026 13:02
 cd25c873-92a5-4ce6-928d-6c2914a8c0a6,excavation.broker,available,11.98,47.98,high,low,10,namecheap,,,20/09/2026 01:55
 d3e14499-8efd-475a-b4ea-2d73db34ffdb,metal.viajes,available,43.98,57.98,high,low,5,namecheap,,,25/09/2026 19:55
 de92fe6d-cdc9-4edf-886d-9838271574df,metal.fund,resell,,,high,low,5,"DNSPod, Inc.",01/12/2022 15:15,01/12/2031 15:15,26/09/2026 07:31
@@ -852,7 +856,7 @@ d3c9694d-ecec-447e-816f-ee1946fee86c,pit.shoes,available,34.98,81.98,high,low,3,
 63ea8cdd-7592-42f1-9db2-32bf3bcee8c7,metal.buzz,premium,520,130,high,low,5,namecheap,,,25/09/2026 19:55
 f5fa6729-a875-409f-aa4f-6c7669a40d64,gold.date,premium,390,65,high,medium,4,namecheap,,,22/09/2026 03:56
 53f56fa6-485f-480a-8785-721346df1854,dig.click,premium,437.5,625,high,low,3,name.com,,,24/09/2026 23:51
-a9f88826-1dfc-43ab-8a4b-44ff224b8d86,processing.tech,available,,,high,high,10,,,,
+a9f88826-1dfc-43ab-8a4b-44ff224b8d86,processing.tech,premium,325,1300,high,high,10,namecheap,,,27/09/2026 05:58
 f95dfcb6-98fa-4cec-9468-4c871dd67528,excavation.vana,available,2298,2498,high,low,10,namecheap,,,20/09/2026 01:55
 33130ff8-f06c-4fd5-b448-5bf608d3c3b2,excavation.garden,available,2.19,32.49,high,low,10,namesilo,,,20/09/2026 01:55
 11808912-91f9-493d-aa5e-5d33531d28d0,excavation.holiday,available,64.99,64.99,high,low,10,namesilo,,,20/09/2026 01:55
@@ -880,6 +884,7 @@ c9d498ef-0b1a-44b7-9ef8-12bc10c10b7e,mineral.desi,available,19.98,22.98,high,low
 b1e5dabe-3bbf-4208-97eb-9f1edb8311da,mineral.community,available,45.99,45.99,high,low,7,namesilo,,,08/09/2026 16:39
 014386d9-49d9-4b02-a6d2-4e7c0d181803,industry.ltda,premium,66.3,66.3,high,medium,8,namecheap,,,23/09/2026 16:53
 e47ec6ce-11db-433b-8623-8dbf5c147434,excavation.soy,available,28.98,39.98,high,low,10,namecheap,,,20/09/2026 01:55
+316b6bab-f702-4db3-bba5-3642c50ce7ff,digging.tech,premium,640,640,high,low,7,namesilo,,,27/09/2026 13:02
 91b10d3e-7f52-415f-8afc-046900b7dde2,dig.viajes,available,37.99,37.99,high,low,3,namesilo,,,24/09/2026 23:51
 d3b79ba6-a0d7-4d4e-bb58-16fbec6169c8,mine.associates,available,18.99,38.99,high,low,4,namesilo,,,25/09/2026 09:26
 b17d5727-3017-43d7-950b-b1219159dd0c,excavation.io,resell,,,high,low,10,"GoDaddy.com, LLC",04/02/2015 13:20,04/02/2027 13:20,26/09/2026 05:55
@@ -897,6 +902,7 @@ d2180b89-b811-4567-9c08-171e7d328087,metal.london,available,12.98,41.98,high,low
 4ffb2411-bdcb-4e83-8553-dd219a0152d1,pit.protection,available,1999.99,2049.99,high,low,3,namesilo,,,24/09/2026 13:22
 a0174780-a245-4bcb-8027-e80f1e48e711,industry.im,available,,,high,medium,8,,,,
 1125fec0-527f-453d-9e0e-4f072c82c6c2,pit.reviews,available,62.99,62.99,high,low,3,namesilo,,,24/09/2026 13:22
+fc6444d8-58bf-44fc-9c1e-bc6f1a7efacb,digging.cash,available,4.34,31.25,high,low,7,spaceship,,,27/09/2026 13:02
 93b72efe-14df-4aed-b7df-d657bb0ddd02,excavation.law,available,105.98,130.98,high,low,10,namecheap,,,20/09/2026 01:55
 62a4c499-86d4-4f3e-bb26-bf65ae66dfc5,metal.glass,premium,85.8,85.8,high,low,5,namecheap,,,25/09/2026 19:55
 8c011696-8c4b-4042-ab3d-876b91b929b7,metal.money,resell,,,high,low,5,Dynadot Inc,27/09/2018 06:39,27/09/2027 06:39,26/09/2026 07:31
@@ -914,7 +920,7 @@ c69e2b03-4067-4067-87dc-47da34854e2a,mine.dog,available,7.49,64.99,high,low,4,na
 8af178f0-5584-438c-b79c-1777aa9906fb,pit.viajes,available,43.98,57.98,high,low,3,namecheap,,,24/09/2026 13:22
 bb66a345-7dbd-4375-b233-e326a5729185,metal.horse,available,33.98,43.98,high,low,5,namecheap,,,25/09/2026 19:55
 23982d95-06d1-47af-9b0a-497e54e6d8fc,gold.vodka,resell,,,high,medium,4,"GoDaddy.com, LLC",02/06/2021 18:29,02/06/2027 18:29,26/09/2026 06:26
-4c484809-2d08-4171-bf15-e00657e0c213,resource.tech,available,,,high,high,8,,,,
+4c484809-2d08-4171-bf15-e00657e0c213,resource.tech,premium,812.5,3250,high,high,8,namecheap,,,27/09/2026 06:25
 9d6abdc4-0ae3-4c21-9ff2-f265b2f00738,metal.game,premium,1690,1690,high,low,5,namecheap,,,25/09/2026 19:55
 ac3127ca-11a6-460d-a7c8-c798ce5555b9,pit.florist,available,32.99,32.99,high,low,3,namesilo,,,24/09/2026 13:22
 cdaee387-fb32-4901-b1aa-c03695ffabef,gold.institute,resell,,,high,medium,4,"Spaceship, Inc.",05/03/2021 13:53,05/03/2027 13:53,26/09/2026 06:26
@@ -926,7 +932,7 @@ fb2b4a9b-71c9-433b-8d7a-15f941948f8c,construction.engineer,premium,1300,1300,hig
 41f90be2-ff4e-4887-902b-587ef8af29b4,exploring.dev,available,,,high,high,9,,,,
 038fdd05-a0c4-4bb3-9e8b-2863f77ac65a,excavation.berlin,available,79.98,89.98,high,low,10,namecheap,,,20/09/2026 01:55
 492780c0-6451-43f1-a4b6-6dcca14f2c68,dig.hamburg,available,69.98,73.98,high,low,3,namecheap,,,24/09/2026 23:51
-f66ce65e-26c6-4be3-ae4d-16a5babd2dfa,quarry.zone,available,,,high,high,6,,,,
+f66ce65e-26c6-4be3-ae4d-16a5babd2dfa,quarry.zone,available,12.99,38.99,high,high,6,namesilo,,,27/09/2026 05:58
 93ef96ac-0f88-4849-8ce0-70adad5370a5,pit.luxe,premium,242,17.7,high,low,3,namesilo,,,24/09/2026 13:22
 5fe95b4e-e17c-4f5f-a573-9438df8658ca,extraction.io,resell,,,high,high,10,Atom.com Domains LLC,07/08/2016 05:35,07/08/2027 05:35,26/09/2026 05:58
 1cb9fafe-f624-4392-883c-7cfde8b7aae6,unearthing.ai,available,,,high,high,10,,,,
@@ -945,10 +951,14 @@ c4a71afb-3edb-41fb-be78-4d0f3f29eea9,mineral.fyi,premium,17.7,17.7,high,low,7,na
 de4368ac-3b89-4d13-bc7e-6ea2e2befe79,metal.dental,available,81.98,100.98,high,low,5,namecheap,,,25/09/2026 19:55
 8c084e46-95e6-45ef-9c59-528941f69cbf,gold.attorney,premium,260,260,high,medium,4,namecheap,,,22/09/2026 03:56
 bf2007bc-b85c-4b69-ac92-8d1b22914510,mineral.mov,premium,167.7,167.7,high,low,7,namecheap,,,08/09/2026 16:39
+81a89d6f-ddfd-46a6-914f-3037ca141978,digging.security,available,2140.22,2140.22,high,low,7,dynadot,,,27/09/2026 13:02
+6fa62828-0cb4-4a80-b4b8-317b0176f27a,digging.cv,available,14.98,14.98,high,low,7,namecheap,,,27/09/2026 13:02
 8d7c0e4e-4744-4a77-827c-b68438fcc843,element.gripe,available,6.98,8.98,high,low,7,namecheap,,,23/09/2026 21:07
-8dbf20ea-cb10-4e5b-8543-0aed0d658234,golden.gold,resell,,,high,low,6,"DNSPod, Inc.",01/01/2017 03:25,01/01/2036 03:25,26/09/2026 06:25
+8dbf20ea-cb10-4e5b-8543-0aed0d658234,golden.gold,resell,,,high,low,6,"DNSPod, Inc.",01/01/2017 03:25,01/01/2036 03:25,27/09/2026 06:44
 3ce12f12-395c-4cc1-84d8-c0b89c9da3ff,exploring.xyz,resell,,,high,high,9,IONOS SE,27/07/2014 22:26,27/07/2027 23:59,26/09/2026 05:57
+cbe84dd7-24cd-4cb4-a358-9cb27a472360,digging.gives,available,21.7,21.7,high,low,7,cloudflare,,,27/09/2026 13:02
 52c8b5f9-0293-4557-bd20-180c89308f08,refine.luxury,available,49.99,,high,low,6,name.com,,,
+66d79080-f51a-4bf6-8576-39d6f556f29f,digging.la,available,27.99,27.99,high,low,7,namesilo,,,27/09/2026 13:02
 190753ea-b916-46a3-b0ab-307d5cc5f2f7,mine.sbs,premium,384,768,high,low,4,namesilo,,,25/09/2026 09:26
 1d8ac45c-a320-4844-acb1-d7a761877471,metal.equipment,premium,128.7,128.7,high,low,5,namecheap,,,25/09/2026 19:55
 70aa74ac-7cc3-41d7-844b-b387f5daaf73,dig.law,premium,6292.8,96,high,low,3,namesilo,,,24/09/2026 23:51
@@ -964,7 +974,8 @@ f20b67f7-4325-40fe-a8be-0d4716a0c697,dig.gay,premium,116,116,high,low,3,namesilo
 68d70a4e-64b7-45c2-bfd3-bc5f3b80ce59,mineral.rsvp,premium,76.7,76.7,high,low,7,namecheap,,,08/09/2026 16:39
 f326d28a-bb80-4a80-8cdf-553f610bf909,mine.catering,available,40.98,48.98,high,low,4,namecheap,,,25/09/2026 09:26
 bd80e996-513e-4876-887e-a43c30de2e78,gold.travel,resell,,,high,medium,4,"Global Domains International, Inc. DBA DomainCostClub.com",07/03/2026 15:15,07/03/2027 15:15,26/09/2026 06:26
-3af97f5a-e563-436d-906c-231d93faa84b,gemstone.store,available,,,high,high,8,,,,
+7b9bba49-47eb-4d61-b566-1c2ec33b7572,digging.buzz,available,2.19,27.99,high,low,7,namesilo,,,27/09/2026 13:02
+3af97f5a-e563-436d-906c-231d93faa84b,gemstone.store,premium,1107,1107,high,high,8,namesilo,,,27/09/2026 05:51
 80b3a6b0-14ac-48d5-a92e-8f50f618c751,element.run,resell,,,high,low,7,"Global Domains International, Inc. DBA DomainCostClub.com",03/03/2026 15:15,03/03/2027 15:15,26/09/2026 05:47
 fdd5c6c9-0c80-4af6-9121-467a300f0db5,metal.guru,resell,,,high,low,5,"GoDaddy.com, LLC",04/02/2014 18:30,04/02/2027 18:30,26/09/2026 07:31
 4fce9161-68e8-445a-a779-2f25520cdc2a,mineral.gripe,available,6.98,8.98,high,low,7,namecheap,,,08/09/2026 16:39
@@ -974,6 +985,7 @@ b099fdd7-5c6e-44b2-bf02-5f7af04a229f,earth.expert,premium,854,854,high,medium,5,
 59913c51-eee9-4faa-8cee-01734a366a50,golden.condos,premium,242,242,high,low,6,namesilo,,,18/08/2026 23:35
 68f692d1-0e84-4216-b8a0-55fee2f81017,pit.forum,premium,650,650,high,low,3,namecheap,,,24/09/2026 13:22
 729dab30-02d8-4086-b0ee-754cbde9f875,mine.voyage,available,58.99,58.99,high,low,4,namesilo,,,25/09/2026 09:26
+e5d4bd7b-bf44-487d-b939-b6f93ac0711c,digging.international,available,12.99,31.49,high,low,7,namesilo,,,27/09/2026 13:02
 52938be6-a9fa-4fa9-b7fc-e5733d29d864,excavation.theatre,available,509.99,529.99,high,low,10,namesilo,,,20/09/2026 01:55
 991a446c-aff9-4d1c-b5e4-7abcf6ecc6ed,dig.doctor,available,14.99,151.99,high,low,3,name.com,,,24/09/2026 23:51
 f23b374a-f9a1-4929-b644-dedcbd96ec1c,dig.yachts,available,1.8,21.98,high,low,3,namecheap,,,24/09/2026 23:51
@@ -983,19 +995,7 @@ f23b374a-f9a1-4929-b644-dedcbd96ec1c,dig.yachts,available,1.8,21.98,high,low,3,n
 347fe315-7143-45f4-b607-c5da51f51eca,excavation.exchange,available,12.99,38.99,high,low,10,namesilo,,,20/09/2026 01:55
 1239c6da-5d18-4f0e-bb96-587db1bcfbd4,element.surgery,available,57.98,68.98,high,low,7,namecheap,,,23/09/2026 21:07
 f7cfafcc-6ff7-4d7e-8d69-732b77e99b80,mineral.study,premium,53.92,53.92,high,low,7,namesilo,,,08/09/2026 16:39
+4cf665cf-c92f-434a-b1d1-29b30e018e62,digging.dev,available,8.48,12.62,high,low,7,spaceship,,,27/09/2026 13:02
 d90b6caf-fe23-4760-8bc7-fe9965b719ca,mine.coach,available,17.99,77.99,high,low,4,namesilo,,,25/09/2026 09:26
+38494414-6d83-44ee-b890-7b0718e32472,digging.legal,available,57.13,57.13,high,low,7,spaceship,,,27/09/2026 13:02
 eaeede0c-0584-4708-9d83-03a337ef3fac,metal.locker,premium,6500,39,high,low,5,namecheap,,,25/09/2026 19:55
-6f802b7d-f28b-47ea-b706-c3c69df821f1,element.website,premium,650,1300,high,low,7,namecheap,,,23/09/2026 21:07
-164bc9a3-87d8-4de0-be1a-957c7649d725,mine.ing,premium,845,845,high,low,4,namecheap,,,25/09/2026 09:26
-8591808a-1dbf-4c7b-ac3c-3f684caf929c,mineral.haus,available,11.98,37.98,high,low,7,namecheap,,,08/09/2026 16:39
-bba96b41-a78f-419f-bfaa-f9e1226ce9b6,element.observer,premium,32.5,32.5,high,low,7,namecheap,,,23/09/2026 21:07
-d68e259e-ac9c-4cce-8acc-1c116ccc2e2f,extraction.us,resell,,,high,high,10,"GoDaddy.com, LLC",17/06/2004 01:19,16/06/2027 23:59,26/09/2026 05:58
-d6e5c009-fb70-4b29-bd8d-6e237425fc57,excavation.accountants,available,117.99,117.99,high,low,10,namesilo,,,20/09/2026 01:55
-9d6bbc7a-945f-4226-995e-d53d8dcc1c3b,element.training,available,8.98,53.98,high,low,7,namecheap,,,23/09/2026 21:07
-fc224fd5-edc2-4df7-8038-bf82cdb0fabb,mine.diy,premium,302.5,302.5,high,low,4,namesilo,,,25/09/2026 09:26
-6265ff18-4a7a-4f1d-8bf2-994ff9c5d46d,element.eco,premium,4535.05,74.75,high,low,7,namecheap,,,23/09/2026 21:07
-19aedc7a-718f-4ac4-aa36-0f989d17068c,ironstone.ninja,available,,,high,high,9,,,,
-2be2915a-3d34-4871-b4e6-de7fe29a5ca3,gold.phd,premium,1688.7,1688.7,high,medium,4,namecheap,,,22/09/2026 03:56
-89310418-8ca0-405a-a053-a420763089bf,mineral.bayern,available,34.99,34.99,high,low,7,namesilo,,,08/09/2026 16:39
-cf550c25-d1c6-49b9-99c2-c27c38459b5d,refined.luxe,premium,96,17.7,high,medium,7,namesilo,,,09/09/2026 12:36
-3dbef8d2-2a5d-48d7-8534-8dc8f67c8aa8,mineral.cricket,premium,448,53.92,high,low,7,namesilo,,,08/09/2026 16:39
