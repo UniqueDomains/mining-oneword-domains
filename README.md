@@ -1,10 +1,10 @@
-# One-Word Mining Domain Names Across 506 TLDs (58,836)
+# One-Word Mining Domain Names Across 506 TLDs (61,525)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-58%2C836%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-61%2C525%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This set includes 113,503 one-word domain names related to mining, spanning 506 different TLDs. The median ask is around $656. Updated daily, it offers a wide range of extensions and price points for evaluating mining-related domain names.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **58,836 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **61,525 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 58,836 domains · **Median ask:** $320.56 · **High-demand under $2,500:** 15
+**Public extract:** 1,000 rows · **Live catalog:** 61,525 domains · **Median ask:** $310.33 · **High-demand under $2,500:** 14
 
-**Last updated:** 2026-10-03
+**Last updated:** 2026-10-04
 **Canonical page:** `https://unique.domains/domains/sector/mining`
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | mining.health   | resell    | $19.99    | —             | high           | low    | 6      | name.com         |
 | dig.cloud       | premium   | $2,500    | $2,500        | high           | low    | 3      | name.com         |
 | dig.dentist     | available | $65.99    | $65.99        | high           | low    | 3      | namesilo         |
-| mining.homes    | resell    | $1.99     | —             | high           | low    | 6      | name.com         |
+| mining.homes    | resell    | $1.99     | —             | high           | low    | 6      | Namecheap        |
 | dig.london      | premium   | $677.80   | $31.25        | high           | low    | 3      | namesilo         |
 | dig.florist     | available | $32.99    | $32.99        | high           | low    | 3      | namesilo         |
 | mining.xxx      | resell    | $154.98   | —             | high           | low    | 6      | namecheap        |
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 58,836 live domains                                  |
+| 1,000-row public sample | 61,525 live domains                                  |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 15 high-demand names under $2,500                    |
+| Basic exported fields   | 14 high-demand names under $2,500                    |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Mining Domain Names Across 506 TLDs*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Mining Domain Names Across 506 TLDs*. Version 2026-10-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
