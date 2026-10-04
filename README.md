@@ -1,10 +1,10 @@
-# One-Word Mining Domain Names Across 506 TLDs (56,498)
+# One-Word Mining Domain Names Across 506 TLDs (58,836)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-56%2C498%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-58%2C836%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This set includes 113,503 one-word domain names related to mining, spanning 506 different TLDs. The median ask is around $656. Updated daily, it offers a wide range of extensions and price points for evaluating mining-related domain names.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **56,498 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **58,836 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 56,498 domains · **Median ask:** $331.56 · **High-demand under $2,500:** 15
+**Public extract:** 1,000 rows · **Live catalog:** 58,836 domains · **Median ask:** $320.56 · **High-demand under $2,500:** 15
 
 **Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/sector/mining`
@@ -25,7 +25,7 @@ This set includes 113,503 one-word domain names related to mining, spanning 506 
 <p align="center">
   <a href="https://unique.domains/domains/sector/mining?utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./mining.csv">CSV</a> / <a href="./mining.json">JSON</a>
-  · <a href="https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=top_methodology"><b>📖 Glossary</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| mining.loan   | premium   | $640      | $77.35        | high           | low    | 6      | namesilo         |
-| dig.forex     | available | $11.98    | $133.98       | high           | low    | 3      | namecheap        |
-| mining.health | resell    | $19.99    | —             | high           | low    | 6      | name.com         |
-| dig.directory | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo         |
-| dig.shiksha   | available | $19.99    | $74.99        | high           | low    | 3      | name.com         |
-| mining.homes  | resell    | $1.99     | —             | high           | low    | 6      | name.com         |
-| dig.exchange  | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
-| dig.voto      | available | $19.99    | $102.99       | high           | low    | 3      | name.com         |
-| mining.xxx    | resell    | $154.98   | —             | high           | low    | 6      | namecheap        |
-| dig.parts     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| ore.ag        | available | $89.99    | $79.99        | high           | low    | 3      | namesilo         |
-| extraction.gg | resell    | $82.98    | —             | high           | low    | 10     | namecheap        |
-| dig.soy       | premium   | $98.75    | $98.75        | high           | low    | 3      | name.com         |
-| ore.autos     | available | $1.54     | $14.21        | high           | low    | 3      | porkbun          |
-| dig.best      | resell    | —         | —             | high           | low    | 3      | Key-Systems, LLC |
-| ore.boston    | premium   | $40.50    | —             | high           | low    | 3      | unstoppable      |
-| ore.bargains  | available | $13.14    | $23.94        | high           | low    | 3      | spaceship        |
-| ore.asia      | resell    | —         | —             | high           | low    | 3      | —                |
-| ore.build     | premium   | $165      | $165          | high           | low    | 3      | dynadot          |
-| ore.beauty    | available | $1.99     | $17.29        | high           | low    | 3      | namesilo         |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| mining.loan     | premium   | $640      | $77.35        | high           | low    | 6      | namesilo         |
+| dig.cheap       | available | $8.99     | $36.49        | high           | low    | 3      | namesilo         |
+| mining.health   | resell    | $19.99    | —             | high           | low    | 6      | name.com         |
+| dig.cloud       | premium   | $2,500    | $2,500        | high           | low    | 3      | name.com         |
+| dig.dentist     | available | $65.99    | $65.99        | high           | low    | 3      | namesilo         |
+| mining.homes    | resell    | $1.99     | —             | high           | low    | 6      | name.com         |
+| dig.london      | premium   | $677.80   | $31.25        | high           | low    | 3      | namesilo         |
+| dig.florist     | available | $32.99    | $32.99        | high           | low    | 3      | namesilo         |
+| mining.xxx      | resell    | $154.98   | —             | high           | low    | 6      | namecheap        |
+| ore.attorney    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| dig.game        | available | $310.98   | $547.98       | high           | low    | 3      | namecheap        |
+| ore.world       | resell    | —         | —             | high           | low    | 3      | —                |
+| ore.beer        | premium   | $41.60    | $26.08        | high           | low    | 3      | spaceship        |
+| dig.lease       | available | $56.99    | $56.99        | high           | low    | 3      | namesilo         |
+| ore.zone        | resell    | —         | —             | high           | low    | 3      | —                |
+| ore.bid         | premium   | $640      | $77.35        | high           | low    | 3      | namesilo         |
+| dig.mba         | available | $19.99    | $50.99        | high           | low    | 3      | name.com         |
+| pit.ai          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| ore.blackfriday | premium   | $310.70   | $310.70       | high           | low    | 3      | spaceship        |
+| dig.moe         | available | $19.99    | $23.99        | high           | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 56,498 live domains                                  |
+| 1,000-row public sample | 58,836 live domains                                  |
 | Static CSV / JSON       | live search and daily refresh                        |
 | Basic exported fields   | 15 high-demand names under $2,500                    |
 | No persistence          | Radar, saved search, and alerts                      |
@@ -152,7 +152,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 ## 🔗 Related links
 
 - [Live search](https://unique.domains/domains/sector/mining?utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=top_open_search)
-- [How the data is built](https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=top_methodology)
+- [Glossary](https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_mining_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
