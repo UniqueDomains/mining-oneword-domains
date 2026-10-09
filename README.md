@@ -1,10 +1,10 @@
-# One-Word Mining Domain Names Across 506 TLDs (66,202)
+# One-Word Mining Domain Names Across 506 TLDs (66,452)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-66%2C202%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-66%2C452%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This set includes 113,503 one-word domain names related to mining, spanning 506 different TLDs. The median ask is around $656. Updated daily, it offers a wide range of extensions and price points for evaluating mining-related domain names.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **66,202 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **66,452 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 66,202 domains · **Median ask:** $293.01 · **High-demand under $2,500:** 18
+**Public extract:** 1,000 rows · **Live catalog:** 66,452 domains · **Median ask:** $292.51 · **High-demand under $2,500:** 19
 
 **Last updated:** 2026-10-08
 **Canonical page:** `https://unique.domains/domains/sector/mining`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| mining.soy    | premium   | $81.97    | $81.97        | high           | low    | 6      | spaceship        |
-| mining.loan   | premium   | $640      | $77.35        | high           | low    | 6      | namesilo         |
-| dig.democrat  | available | $7.25     | $32.99        | high           | low    | 3      | namesilo         |
-| mining.health | resell    | $19.99    | —             | high           | low    | 6      | Dynadot Inc      |
-| dig.dad       | premium   | $167.70   | $167.70       | high           | low    | 3      | namecheap        |
-| dig.luxury    | available | $49.99    | $49.99        | high           | low    | 3      | name.com         |
-| mining.homes  | resell    | $1.99     | —             | high           | low    | 6      | Spaceship, Inc.  |
-| dig.inc       | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo         |
-| dig.realty    | available | $179.99   | $349.99       | high           | low    | 3      | name.com         |
-| mining.xxx    | resell    | $154.98   | —             | high           | low    | 6      | GoDaddy.com, LLC |
-| dig.lighting  | premium   | $26       | $26           | high           | low    | 3      | namecheap        |
-| dig.recipes   | available | $8.99     | $77.99        | high           | low    | 3      | namesilo         |
-| ore.bio       | resell    | —         | —             | high           | low    | 3      | —                |
-| dig.pro       | premium   | $1,250    | $1,250        | high           | low    | 3      | name.com         |
-| dig.theater   | available | $65.99    | $65.99        | high           | low    | 3      | namesilo         |
-| ore.world     | resell    | —         | —             | high           | low    | 3      | —                |
-| ore.attorney  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| dig.tickets   | available | $359.99   | $488.88       | high           | low    | 3      | namesilo         |
-| pit.ai        | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| ore.beer      | premium   | $41.60    | $26.08        | high           | low    | 3      | spaceship        |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| mining.soy       | premium   | $81.97    | $81.97        | high           | low    | 6      | spaceship                                           |
+| mining.loan      | premium   | $640      | $77.35        | high           | low    | 6      | namesilo                                            |
+| dig.dental       | available | $78.99    | $78.99        | high           | low    | 3      | namesilo                                            |
+| mining.health    | resell    | $19.99    | —             | high           | low    | 6      | Dynadot Inc                                         |
+| dig.build        | premium   | $1,950    | $1,950        | high           | low    | 3      | namecheap                                           |
+| dig.solar        | available | $64.99    | $64.99        | high           | low    | 3      | namesilo                                            |
+| mining.homes     | resell    | $1.99     | —             | high           | low    | 6      | Spaceship, Inc.                                     |
+| dig.builders     | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap                                           |
+| ore.academy      | available | $8.48     | $59.98        | high           | low    | 3      | namecheap                                           |
+| mining.xxx       | resell    | $154.98   | —             | high           | low    | 6      | GoDaddy.com, LLC                                    |
+| dig.chat         | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                            |
+| ore.archi        | available | $19.99    | $103.99       | high           | low    | 3      | namesilo                                            |
+| extraction.gg    | resell    | $82.98    | —             | high           | low    | 10     | namecheap                                           |
+| dig.construction | premium   | $82.50    | $82.50        | high           | low    | 3      | name.com                                            |
+| ore.audio        | available | $93.35    | $103.40       | high           | low    | 3      | spaceship                                           |
+| dig.gold         | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| dig.contractors  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                            |
+| ore.best         | available | $2.35     | $22.99        | high           | low    | 3      | namesilo                                            |
+| ore.gold         | resell    | —         | —             | high           | low    | 3      | —                                                   |
+| dig.cyou         | premium   | $390      | $780          | high           | low    | 3      | namecheap                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 66,202 live domains                                  |
+| 1,000-row public sample | 66,452 live domains                                  |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 18 high-demand names under $2,500                    |
+| Basic exported fields   | 19 high-demand names under $2,500                    |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
