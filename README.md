@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| mining.soy     | premium   | $81.97    | $81.97        | high           | low    | 6      | spaceship        |
-| mining.loan    | premium   | $517.70   | $67.48        | high           | low    | 6      | spaceship        |
-| dig.cab        | available | $32.99    | $32.99        | high           | medium | 3      | namesilo         |
-| mining.health  | resell    | $19.99    | —             | high           | low    | 6      | Dynadot Inc      |
-| dig.casa       | premium   | $100      | $23.99        | high           | medium | 3      | name.com         |
-| dig.luxury     | available | $49.99    | $49.99        | high           | medium | 3      | name.com         |
-| mining.homes   | resell    | $1.99     | —             | high           | low    | 6      | Spaceship, Inc.  |
-| ore.accountant | premium   | $640      | $77.35        | high           | low    | 3      | namesilo         |
-| dig.ong        | available | $18.98    | $24.98        | high           | medium | 3      | namecheap        |
-| mining.xxx     | resell    | $154.98   | —             | high           | low    | 6      | GoDaddy.com, LLC |
-| ore.auction    | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
-| dig.surgery    | available | $54.99    | $54.99        | high           | medium | 3      | namesilo         |
-| ore.bio        | resell    | —         | —             | high           | low    | 3      | —                |
-| ore.bid        | premium   | $640      | $77.35        | high           | low    | 3      | namesilo         |
-| dig.tips       | available | $14.99    | $39.99        | high           | medium | 3      | name.com         |
-| ore.one        | resell    | —         | —             | high           | low    | 3      | —                |
-| ore.blog       | premium   | $137.50   | $550          | high           | low    | 3      | dynadot          |
-| dig.vana       | available | $2,298    | $2,498        | high           | medium | 3      | namecheap        |
-| ore.world      | resell    | —         | —             | high           | low    | 3      | —                |
-| ore.builders   | premium   | $68.51    | $68.51        | high           | low    | 3      | spaceship        |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| mining.soy    | premium   | $81.97    | $81.97        | high           | low    | 6      | spaceship           |
+| mining.loan   | premium   | $517.70   | $67.48        | high           | low    | 6      | spaceship           |
+| dig.desi      | available | $19.98    | $22.98        | high           | medium | 3      | namecheap           |
+| mining.health | resell    | $19.99    | —             | high           | low    | 6      | Dynadot Inc         |
+| dig.click     | premium   | $437.50   | $625          | high           | medium | 3      | name.com            |
+| dig.doctor    | available | $14.99    | $151.99       | high           | medium | 3      | name.com            |
+| mining.homes  | resell    | $1.99     | —             | high           | low    | 6      | Spaceship, Inc.     |
+| dig.fun       | premium   | $6,900    | $6,900        | high           | medium | 3      | namesilo            |
+| dig.football  | available | $25.99    | $25.99        | high           | medium | 3      | namesilo            |
+| mining.xxx    | resell    | $154.98   | —             | high           | low    | 6      | GoDaddy.com, LLC    |
+| dig.gay       | premium   | $116      | $116          | high           | medium | 3      | namesilo            |
+| dig.hamburg   | available | $69.98    | $73.98        | high           | medium | 3      | namecheap           |
+| ore.zone      | resell    | —         | —             | high           | low    | 3      | —                   |
+| dig.law       | premium   | $6,292.80 | $96           | high           | medium | 3      | namesilo            |
+| dig.navy      | available | $42.99    | $52.99        | high           | medium | 3      | name.com            |
+| coal.ai       | resell    | —         | —             | high           | low    | 4      | Porkbun LLC         |
+| dig.online    | premium   | $6,900    | $6,900        | high           | medium | 3      | namesilo            |
+| dig.viajes    | available | $37.99    | $37.99        | high           | medium | 3      | namesilo            |
+| coal.org      | resell    | —         | —             | high           | low    | 4      | Global Village GmbH |
+| dig.surf      | premium   | $512      | $29.50        | high           | medium | 3      | namesilo            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
